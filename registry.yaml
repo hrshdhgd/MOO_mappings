@@ -1,0 +1,44 @@
+mapping_registry_id: https://w3id.org/sssom/commons/monarch
+documentation: https://github.com/monarch-initiative/boomer-workflow
+homepage: https://github.com/monarch-initiative/boomer-workflow
+
+config:
+  boomer_style: config/boomer-style.json
+  boomer_config:
+    runs:
+      - id: all
+        window_count: 1000
+        runs: 1
+        mappings:
+          - mondo_exactmatch_icd10cm.sssom.tsv
+          - mondo_exactmatch_omim.sssom.tsv
+          - mondo_exactmatch_orphanet.sssom.tsv
+          - mondo.sssom.tsv
+
+mapping_registry:
+  mapping_registry_id: https://w3id.org/sssom/commons/monarch/icd10-mondo-alignment
+  imports:
+    - id: https://w3id.org/sssom/commons/monarch
+      registry_url: https://raw.githubusercontent.com/monarch-initiative/monarch-mapping-commons/d08bd150cdadffb02c59c86d427c6605aa47a3af/registry.yaml
+
+  mapping_set_references:
+    - mapping_set_id: http://purl.obolibrary.org/obo/mondo/mappings/mondo_exactmatch_icd10cm.sssom.tsv
+      local_name: mondo_exactmatch_icd10cm.sssom.tsv
+      mirror_from: https://raw.githubusercontent.com/monarch-initiative/mondo/master/src/ontology/mappings/mondo_exactmatch_icd10cm.sssom.tsv
+      registry_confidence: 0.99
+
+    - mapping_set_id: http://purl.obolibrary.org/obo/mondo/mappings/mondo_exactmatch_omim.sssom.tsv
+      mirror_from: https://raw.githubusercontent.com/monarch-initiative/mondo/master/src/ontology/mappings/mondo_exactmatch_omim.sssom.tsv
+      local_name: mondo_exactmatch_omim.sssom.tsv
+      registry_confidence: 0.8
+
+    - mapping_set_id: http://purl.obolibrary.org/obo/mondo/mappings/mondo_exactmatch_orphanet.sssom.tsv
+      local_name: mondo_exactmatch_orphanet.sssom.tsv
+      mirror_from: https://raw.githubusercontent.com/monarch-initiative/mondo/master/src/ontology/mappings/mondo_exactmatch_orphanet.sssom.tsv
+      registry_confidence: 0.99
+      
+    - mapping_set_id: http://purl.obolibrary.org/obo/mondo/mappings/mondo.sssom.tsv
+      local_name: mondo.sssom.tsv
+      mirror_from: https://raw.githubusercontent.com/monarch-initiative/mondo/master/src/ontology/mappings/mondo.sssom.tsv
+      registry_confidence: 0.99
+
