@@ -6,8 +6,8 @@ BOOMER_OUTPUT=boomer_output
 #####################
 ## Mappings #########
 #####################
-dirs: 
-	mkdir -p $(TMP) $(MAPPINGS_DIR) $(BOOMER_INPUT) $(BOOMER_OUTPUT) 
+dirs: $(TMP) $(MAPPINGS_DIR) $(BOOMER_INPUT) $(BOOMER_OUTPUT)
+	mkdir -p $@ 
 
 ALL_MAPPINGS=$(MAPPINGS_DIR)/mondo_exactmatch_icd10cm.sssom.tsv $(MAPPINGS_DIR)/mondo_exactmatch_omim.sssom.tsv $(MAPPINGS_DIR)/mondo_exactmatch_orphanet.sssom.tsv # $(MAPPINGS_DIR)/mondo.sssom.tsv 
 
@@ -63,8 +63,6 @@ sssom:
 EXCLUDE_JSON= singletons.json
 JSONS=$(wildcard boomer_output/*.json)
 PNGS=$(patsubst %.json, %.png, $(JSONS))
-
-$(BOOMER_OUTPUT)/%.json: boomer_output
 
 %.dot: %.json
 	og2dot.js -s $(CONFIG_DIR)/boomer-style.json $< >$@ 

@@ -20,8 +20,8 @@
 
 ## [ICD10CM:G47.11](http://apps.who.int/classifications/icd10/browse/2010/en#/G47.11) [MONDO:0016451](http://purl.obolibrary.org/obo/MONDO_0016451) [Orphanet:228315](http://www.orpha.net/ORDO/Orphanet_228315)
 
-- [MONDO:0016451](http://purl.obolibrary.org/obo/MONDO_0016451) EquivalentTo [ICD10CM:G47.11](http://apps.who.int/classifications/icd10/browse/2010/en#/G47.11)	(most probable)	0.99
 - [MONDO:0016451](http://purl.obolibrary.org/obo/MONDO_0016451) EquivalentTo [Orphanet:228315](http://www.orpha.net/ORDO/Orphanet_228315)	(most probable)	0.99
+- [MONDO:0016451](http://purl.obolibrary.org/obo/MONDO_0016451) EquivalentTo [ICD10CM:G47.11](http://apps.who.int/classifications/icd10/browse/2010/en#/G47.11)	(most probable)	0.99
 
 ## [MONDO:0007316](http://purl.obolibrary.org/obo/MONDO_0007316) [OMIM:118420](https://omim.org/entry/118420) [Orphanet:268882](http://www.orpha.net/ORDO/Orphanet_268882)
 
@@ -35,15 +35,15 @@
 
 ## [ICD10CM:D89.810](http://apps.who.int/classifications/icd10/browse/2010/en#/D89.810) [MONDO:0020546](http://purl.obolibrary.org/obo/MONDO_0020546) [Orphanet:99920](http://www.orpha.net/ORDO/Orphanet_99920)
 
-- [MONDO:0020546](http://purl.obolibrary.org/obo/MONDO_0020546) EquivalentTo [Orphanet:99920](http://www.orpha.net/ORDO/Orphanet_99920)	(most probable)	0.99
 - [MONDO:0020546](http://purl.obolibrary.org/obo/MONDO_0020546) EquivalentTo [ICD10CM:D89.810](http://apps.who.int/classifications/icd10/browse/2010/en#/D89.810)	(most probable)	0.99
+- [MONDO:0020546](http://purl.obolibrary.org/obo/MONDO_0020546) EquivalentTo [Orphanet:99920](http://www.orpha.net/ORDO/Orphanet_99920)	(most probable)	0.99
 
 ## [Blau syndrome](http://www.orpha.net/ORDO/Orphanet_90340) [MONDO:0008523](http://purl.obolibrary.org/obo/MONDO_0008523) [OMIM:186580](https://omim.org/entry/186580) [OMIM:609464](https://omim.org/entry/609464) [Orphanet:90341](http://www.orpha.net/ORDO/Orphanet_90341)
 
-- [MONDO:0008523](http://purl.obolibrary.org/obo/MONDO_0008523) SiblingOf [OMIM:186580](https://omim.org/entry/186580)		0.09999999999999998
-- [MONDO:0008523](http://purl.obolibrary.org/obo/MONDO_0008523) EquivalentTo [OMIM:609464](https://omim.org/entry/609464)	(most probable)	0.8
-- [MONDO:0008523](http://purl.obolibrary.org/obo/MONDO_0008523) SiblingOf [Blau syndrome](http://www.orpha.net/ORDO/Orphanet_90340)		0.0050000000000000044
-- [MONDO:0008523](http://purl.obolibrary.org/obo/MONDO_0008523) EquivalentTo [Orphanet:90341](http://www.orpha.net/ORDO/Orphanet_90341)	(most probable)	0.99
+- [MONDO:0008523](http://purl.obolibrary.org/obo/MONDO_0008523) SiblingOf [OMIM:609464](https://omim.org/entry/609464)		0.09999999999999998
+- [MONDO:0008523](http://purl.obolibrary.org/obo/MONDO_0008523) EquivalentTo [OMIM:186580](https://omim.org/entry/186580)	(most probable)	0.8
+- [MONDO:0008523](http://purl.obolibrary.org/obo/MONDO_0008523) SiblingOf [Orphanet:90341](http://www.orpha.net/ORDO/Orphanet_90341)		0.0050000000000000044
+- [MONDO:0008523](http://purl.obolibrary.org/obo/MONDO_0008523) EquivalentTo [Blau syndrome](http://www.orpha.net/ORDO/Orphanet_90340)	(most probable)	0.99
 
 ## [Acroosteolysis-keloid-like lesions-premature aging syndrome](http://www.orpha.net/ORDO/Orphanet_363665) [MONDO:0011150](http://purl.obolibrary.org/obo/MONDO_0011150) [OMIM:601812](https://omim.org/entry/601812)
 
@@ -265,8 +265,8 @@
 
 ## [MONDO:0010600](http://purl.obolibrary.org/obo/MONDO_0010600) [OMIM:138990](https://omim.org/entry/138990) [OMIM:306400](https://omim.org/entry/306400)
 
-- [MONDO:0010600](http://purl.obolibrary.org/obo/MONDO_0010600) SiblingOf [OMIM:306400](https://omim.org/entry/306400)		0.09999999999999998
-- [MONDO:0010600](http://purl.obolibrary.org/obo/MONDO_0010600) EquivalentTo [OMIM:138990](https://omim.org/entry/138990)	(most probable)	0.8
+- [MONDO:0010600](http://purl.obolibrary.org/obo/MONDO_0010600) SiblingOf [OMIM:138990](https://omim.org/entry/138990)		0.09999999999999998
+- [MONDO:0010600](http://purl.obolibrary.org/obo/MONDO_0010600) EquivalentTo [OMIM:306400](https://omim.org/entry/306400)	(most probable)	0.8
 
 ## [ICD10CM:E75.0](http://apps.who.int/classifications/icd10/browse/2010/en#/E75.0) [MONDO:0017720](http://purl.obolibrary.org/obo/MONDO_0017720) [Orphanet:309152](http://www.orpha.net/ORDO/Orphanet_309152)
 
@@ -12619,8 +12619,8 @@
 
 ## [ICD10CM:G51.0](http://apps.who.int/classifications/icd10/browse/2010/en#/G51.0) [MONDO:0005665](http://purl.obolibrary.org/obo/MONDO_0005665) [Orphanet:2810](http://www.orpha.net/ORDO/Orphanet_2810)
 
-- [MONDO:0005665](http://purl.obolibrary.org/obo/MONDO_0005665) EquivalentTo [Orphanet:2810](http://www.orpha.net/ORDO/Orphanet_2810)	(most probable)	0.99
 - [MONDO:0005665](http://purl.obolibrary.org/obo/MONDO_0005665) EquivalentTo [ICD10CM:G51.0](http://apps.who.int/classifications/icd10/browse/2010/en#/G51.0)	(most probable)	0.99
+- [MONDO:0005665](http://purl.obolibrary.org/obo/MONDO_0005665) EquivalentTo [Orphanet:2810](http://www.orpha.net/ORDO/Orphanet_2810)	(most probable)	0.99
 
 ## [Autosomal recessive spastic paraplegia type 62](http://www.orpha.net/ORDO/Orphanet_401785) [MONDO:0014302](http://purl.obolibrary.org/obo/MONDO_0014302) [OMIM:615681](https://omim.org/entry/615681)
 
@@ -12629,8 +12629,8 @@
 
 ## [ICD10CM:A81.2](http://apps.who.int/classifications/icd10/browse/2010/en#/A81.2) [MONDO:0016318](http://purl.obolibrary.org/obo/MONDO_0016318) [Progressive multifocal leukoencephalopathy](http://www.orpha.net/ORDO/Orphanet_217260)
 
-- [MONDO:0016318](http://purl.obolibrary.org/obo/MONDO_0016318) EquivalentTo [Progressive multifocal leukoencephalopathy](http://www.orpha.net/ORDO/Orphanet_217260)	(most probable)	0.99
 - [MONDO:0016318](http://purl.obolibrary.org/obo/MONDO_0016318) EquivalentTo [ICD10CM:A81.2](http://apps.who.int/classifications/icd10/browse/2010/en#/A81.2)	(most probable)	0.99
+- [MONDO:0016318](http://purl.obolibrary.org/obo/MONDO_0016318) EquivalentTo [Progressive multifocal leukoencephalopathy](http://www.orpha.net/ORDO/Orphanet_217260)	(most probable)	0.99
 
 ## [ICD10CM:Q44.4](http://apps.who.int/classifications/icd10/browse/2010/en#/Q44.4) [MONDO:0018805](http://purl.obolibrary.org/obo/MONDO_0018805) [OMIM:603003](https://omim.org/entry/603003) [Orphanet:480501](http://www.orpha.net/ORDO/Orphanet_480501)
 
@@ -12651,8 +12651,8 @@
 ## [Achondroplasia](http://www.orpha.net/ORDO/Orphanet_15) [ICD10CM:Q77.4](http://apps.who.int/classifications/icd10/browse/2010/en#/Q77.4) [MONDO:0007037](http://purl.obolibrary.org/obo/MONDO_0007037) [OMIM:100800](https://omim.org/entry/100800)
 
 - [MONDO:0007037](http://purl.obolibrary.org/obo/MONDO_0007037) EquivalentTo [OMIM:100800](https://omim.org/entry/100800)	(most probable)	0.8
-- [MONDO:0007037](http://purl.obolibrary.org/obo/MONDO_0007037) EquivalentTo [ICD10CM:Q77.4](http://apps.who.int/classifications/icd10/browse/2010/en#/Q77.4)	(most probable)	0.99
 - [MONDO:0007037](http://purl.obolibrary.org/obo/MONDO_0007037) EquivalentTo [Achondroplasia](http://www.orpha.net/ORDO/Orphanet_15)	(most probable)	0.99
+- [MONDO:0007037](http://purl.obolibrary.org/obo/MONDO_0007037) EquivalentTo [ICD10CM:Q77.4](http://apps.who.int/classifications/icd10/browse/2010/en#/Q77.4)	(most probable)	0.99
 
 ## [Coats disease](http://www.orpha.net/ORDO/Orphanet_190) [MONDO:0010269](http://purl.obolibrary.org/obo/MONDO_0010269) [OMIM:300216](https://omim.org/entry/300216)
 
@@ -12697,8 +12697,8 @@
 ## [Congenital heart block](http://www.orpha.net/ORDO/Orphanet_60041) [ICD10CM:Q24.6](http://apps.who.int/classifications/icd10/browse/2010/en#/Q24.6) [MONDO:0009326](http://purl.obolibrary.org/obo/MONDO_0009326) [OMIM:234700](https://omim.org/entry/234700)
 
 - [MONDO:0009326](http://purl.obolibrary.org/obo/MONDO_0009326) EquivalentTo [OMIM:234700](https://omim.org/entry/234700)	(most probable)	0.8
-- [MONDO:0009326](http://purl.obolibrary.org/obo/MONDO_0009326) EquivalentTo [ICD10CM:Q24.6](http://apps.who.int/classifications/icd10/browse/2010/en#/Q24.6)	(most probable)	0.99
 - [MONDO:0009326](http://purl.obolibrary.org/obo/MONDO_0009326) EquivalentTo [Congenital heart block](http://www.orpha.net/ORDO/Orphanet_60041)	(most probable)	0.99
+- [MONDO:0009326](http://purl.obolibrary.org/obo/MONDO_0009326) EquivalentTo [ICD10CM:Q24.6](http://apps.who.int/classifications/icd10/browse/2010/en#/Q24.6)	(most probable)	0.99
 
 ## [MONDO:0007693](http://purl.obolibrary.org/obo/MONDO_0007693) [OMIM:139600](https://omim.org/entry/139600) [Orphanet:2220](http://www.orpha.net/ORDO/Orphanet_2220)
 
@@ -12813,8 +12813,8 @@
 
 ## [ICD10CM:B87.1](http://apps.who.int/classifications/icd10/browse/2010/en#/B87.1) [MONDO:0015622](http://purl.obolibrary.org/obo/MONDO_0015622) [Wound myiasis](http://www.orpha.net/ORDO/Orphanet_165955)
 
-- [MONDO:0015622](http://purl.obolibrary.org/obo/MONDO_0015622) EquivalentTo [ICD10CM:B87.1](http://apps.who.int/classifications/icd10/browse/2010/en#/B87.1)	(most probable)	0.99
 - [MONDO:0015622](http://purl.obolibrary.org/obo/MONDO_0015622) EquivalentTo [Wound myiasis](http://www.orpha.net/ORDO/Orphanet_165955)	(most probable)	0.99
+- [MONDO:0015622](http://purl.obolibrary.org/obo/MONDO_0015622) EquivalentTo [ICD10CM:B87.1](http://apps.who.int/classifications/icd10/browse/2010/en#/B87.1)	(most probable)	0.99
 
 ## [Autosomal recessive spastic paraplegia type 18](http://www.orpha.net/ORDO/Orphanet_209951) [MONDO:0012639](http://purl.obolibrary.org/obo/MONDO_0012639) [OMIM:611225](https://omim.org/entry/611225)
 
@@ -12870,8 +12870,8 @@
 
 ## [ICD10CM:K60.3](http://apps.who.int/classifications/icd10/browse/2010/en#/K60.3) [MONDO:0000754](http://purl.obolibrary.org/obo/MONDO_0000754) [Orphanet:228113](http://www.orpha.net/ORDO/Orphanet_228113)
 
-- [MONDO:0000754](http://purl.obolibrary.org/obo/MONDO_0000754) EquivalentTo [ICD10CM:K60.3](http://apps.who.int/classifications/icd10/browse/2010/en#/K60.3)	(most probable)	0.99
 - [MONDO:0000754](http://purl.obolibrary.org/obo/MONDO_0000754) EquivalentTo [Orphanet:228113](http://www.orpha.net/ORDO/Orphanet_228113)	(most probable)	0.99
+- [MONDO:0000754](http://purl.obolibrary.org/obo/MONDO_0000754) EquivalentTo [ICD10CM:K60.3](http://apps.who.int/classifications/icd10/browse/2010/en#/K60.3)	(most probable)	0.99
 
 ## [Autosomal recessive intermediate Charcot-Marie-Tooth disease type B](http://www.orpha.net/ORDO/Orphanet_254334) [MONDO:0013338](http://purl.obolibrary.org/obo/MONDO_0013338) [OMIM:613641](https://omim.org/entry/613641)
 
@@ -12915,8 +12915,8 @@
 
 ## [ICD10CM:L10.4](http://apps.who.int/classifications/icd10/browse/2010/en#/L10.4) [MONDO:0019323](http://purl.obolibrary.org/obo/MONDO_0019323) [Pemphigus erythematosus](http://www.orpha.net/ORDO/Orphanet_79480)
 
-- [MONDO:0019323](http://purl.obolibrary.org/obo/MONDO_0019323) EquivalentTo [ICD10CM:L10.4](http://apps.who.int/classifications/icd10/browse/2010/en#/L10.4)	(most probable)	0.99
 - [MONDO:0019323](http://purl.obolibrary.org/obo/MONDO_0019323) EquivalentTo [Pemphigus erythematosus](http://www.orpha.net/ORDO/Orphanet_79480)	(most probable)	0.99
+- [MONDO:0019323](http://purl.obolibrary.org/obo/MONDO_0019323) EquivalentTo [ICD10CM:L10.4](http://apps.who.int/classifications/icd10/browse/2010/en#/L10.4)	(most probable)	0.99
 
 ## [MONDO:0009821](http://purl.obolibrary.org/obo/MONDO_0009821) [OMIM:259775](https://omim.org/entry/259775) [Orphanet:1832](http://www.orpha.net/ORDO/Orphanet_1832)
 
@@ -13020,8 +13020,8 @@
 
 ## [Hemicrania continua](http://www.orpha.net/ORDO/Orphanet_443070) [ICD10CM:G44.51](http://apps.who.int/classifications/icd10/browse/2010/en#/G44.51) [MONDO:0018615](http://purl.obolibrary.org/obo/MONDO_0018615)
 
-- [MONDO:0018615](http://purl.obolibrary.org/obo/MONDO_0018615) EquivalentTo [Hemicrania continua](http://www.orpha.net/ORDO/Orphanet_443070)	(most probable)	0.99
 - [MONDO:0018615](http://purl.obolibrary.org/obo/MONDO_0018615) EquivalentTo [ICD10CM:G44.51](http://apps.who.int/classifications/icd10/browse/2010/en#/G44.51)	(most probable)	0.99
+- [MONDO:0018615](http://purl.obolibrary.org/obo/MONDO_0018615) EquivalentTo [Hemicrania continua](http://www.orpha.net/ORDO/Orphanet_443070)	(most probable)	0.99
 
 ## [MONDO:0009275](http://purl.obolibrary.org/obo/MONDO_0009275) [Neonatal hemochromatosis](http://www.orpha.net/ORDO/Orphanet_446) [OMIM:231100](https://omim.org/entry/231100)
 
@@ -13061,8 +13061,8 @@
 ## [Congenital alveolar capillary dysplasia](http://www.orpha.net/ORDO/Orphanet_210122) [ICD10CM:P29.3](http://apps.who.int/classifications/icd10/browse/2010/en#/P29.3) [MONDO:0009934](http://purl.obolibrary.org/obo/MONDO_0009934) [OMIM:265380](https://omim.org/entry/265380)
 
 - [MONDO:0009934](http://purl.obolibrary.org/obo/MONDO_0009934) EquivalentTo [OMIM:265380](https://omim.org/entry/265380)	(most probable)	0.8
-- [MONDO:0009934](http://purl.obolibrary.org/obo/MONDO_0009934) EquivalentTo [ICD10CM:P29.3](http://apps.who.int/classifications/icd10/browse/2010/en#/P29.3)	(most probable)	0.99
 - [MONDO:0009934](http://purl.obolibrary.org/obo/MONDO_0009934) EquivalentTo [Congenital alveolar capillary dysplasia](http://www.orpha.net/ORDO/Orphanet_210122)	(most probable)	0.99
+- [MONDO:0009934](http://purl.obolibrary.org/obo/MONDO_0009934) EquivalentTo [ICD10CM:P29.3](http://apps.who.int/classifications/icd10/browse/2010/en#/P29.3)	(most probable)	0.99
 
 ## [MONDO:0008393](http://purl.obolibrary.org/obo/MONDO_0008393) [OMIM:180849](https://omim.org/entry/180849) [Orphanet:353277](http://www.orpha.net/ORDO/Orphanet_353277)
 
@@ -13217,8 +13217,8 @@
 
 ## [ICD10CM:A20](http://apps.who.int/classifications/icd10/browse/2010/en#/A20) [MONDO:0019095](http://purl.obolibrary.org/obo/MONDO_0019095) [Plague](http://www.orpha.net/ORDO/Orphanet_707)
 
-- [MONDO:0019095](http://purl.obolibrary.org/obo/MONDO_0019095) EquivalentTo [Plague](http://www.orpha.net/ORDO/Orphanet_707)	(most probable)	0.99
 - [MONDO:0019095](http://purl.obolibrary.org/obo/MONDO_0019095) EquivalentTo [ICD10CM:A20](http://apps.who.int/classifications/icd10/browse/2010/en#/A20)	(most probable)	0.99
+- [MONDO:0019095](http://purl.obolibrary.org/obo/MONDO_0019095) EquivalentTo [Plague](http://www.orpha.net/ORDO/Orphanet_707)	(most probable)	0.99
 
 ## [MONDO:0010641](http://purl.obolibrary.org/obo/MONDO_0010641) [OMIM:308940](https://omim.org/entry/308940) [Orphanet:1018](http://www.orpha.net/ORDO/Orphanet_1018)
 
@@ -13437,13 +13437,13 @@
 
 ## [ICD10CM:M30.0](http://apps.who.int/classifications/icd10/browse/2010/en#/M30.0) [MONDO:0019170](http://purl.obolibrary.org/obo/MONDO_0019170) [Polyarteritis nodosa](http://www.orpha.net/ORDO/Orphanet_767)
 
-- [MONDO:0019170](http://purl.obolibrary.org/obo/MONDO_0019170) EquivalentTo [Polyarteritis nodosa](http://www.orpha.net/ORDO/Orphanet_767)	(most probable)	0.99
 - [MONDO:0019170](http://purl.obolibrary.org/obo/MONDO_0019170) EquivalentTo [ICD10CM:M30.0](http://apps.who.int/classifications/icd10/browse/2010/en#/M30.0)	(most probable)	0.99
+- [MONDO:0019170](http://purl.obolibrary.org/obo/MONDO_0019170) EquivalentTo [Polyarteritis nodosa](http://www.orpha.net/ORDO/Orphanet_767)	(most probable)	0.99
 
 ## [ICD10CM:K13.5](http://apps.who.int/classifications/icd10/browse/2010/en#/K13.5) [MONDO:0018166](http://purl.obolibrary.org/obo/MONDO_0018166) [Oral submucous fibrosis](http://www.orpha.net/ORDO/Orphanet_357154)
 
-- [MONDO:0018166](http://purl.obolibrary.org/obo/MONDO_0018166) EquivalentTo [ICD10CM:K13.5](http://apps.who.int/classifications/icd10/browse/2010/en#/K13.5)	(most probable)	0.99
 - [MONDO:0018166](http://purl.obolibrary.org/obo/MONDO_0018166) EquivalentTo [Oral submucous fibrosis](http://www.orpha.net/ORDO/Orphanet_357154)	(most probable)	0.99
+- [MONDO:0018166](http://purl.obolibrary.org/obo/MONDO_0018166) EquivalentTo [ICD10CM:K13.5](http://apps.who.int/classifications/icd10/browse/2010/en#/K13.5)	(most probable)	0.99
 
 ## [Citrullinemia type I](http://www.orpha.net/ORDO/Orphanet_247525) [MONDO:0008988](http://purl.obolibrary.org/obo/MONDO_0008988) [OMIM:215700](https://omim.org/entry/215700)
 
@@ -13538,8 +13538,8 @@
 
 ## [MONDO:0010258](http://purl.obolibrary.org/obo/MONDO_0010258) [OMIM:300148](https://omim.org/entry/300148) [OMIM:300987](https://omim.org/entry/300987) [Orphanet:85282](http://www.orpha.net/ORDO/Orphanet_85282)
 
-- [MONDO:0010258](http://purl.obolibrary.org/obo/MONDO_0010258) SiblingOf [OMIM:300148](https://omim.org/entry/300148)		0.09999999999999998
-- [MONDO:0010258](http://purl.obolibrary.org/obo/MONDO_0010258) EquivalentTo [OMIM:300987](https://omim.org/entry/300987)	(most probable)	0.8
+- [MONDO:0010258](http://purl.obolibrary.org/obo/MONDO_0010258) SiblingOf [OMIM:300987](https://omim.org/entry/300987)		0.09999999999999998
+- [MONDO:0010258](http://purl.obolibrary.org/obo/MONDO_0010258) EquivalentTo [OMIM:300148](https://omim.org/entry/300148)	(most probable)	0.8
 - [MONDO:0010258](http://purl.obolibrary.org/obo/MONDO_0010258) EquivalentTo [Orphanet:85282](http://www.orpha.net/ORDO/Orphanet_85282)	(most probable)	0.99
 
 ## [Congenital atransferrinemia](http://www.orpha.net/ORDO/Orphanet_1195) [MONDO:0008846](http://purl.obolibrary.org/obo/MONDO_0008846) [OMIM:209300](https://omim.org/entry/209300)
@@ -13690,8 +13690,8 @@
 ## [Bazex syndrome](http://www.orpha.net/ORDO/Orphanet_166113) [Bazex-Dupré-Christol syndrome](http://www.orpha.net/ORDO/Orphanet_113) [MONDO:0010535](http://purl.obolibrary.org/obo/MONDO_0010535) [OMIM:301845](https://omim.org/entry/301845)
 
 - [MONDO:0010535](http://purl.obolibrary.org/obo/MONDO_0010535) EquivalentTo [OMIM:301845](https://omim.org/entry/301845)	(most probable)	0.8
-- [MONDO:0010535](http://purl.obolibrary.org/obo/MONDO_0010535) SiblingOf [Bazex syndrome](http://www.orpha.net/ORDO/Orphanet_166113)		0.0050000000000000044
-- [MONDO:0010535](http://purl.obolibrary.org/obo/MONDO_0010535) EquivalentTo [Bazex-Dupré-Christol syndrome](http://www.orpha.net/ORDO/Orphanet_113)	(most probable)	0.99
+- [MONDO:0010535](http://purl.obolibrary.org/obo/MONDO_0010535) SiblingOf [Bazex-Dupré-Christol syndrome](http://www.orpha.net/ORDO/Orphanet_113)		0.0050000000000000044
+- [MONDO:0010535](http://purl.obolibrary.org/obo/MONDO_0010535) EquivalentTo [Bazex syndrome](http://www.orpha.net/ORDO/Orphanet_166113)	(most probable)	0.99
 
 ## [Huntington disease-like 1](http://www.orpha.net/ORDO/Orphanet_157941) [MONDO:0011299](http://purl.obolibrary.org/obo/MONDO_0011299) [OMIM:603218](https://omim.org/entry/603218)
 
@@ -13781,8 +13781,8 @@
 
 ## [ICD10CM:E71.510](http://apps.who.int/classifications/icd10/browse/2010/en#/E71.510) [MONDO:0019609](http://purl.obolibrary.org/obo/MONDO_0019609) [Zellweger syndrome](http://www.orpha.net/ORDO/Orphanet_912)
 
-- [MONDO:0019609](http://purl.obolibrary.org/obo/MONDO_0019609) EquivalentTo [Zellweger syndrome](http://www.orpha.net/ORDO/Orphanet_912)	(most probable)	0.99
 - [MONDO:0019609](http://purl.obolibrary.org/obo/MONDO_0019609) EquivalentTo [ICD10CM:E71.510](http://apps.who.int/classifications/icd10/browse/2010/en#/E71.510)	(most probable)	0.99
+- [MONDO:0019609](http://purl.obolibrary.org/obo/MONDO_0019609) EquivalentTo [Zellweger syndrome](http://www.orpha.net/ORDO/Orphanet_912)	(most probable)	0.99
 
 ## [Distal myopathy with anterior tibial onset](http://www.orpha.net/ORDO/Orphanet_178400) [MONDO:0011721](http://purl.obolibrary.org/obo/MONDO_0011721) [OMIM:606768](https://omim.org/entry/606768)
 
@@ -13936,10 +13936,10 @@
 
 ## [MONDO:0008490](http://purl.obolibrary.org/obo/MONDO_0008490) [OMIM:184840](https://omim.org/entry/184840) [OMIM:277610](https://omim.org/entry/277610) [Orphanet:166100](http://www.orpha.net/ORDO/Orphanet_166100) [Orphanet:3450](http://www.orpha.net/ORDO/Orphanet_3450)
 
-- [MONDO:0008490](http://purl.obolibrary.org/obo/MONDO_0008490) SiblingOf [OMIM:277610](https://omim.org/entry/277610)		0.09999999999999998
-- [MONDO:0008490](http://purl.obolibrary.org/obo/MONDO_0008490) EquivalentTo [OMIM:184840](https://omim.org/entry/184840)	(most probable)	0.8
-- [MONDO:0008490](http://purl.obolibrary.org/obo/MONDO_0008490) SiblingOf [Orphanet:166100](http://www.orpha.net/ORDO/Orphanet_166100)		0.0050000000000000044
-- [MONDO:0008490](http://purl.obolibrary.org/obo/MONDO_0008490) EquivalentTo [Orphanet:3450](http://www.orpha.net/ORDO/Orphanet_3450)	(most probable)	0.99
+- [MONDO:0008490](http://purl.obolibrary.org/obo/MONDO_0008490) SiblingOf [OMIM:184840](https://omim.org/entry/184840)		0.09999999999999998
+- [MONDO:0008490](http://purl.obolibrary.org/obo/MONDO_0008490) EquivalentTo [OMIM:277610](https://omim.org/entry/277610)	(most probable)	0.8
+- [MONDO:0008490](http://purl.obolibrary.org/obo/MONDO_0008490) SiblingOf [Orphanet:3450](http://www.orpha.net/ORDO/Orphanet_3450)		0.0050000000000000044
+- [MONDO:0008490](http://purl.obolibrary.org/obo/MONDO_0008490) EquivalentTo [Orphanet:166100](http://www.orpha.net/ORDO/Orphanet_166100)	(most probable)	0.99
 
 ## [MONDO:0009204](http://purl.obolibrary.org/obo/MONDO_0009204) [OMIM:227270](https://omim.org/entry/227270) [Orphanet:1972](http://www.orpha.net/ORDO/Orphanet_1972)
 
@@ -13978,8 +13978,8 @@
 
 ## [ICD10CM:L00](http://apps.who.int/classifications/icd10/browse/2010/en#/L00) [MONDO:0018181](http://purl.obolibrary.org/obo/MONDO_0018181) [Staphylococcal scalded skin syndrome](http://www.orpha.net/ORDO/Orphanet_36236)
 
-- [MONDO:0018181](http://purl.obolibrary.org/obo/MONDO_0018181) EquivalentTo [ICD10CM:L00](http://apps.who.int/classifications/icd10/browse/2010/en#/L00)	(most probable)	0.99
 - [MONDO:0018181](http://purl.obolibrary.org/obo/MONDO_0018181) EquivalentTo [Staphylococcal scalded skin syndrome](http://www.orpha.net/ORDO/Orphanet_36236)	(most probable)	0.99
+- [MONDO:0018181](http://purl.obolibrary.org/obo/MONDO_0018181) EquivalentTo [ICD10CM:L00](http://apps.who.int/classifications/icd10/browse/2010/en#/L00)	(most probable)	0.99
 
 ## [Dermatoleukodystrophy](http://www.orpha.net/ORDO/Orphanet_1659) [MONDO:0009093](http://purl.obolibrary.org/obo/MONDO_0009093) [OMIM:221790](https://omim.org/entry/221790)
 
@@ -14319,8 +14319,8 @@
 
 ## [ICD10CM:Q03](http://apps.who.int/classifications/icd10/browse/2010/en#/Q03) [MONDO:0016349](http://purl.obolibrary.org/obo/MONDO_0016349) [Orphanet:2185](http://www.orpha.net/ORDO/Orphanet_2185)
 
-- [MONDO:0016349](http://purl.obolibrary.org/obo/MONDO_0016349) EquivalentTo [Orphanet:2185](http://www.orpha.net/ORDO/Orphanet_2185)	(most probable)	0.99
 - [MONDO:0016349](http://purl.obolibrary.org/obo/MONDO_0016349) EquivalentTo [ICD10CM:Q03](http://apps.who.int/classifications/icd10/browse/2010/en#/Q03)	(most probable)	0.99
+- [MONDO:0016349](http://purl.obolibrary.org/obo/MONDO_0016349) EquivalentTo [Orphanet:2185](http://www.orpha.net/ORDO/Orphanet_2185)	(most probable)	0.99
 
 ## [Autosomal dominant primary hypomagnesemia with hypocalciuria](http://www.orpha.net/ORDO/Orphanet_34528) [MONDO:0007937](http://purl.obolibrary.org/obo/MONDO_0007937) [OMIM:154020](https://omim.org/entry/154020)
 
@@ -14456,8 +14456,8 @@
 ## [MONDO:0009151](http://purl.obolibrary.org/obo/MONDO_0009151) [OMIM:225060](https://omim.org/entry/225060) [Orphanet:320317](http://www.orpha.net/ORDO/Orphanet_320317) [Orphanet:3253](http://www.orpha.net/ORDO/Orphanet_3253)
 
 - [MONDO:0009151](http://purl.obolibrary.org/obo/MONDO_0009151) EquivalentTo [OMIM:225060](https://omim.org/entry/225060)	(most probable)	0.8
-- [MONDO:0009151](http://purl.obolibrary.org/obo/MONDO_0009151) SiblingOf [Orphanet:320317](http://www.orpha.net/ORDO/Orphanet_320317)		0.0050000000000000044
-- [MONDO:0009151](http://purl.obolibrary.org/obo/MONDO_0009151) EquivalentTo [Orphanet:3253](http://www.orpha.net/ORDO/Orphanet_3253)	(most probable)	0.99
+- [MONDO:0009151](http://purl.obolibrary.org/obo/MONDO_0009151) SiblingOf [Orphanet:3253](http://www.orpha.net/ORDO/Orphanet_3253)		0.0050000000000000044
+- [MONDO:0009151](http://purl.obolibrary.org/obo/MONDO_0009151) EquivalentTo [Orphanet:320317](http://www.orpha.net/ORDO/Orphanet_320317)	(most probable)	0.99
 
 ## [MONDO:0009567](http://purl.obolibrary.org/obo/MONDO_0009567) [Marinesco-Sjögren syndrome](http://www.orpha.net/ORDO/Orphanet_559) [OMIM:248800](https://omim.org/entry/248800)
 
@@ -14588,8 +14588,8 @@
 ## [ICD10CM:E88.42](http://apps.who.int/classifications/icd10/browse/2010/en#/E88.42) [MERRF](http://www.orpha.net/ORDO/Orphanet_551) [MONDO:0010790](http://purl.obolibrary.org/obo/MONDO_0010790) [OMIM:545000](https://omim.org/entry/545000)
 
 - [MONDO:0010790](http://purl.obolibrary.org/obo/MONDO_0010790) EquivalentTo [OMIM:545000](https://omim.org/entry/545000)	(most probable)	0.8
-- [MONDO:0010790](http://purl.obolibrary.org/obo/MONDO_0010790) EquivalentTo [MERRF](http://www.orpha.net/ORDO/Orphanet_551)	(most probable)	0.99
 - [MONDO:0010790](http://purl.obolibrary.org/obo/MONDO_0010790) EquivalentTo [ICD10CM:E88.42](http://apps.who.int/classifications/icd10/browse/2010/en#/E88.42)	(most probable)	0.99
+- [MONDO:0010790](http://purl.obolibrary.org/obo/MONDO_0010790) EquivalentTo [MERRF](http://www.orpha.net/ORDO/Orphanet_551)	(most probable)	0.99
 
 ## [Gastric adenocarcinoma and proximal polyposis of the stomach](http://www.orpha.net/ORDO/Orphanet_314022) [MONDO:0017790](http://purl.obolibrary.org/obo/MONDO_0017790) [OMIM:619182](https://omim.org/entry/619182)
 
@@ -14698,8 +14698,8 @@
 
 ## [ICD10CM:B87.0](http://apps.who.int/classifications/icd10/browse/2010/en#/B87.0) [MONDO:0020568](http://purl.obolibrary.org/obo/MONDO_0020568) [Orphanet:99983](http://www.orpha.net/ORDO/Orphanet_99983)
 
-- [MONDO:0020568](http://purl.obolibrary.org/obo/MONDO_0020568) EquivalentTo [Orphanet:99983](http://www.orpha.net/ORDO/Orphanet_99983)	(most probable)	0.99
 - [MONDO:0020568](http://purl.obolibrary.org/obo/MONDO_0020568) EquivalentTo [ICD10CM:B87.0](http://apps.who.int/classifications/icd10/browse/2010/en#/B87.0)	(most probable)	0.99
+- [MONDO:0020568](http://purl.obolibrary.org/obo/MONDO_0020568) EquivalentTo [Orphanet:99983](http://www.orpha.net/ORDO/Orphanet_99983)	(most probable)	0.99
 
 ## [Knuckle pads-leukonychia-sensorineural deafness-palmoplantar hyperkeratosis syndrome](http://www.orpha.net/ORDO/Orphanet_2698) [MONDO:0007866](http://purl.obolibrary.org/obo/MONDO_0007866) [OMIM:149200](https://omim.org/entry/149200)
 
@@ -14739,8 +14739,8 @@
 ## [ICD10CM:G60.1](http://apps.who.int/classifications/icd10/browse/2010/en#/G60.1) [MONDO:0009958](http://purl.obolibrary.org/obo/MONDO_0009958) [OMIM:266500](https://omim.org/entry/266500) [Refsum disease](http://www.orpha.net/ORDO/Orphanet_773)
 
 - [MONDO:0009958](http://purl.obolibrary.org/obo/MONDO_0009958) EquivalentTo [OMIM:266500](https://omim.org/entry/266500)	(most probable)	0.8
-- [MONDO:0009958](http://purl.obolibrary.org/obo/MONDO_0009958) EquivalentTo [Refsum disease](http://www.orpha.net/ORDO/Orphanet_773)	(most probable)	0.99
 - [MONDO:0009958](http://purl.obolibrary.org/obo/MONDO_0009958) EquivalentTo [ICD10CM:G60.1](http://apps.who.int/classifications/icd10/browse/2010/en#/G60.1)	(most probable)	0.99
+- [MONDO:0009958](http://purl.obolibrary.org/obo/MONDO_0009958) EquivalentTo [Refsum disease](http://www.orpha.net/ORDO/Orphanet_773)	(most probable)	0.99
 
 ## [3-methylglutaconic aciduria type 3](http://www.orpha.net/ORDO/Orphanet_67047) [MONDO:0009787](http://purl.obolibrary.org/obo/MONDO_0009787) [OMIM:258501](https://omim.org/entry/258501)
 
@@ -14780,8 +14780,8 @@
 ## [Hypotonia-cystinuria syndrome](http://www.orpha.net/ORDO/Orphanet_163690) [MONDO:0011669](http://purl.obolibrary.org/obo/MONDO_0011669) [OMIM:606407](https://omim.org/entry/606407) [Orphanet:238517](http://www.orpha.net/ORDO/Orphanet_238517)
 
 - [MONDO:0011669](http://purl.obolibrary.org/obo/MONDO_0011669) EquivalentTo [OMIM:606407](https://omim.org/entry/606407)	(most probable)	0.8
-- [MONDO:0011669](http://purl.obolibrary.org/obo/MONDO_0011669) SiblingOf [Orphanet:238517](http://www.orpha.net/ORDO/Orphanet_238517)		0.0050000000000000044
-- [MONDO:0011669](http://purl.obolibrary.org/obo/MONDO_0011669) EquivalentTo [Hypotonia-cystinuria syndrome](http://www.orpha.net/ORDO/Orphanet_163690)	(most probable)	0.99
+- [MONDO:0011669](http://purl.obolibrary.org/obo/MONDO_0011669) SiblingOf [Hypotonia-cystinuria syndrome](http://www.orpha.net/ORDO/Orphanet_163690)		0.0050000000000000044
+- [MONDO:0011669](http://purl.obolibrary.org/obo/MONDO_0011669) EquivalentTo [Orphanet:238517](http://www.orpha.net/ORDO/Orphanet_238517)	(most probable)	0.99
 
 ## [MONDO:0010014](http://purl.obolibrary.org/obo/MONDO_0010014) [OMIM:269300](https://omim.org/entry/269300) [Orphanet:85184](http://www.orpha.net/ORDO/Orphanet_85184)
 
@@ -14946,8 +14946,8 @@
 ## [MONDO:0010407](http://purl.obolibrary.org/obo/MONDO_0010407) [OMIM:309590](https://omim.org/entry/309590) [Orphanet:3056](http://www.orpha.net/ORDO/Orphanet_3056) [Orphanet:85328](http://www.orpha.net/ORDO/Orphanet_85328)
 
 - [MONDO:0010407](http://purl.obolibrary.org/obo/MONDO_0010407) EquivalentTo [OMIM:309590](https://omim.org/entry/309590)	(most probable)	0.8
-- [MONDO:0010407](http://purl.obolibrary.org/obo/MONDO_0010407) SiblingOf [Orphanet:3056](http://www.orpha.net/ORDO/Orphanet_3056)		0.0050000000000000044
-- [MONDO:0010407](http://purl.obolibrary.org/obo/MONDO_0010407) EquivalentTo [Orphanet:85328](http://www.orpha.net/ORDO/Orphanet_85328)	(most probable)	0.99
+- [MONDO:0010407](http://purl.obolibrary.org/obo/MONDO_0010407) SiblingOf [Orphanet:85328](http://www.orpha.net/ORDO/Orphanet_85328)		0.0050000000000000044
+- [MONDO:0010407](http://purl.obolibrary.org/obo/MONDO_0010407) EquivalentTo [Orphanet:3056](http://www.orpha.net/ORDO/Orphanet_3056)	(most probable)	0.99
 
 ## [MONDO:0010485](http://purl.obolibrary.org/obo/MONDO_0010485) [OMIM:300915](https://omim.org/entry/300915) [Orphanet:431140](http://www.orpha.net/ORDO/Orphanet_431140)
 
@@ -14971,8 +14971,8 @@
 
 ## [ICD10CM:Q22.1](http://apps.who.int/classifications/icd10/browse/2010/en#/Q22.1) [MONDO:0017865](http://purl.obolibrary.org/obo/MONDO_0017865) [Orphanet:3189](http://www.orpha.net/ORDO/Orphanet_3189)
 
-- [MONDO:0017865](http://purl.obolibrary.org/obo/MONDO_0017865) EquivalentTo [Orphanet:3189](http://www.orpha.net/ORDO/Orphanet_3189)	(most probable)	0.99
 - [MONDO:0017865](http://purl.obolibrary.org/obo/MONDO_0017865) EquivalentTo [ICD10CM:Q22.1](http://apps.who.int/classifications/icd10/browse/2010/en#/Q22.1)	(most probable)	0.99
+- [MONDO:0017865](http://purl.obolibrary.org/obo/MONDO_0017865) EquivalentTo [Orphanet:3189](http://www.orpha.net/ORDO/Orphanet_3189)	(most probable)	0.99
 
 ## [MONDO:0010890](http://purl.obolibrary.org/obo/MONDO_0010890) [OMIM:600460](https://omim.org/entry/600460) [Orphanet:2008](http://www.orpha.net/ORDO/Orphanet_2008)
 
@@ -15051,8 +15051,8 @@
 
 ## [ICD10CM:L95.0](http://apps.who.int/classifications/icd10/browse/2010/en#/L95.0) [MONDO:0025514](http://purl.obolibrary.org/obo/MONDO_0025514) [Orphanet:542643](http://www.orpha.net/ORDO/Orphanet_542643)
 
-- [MONDO:0025514](http://purl.obolibrary.org/obo/MONDO_0025514) EquivalentTo [ICD10CM:L95.0](http://apps.who.int/classifications/icd10/browse/2010/en#/L95.0)	(most probable)	0.99
 - [MONDO:0025514](http://purl.obolibrary.org/obo/MONDO_0025514) EquivalentTo [Orphanet:542643](http://www.orpha.net/ORDO/Orphanet_542643)	(most probable)	0.99
+- [MONDO:0025514](http://purl.obolibrary.org/obo/MONDO_0025514) EquivalentTo [ICD10CM:L95.0](http://apps.who.int/classifications/icd10/browse/2010/en#/L95.0)	(most probable)	0.99
 
 ## [MONDO:0010467](http://purl.obolibrary.org/obo/MONDO_0010467) [OMIM:300869](https://omim.org/entry/300869) [Orphanet:261483](http://www.orpha.net/ORDO/Orphanet_261483)
 
@@ -15126,8 +15126,8 @@
 
 ## [ICD10CM:A85](http://apps.who.int/classifications/icd10/browse/2010/en#/A85) [MONDO:0019956](http://purl.obolibrary.org/obo/MONDO_0019956) [Orphanet:97275](http://www.orpha.net/ORDO/Orphanet_97275)
 
-- [MONDO:0019956](http://purl.obolibrary.org/obo/MONDO_0019956) EquivalentTo [ICD10CM:A85](http://apps.who.int/classifications/icd10/browse/2010/en#/A85)	(most probable)	0.99
 - [MONDO:0019956](http://purl.obolibrary.org/obo/MONDO_0019956) EquivalentTo [Orphanet:97275](http://www.orpha.net/ORDO/Orphanet_97275)	(most probable)	0.99
+- [MONDO:0019956](http://purl.obolibrary.org/obo/MONDO_0019956) EquivalentTo [ICD10CM:A85](http://apps.who.int/classifications/icd10/browse/2010/en#/A85)	(most probable)	0.99
 
 ## [MONDO:0006761](http://purl.obolibrary.org/obo/MONDO_0006761) [OMIM:135580](https://omim.org/entry/135580) [Orphanet:336](http://www.orpha.net/ORDO/Orphanet_336)
 
@@ -15146,13 +15146,13 @@
 
 ## [ICD10CM:G51.4](http://apps.who.int/classifications/icd10/browse/2010/en#/G51.4) [MONDO:0016373](http://purl.obolibrary.org/obo/MONDO_0016373) [Orphanet:221106](http://www.orpha.net/ORDO/Orphanet_221106)
 
-- [MONDO:0016373](http://purl.obolibrary.org/obo/MONDO_0016373) EquivalentTo [Orphanet:221106](http://www.orpha.net/ORDO/Orphanet_221106)	(most probable)	0.99
 - [MONDO:0016373](http://purl.obolibrary.org/obo/MONDO_0016373) EquivalentTo [ICD10CM:G51.4](http://apps.who.int/classifications/icd10/browse/2010/en#/G51.4)	(most probable)	0.99
+- [MONDO:0016373](http://purl.obolibrary.org/obo/MONDO_0016373) EquivalentTo [Orphanet:221106](http://www.orpha.net/ORDO/Orphanet_221106)	(most probable)	0.99
 
 ## [ICD10CM:E51.2](http://apps.who.int/classifications/icd10/browse/2010/en#/E51.2) [MONDO:0007020](http://purl.obolibrary.org/obo/MONDO_0007020) [Orphanet:97354](http://www.orpha.net/ORDO/Orphanet_97354)
 
-- [MONDO:0007020](http://purl.obolibrary.org/obo/MONDO_0007020) EquivalentTo [Orphanet:97354](http://www.orpha.net/ORDO/Orphanet_97354)	(most probable)	0.99
 - [MONDO:0007020](http://purl.obolibrary.org/obo/MONDO_0007020) EquivalentTo [ICD10CM:E51.2](http://apps.who.int/classifications/icd10/browse/2010/en#/E51.2)	(most probable)	0.99
+- [MONDO:0007020](http://purl.obolibrary.org/obo/MONDO_0007020) EquivalentTo [Orphanet:97354](http://www.orpha.net/ORDO/Orphanet_97354)	(most probable)	0.99
 
 ## [Hyperkalemic periodic paralysis](http://www.orpha.net/ORDO/Orphanet_682) [MONDO:0008224](http://purl.obolibrary.org/obo/MONDO_0008224) [OMIM:170500](https://omim.org/entry/170500)
 
@@ -15414,8 +15414,8 @@
 ## [ICD10CM:E75.23](http://apps.who.int/classifications/icd10/browse/2010/en#/E75.23) [Krabbe disease](http://www.orpha.net/ORDO/Orphanet_487) [MONDO:0009499](http://purl.obolibrary.org/obo/MONDO_0009499) [OMIM:245200](https://omim.org/entry/245200)
 
 - [MONDO:0009499](http://purl.obolibrary.org/obo/MONDO_0009499) EquivalentTo [OMIM:245200](https://omim.org/entry/245200)	(most probable)	0.8
-- [MONDO:0009499](http://purl.obolibrary.org/obo/MONDO_0009499) EquivalentTo [ICD10CM:E75.23](http://apps.who.int/classifications/icd10/browse/2010/en#/E75.23)	(most probable)	0.99
 - [MONDO:0009499](http://purl.obolibrary.org/obo/MONDO_0009499) EquivalentTo [Krabbe disease](http://www.orpha.net/ORDO/Orphanet_487)	(most probable)	0.99
+- [MONDO:0009499](http://purl.obolibrary.org/obo/MONDO_0009499) EquivalentTo [ICD10CM:E75.23](http://apps.who.int/classifications/icd10/browse/2010/en#/E75.23)	(most probable)	0.99
 
 ## [Isolated hyperchlorhidrosis](http://www.orpha.net/ORDO/Orphanet_542657) [MONDO:0007747](http://purl.obolibrary.org/obo/MONDO_0007747) [OMIM:143860](https://omim.org/entry/143860)
 
@@ -15510,8 +15510,8 @@
 ## [ICD10CM:J84.112](http://apps.who.int/classifications/icd10/browse/2010/en#/J84.112) [Idiopathic pulmonary fibrosis](http://www.orpha.net/ORDO/Orphanet_2032) [MONDO:0008345](http://purl.obolibrary.org/obo/MONDO_0008345) [OMIM:178500](https://omim.org/entry/178500)
 
 - [MONDO:0008345](http://purl.obolibrary.org/obo/MONDO_0008345) EquivalentTo [OMIM:178500](https://omim.org/entry/178500)	(most probable)	0.8
-- [MONDO:0008345](http://purl.obolibrary.org/obo/MONDO_0008345) EquivalentTo [Idiopathic pulmonary fibrosis](http://www.orpha.net/ORDO/Orphanet_2032)	(most probable)	0.99
 - [MONDO:0008345](http://purl.obolibrary.org/obo/MONDO_0008345) EquivalentTo [ICD10CM:J84.112](http://apps.who.int/classifications/icd10/browse/2010/en#/J84.112)	(most probable)	0.99
+- [MONDO:0008345](http://purl.obolibrary.org/obo/MONDO_0008345) EquivalentTo [Idiopathic pulmonary fibrosis](http://www.orpha.net/ORDO/Orphanet_2032)	(most probable)	0.99
 
 ## [MONDO:0012792](http://purl.obolibrary.org/obo/MONDO_0012792) [Mitochondrial DNA depletion syndrome, encephalomyopathic form with renal tubulopathy](http://www.orpha.net/ORDO/Orphanet_255235) [OMIM:612075](https://omim.org/entry/612075)
 
@@ -15550,8 +15550,8 @@
 
 ## [ICD10CM:A68](http://apps.who.int/classifications/icd10/browse/2010/en#/A68) [MONDO:0019633](http://purl.obolibrary.org/obo/MONDO_0019633) [Relapsing fever](http://www.orpha.net/ORDO/Orphanet_91547)
 
-- [MONDO:0019633](http://purl.obolibrary.org/obo/MONDO_0019633) EquivalentTo [ICD10CM:A68](http://apps.who.int/classifications/icd10/browse/2010/en#/A68)	(most probable)	0.99
 - [MONDO:0019633](http://purl.obolibrary.org/obo/MONDO_0019633) EquivalentTo [Relapsing fever](http://www.orpha.net/ORDO/Orphanet_91547)	(most probable)	0.99
+- [MONDO:0019633](http://purl.obolibrary.org/obo/MONDO_0019633) EquivalentTo [ICD10CM:A68](http://apps.who.int/classifications/icd10/browse/2010/en#/A68)	(most probable)	0.99
 
 ## [MONDO:0009728](http://purl.obolibrary.org/obo/MONDO_0009728) [OMIM:256100](https://omim.org/entry/256100) [Orphanet:93592](http://www.orpha.net/ORDO/Orphanet_93592)
 
@@ -15581,8 +15581,8 @@
 ## [Granulomatosis with polyangiitis](http://www.orpha.net/ORDO/Orphanet_900) [ICD10CM:M31.3](http://apps.who.int/classifications/icd10/browse/2010/en#/M31.3) [MONDO:0012105](http://purl.obolibrary.org/obo/MONDO_0012105) [OMIM:608710](https://omim.org/entry/608710)
 
 - [MONDO:0012105](http://purl.obolibrary.org/obo/MONDO_0012105) EquivalentTo [OMIM:608710](https://omim.org/entry/608710)	(most probable)	0.8
-- [MONDO:0012105](http://purl.obolibrary.org/obo/MONDO_0012105) EquivalentTo [ICD10CM:M31.3](http://apps.who.int/classifications/icd10/browse/2010/en#/M31.3)	(most probable)	0.99
 - [MONDO:0012105](http://purl.obolibrary.org/obo/MONDO_0012105) EquivalentTo [Granulomatosis with polyangiitis](http://www.orpha.net/ORDO/Orphanet_900)	(most probable)	0.99
+- [MONDO:0012105](http://purl.obolibrary.org/obo/MONDO_0012105) EquivalentTo [ICD10CM:M31.3](http://apps.who.int/classifications/icd10/browse/2010/en#/M31.3)	(most probable)	0.99
 
 ## [MONDO:0011246](http://purl.obolibrary.org/obo/MONDO_0011246) [Megaconial congenital muscular dystrophy](http://www.orpha.net/ORDO/Orphanet_280671) [OMIM:602541](https://omim.org/entry/602541)
 
@@ -15747,8 +15747,8 @@
 
 ## [ICD10CM:D81.819](http://apps.who.int/classifications/icd10/browse/2010/en#/D81.819) [MONDO:0015454](http://purl.obolibrary.org/obo/MONDO_0015454) [Orphanet:148](http://www.orpha.net/ORDO/Orphanet_148)
 
-- [MONDO:0015454](http://purl.obolibrary.org/obo/MONDO_0015454) EquivalentTo [ICD10CM:D81.819](http://apps.who.int/classifications/icd10/browse/2010/en#/D81.819)	(most probable)	0.99
 - [MONDO:0015454](http://purl.obolibrary.org/obo/MONDO_0015454) EquivalentTo [Orphanet:148](http://www.orpha.net/ORDO/Orphanet_148)	(most probable)	0.99
+- [MONDO:0015454](http://purl.obolibrary.org/obo/MONDO_0015454) EquivalentTo [ICD10CM:D81.819](http://apps.who.int/classifications/icd10/browse/2010/en#/D81.819)	(most probable)	0.99
 
 ## [MONDO:0011620](http://purl.obolibrary.org/obo/MONDO_0011620) [OMIM:605946](https://omim.org/entry/605946) [Orphanet:85188](http://www.orpha.net/ORDO/Orphanet_85188)
 
@@ -15757,8 +15757,8 @@
 
 ## [MONDO:0009327](http://purl.obolibrary.org/obo/MONDO_0009327) [OMIM:140500](https://omim.org/entry/140500) [OMIM:234750](https://omim.org/entry/234750)
 
-- [MONDO:0009327](http://purl.obolibrary.org/obo/MONDO_0009327) SiblingOf [OMIM:234750](https://omim.org/entry/234750)		0.09999999999999998
-- [MONDO:0009327](http://purl.obolibrary.org/obo/MONDO_0009327) EquivalentTo [OMIM:140500](https://omim.org/entry/140500)	(most probable)	0.8
+- [MONDO:0009327](http://purl.obolibrary.org/obo/MONDO_0009327) SiblingOf [OMIM:140500](https://omim.org/entry/140500)		0.09999999999999998
+- [MONDO:0009327](http://purl.obolibrary.org/obo/MONDO_0009327) EquivalentTo [OMIM:234750](https://omim.org/entry/234750)	(most probable)	0.8
 
 ## [ICD10CM:Q71.13](http://apps.who.int/classifications/icd10/browse/2010/en#/Q71.13) [MONDO:0017495](http://purl.obolibrary.org/obo/MONDO_0017495) [Orphanet:295087](http://www.orpha.net/ORDO/Orphanet_295087)
 
@@ -15837,8 +15837,8 @@
 
 ## [ICD10CM:B46](http://apps.who.int/classifications/icd10/browse/2010/en#/B46) [MONDO:0019136](http://purl.obolibrary.org/obo/MONDO_0019136) [Zygomycosis](http://www.orpha.net/ORDO/Orphanet_73263)
 
-- [MONDO:0019136](http://purl.obolibrary.org/obo/MONDO_0019136) EquivalentTo [Zygomycosis](http://www.orpha.net/ORDO/Orphanet_73263)	(most probable)	0.99
 - [MONDO:0019136](http://purl.obolibrary.org/obo/MONDO_0019136) EquivalentTo [ICD10CM:B46](http://apps.who.int/classifications/icd10/browse/2010/en#/B46)	(most probable)	0.99
+- [MONDO:0019136](http://purl.obolibrary.org/obo/MONDO_0019136) EquivalentTo [Zygomycosis](http://www.orpha.net/ORDO/Orphanet_73263)	(most probable)	0.99
 
 ## [Autoimmune pulmonary alveolar proteinosis](http://www.orpha.net/ORDO/Orphanet_747) [MONDO:0012579](http://purl.obolibrary.org/obo/MONDO_0012579) [OMIM:610910](https://omim.org/entry/610910)
 
@@ -15857,8 +15857,8 @@
 
 ## [ICD10CM:E75.4](http://apps.who.int/classifications/icd10/browse/2010/en#/E75.4) [MONDO:0016295](http://purl.obolibrary.org/obo/MONDO_0016295) [Orphanet:216](http://www.orpha.net/ORDO/Orphanet_216)
 
-- [MONDO:0016295](http://purl.obolibrary.org/obo/MONDO_0016295) EquivalentTo [Orphanet:216](http://www.orpha.net/ORDO/Orphanet_216)	(most probable)	0.99
 - [MONDO:0016295](http://purl.obolibrary.org/obo/MONDO_0016295) EquivalentTo [ICD10CM:E75.4](http://apps.who.int/classifications/icd10/browse/2010/en#/E75.4)	(most probable)	0.99
+- [MONDO:0016295](http://purl.obolibrary.org/obo/MONDO_0016295) EquivalentTo [Orphanet:216](http://www.orpha.net/ORDO/Orphanet_216)	(most probable)	0.99
 
 ## [Dystonia 28](http://www.orpha.net/ORDO/Orphanet_589618) [MONDO:0015004](http://purl.obolibrary.org/obo/MONDO_0015004) [OMIM:617284](https://omim.org/entry/617284)
 
@@ -15867,8 +15867,8 @@
 
 ## [ICD10CM:K91.850](http://apps.who.int/classifications/icd10/browse/2010/en#/K91.850) [MONDO:0005312](http://purl.obolibrary.org/obo/MONDO_0005312) [Orphanet:217067](http://www.orpha.net/ORDO/Orphanet_217067)
 
-- [MONDO:0005312](http://purl.obolibrary.org/obo/MONDO_0005312) EquivalentTo [ICD10CM:K91.850](http://apps.who.int/classifications/icd10/browse/2010/en#/K91.850)	(most probable)	0.99
 - [MONDO:0005312](http://purl.obolibrary.org/obo/MONDO_0005312) EquivalentTo [Orphanet:217067](http://www.orpha.net/ORDO/Orphanet_217067)	(most probable)	0.99
+- [MONDO:0005312](http://purl.obolibrary.org/obo/MONDO_0005312) EquivalentTo [ICD10CM:K91.850](http://apps.who.int/classifications/icd10/browse/2010/en#/K91.850)	(most probable)	0.99
 
 ## [MONDO:0008812](http://purl.obolibrary.org/obo/MONDO_0008812) [OMIM:207780](https://omim.org/entry/207780) [Orphanet:1133](http://www.orpha.net/ORDO/Orphanet_1133)
 
@@ -15887,9 +15887,9 @@
 
 ## [MONDO:0007617](http://purl.obolibrary.org/obo/MONDO_0007617) [OMIM:135900](https://omim.org/entry/135900) [OMIM:609943](https://omim.org/entry/609943) [OMIM:614562](https://omim.org/entry/614562)
 
+- [MONDO:0007617](http://purl.obolibrary.org/obo/MONDO_0007617) SiblingOf [OMIM:614562](https://omim.org/entry/614562)		0.09999999999999998
 - [MONDO:0007617](http://purl.obolibrary.org/obo/MONDO_0007617) SiblingOf [OMIM:609943](https://omim.org/entry/609943)		0.09999999999999998
-- [MONDO:0007617](http://purl.obolibrary.org/obo/MONDO_0007617) SiblingOf [OMIM:135900](https://omim.org/entry/135900)		0.09999999999999998
-- [MONDO:0007617](http://purl.obolibrary.org/obo/MONDO_0007617) EquivalentTo [OMIM:614562](https://omim.org/entry/614562)	(most probable)	0.8
+- [MONDO:0007617](http://purl.obolibrary.org/obo/MONDO_0007617) EquivalentTo [OMIM:135900](https://omim.org/entry/135900)	(most probable)	0.8
 
 ## [MONDO:0009767](http://purl.obolibrary.org/obo/MONDO_0009767) [OMIM:257800](https://omim.org/entry/257800) [Orphanet:2719](http://www.orpha.net/ORDO/Orphanet_2719)
 
@@ -15958,8 +15958,8 @@
 
 ## [ICD10CM:Q22.6](http://apps.who.int/classifications/icd10/browse/2010/en#/Q22.6) [MONDO:0020291](http://purl.obolibrary.org/obo/MONDO_0020291) [Orphanet:98723](http://www.orpha.net/ORDO/Orphanet_98723)
 
-- [MONDO:0020291](http://purl.obolibrary.org/obo/MONDO_0020291) EquivalentTo [Orphanet:98723](http://www.orpha.net/ORDO/Orphanet_98723)	(most probable)	0.99
 - [MONDO:0020291](http://purl.obolibrary.org/obo/MONDO_0020291) EquivalentTo [ICD10CM:Q22.6](http://apps.who.int/classifications/icd10/browse/2010/en#/Q22.6)	(most probable)	0.99
+- [MONDO:0020291](http://purl.obolibrary.org/obo/MONDO_0020291) EquivalentTo [Orphanet:98723](http://www.orpha.net/ORDO/Orphanet_98723)	(most probable)	0.99
 
 ## [Kleine-Levin syndrome](http://www.orpha.net/ORDO/Orphanet_33543) [MONDO:0007863](http://purl.obolibrary.org/obo/MONDO_0007863) [OMIM:148840](https://omim.org/entry/148840)
 
@@ -16100,8 +16100,8 @@
 ## [ICD10CM:E80.4](http://apps.who.int/classifications/icd10/browse/2010/en#/E80.4) [MONDO:0007745](http://purl.obolibrary.org/obo/MONDO_0007745) [OMIM:143500](https://omim.org/entry/143500) [Orphanet:357](http://www.orpha.net/ORDO/Orphanet_357)
 
 - [MONDO:0007745](http://purl.obolibrary.org/obo/MONDO_0007745) EquivalentTo [OMIM:143500](https://omim.org/entry/143500)	(most probable)	0.8
-- [MONDO:0007745](http://purl.obolibrary.org/obo/MONDO_0007745) EquivalentTo [Orphanet:357](http://www.orpha.net/ORDO/Orphanet_357)	(most probable)	0.99
 - [MONDO:0007745](http://purl.obolibrary.org/obo/MONDO_0007745) EquivalentTo [ICD10CM:E80.4](http://apps.who.int/classifications/icd10/browse/2010/en#/E80.4)	(most probable)	0.99
+- [MONDO:0007745](http://purl.obolibrary.org/obo/MONDO_0007745) EquivalentTo [Orphanet:357](http://www.orpha.net/ORDO/Orphanet_357)	(most probable)	0.99
 
 ## [MONDO:0007698](http://purl.obolibrary.org/obo/MONDO_0007698) [OMIM:140000](https://omim.org/entry/140000) [Orphanet:2438](http://www.orpha.net/ORDO/Orphanet_2438)
 
@@ -16126,8 +16126,8 @@
 ## [ICD10CM:Q25.1](http://apps.who.int/classifications/icd10/browse/2010/en#/Q25.1) [MONDO:0007345](http://purl.obolibrary.org/obo/MONDO_0007345) [OMIM:120000](https://omim.org/entry/120000) [Orphanet:1457](http://www.orpha.net/ORDO/Orphanet_1457)
 
 - [MONDO:0007345](http://purl.obolibrary.org/obo/MONDO_0007345) EquivalentTo [OMIM:120000](https://omim.org/entry/120000)	(most probable)	0.8
-- [MONDO:0007345](http://purl.obolibrary.org/obo/MONDO_0007345) EquivalentTo [ICD10CM:Q25.1](http://apps.who.int/classifications/icd10/browse/2010/en#/Q25.1)	(most probable)	0.99
 - [MONDO:0007345](http://purl.obolibrary.org/obo/MONDO_0007345) EquivalentTo [Orphanet:1457](http://www.orpha.net/ORDO/Orphanet_1457)	(most probable)	0.99
+- [MONDO:0007345](http://purl.obolibrary.org/obo/MONDO_0007345) EquivalentTo [ICD10CM:Q25.1](http://apps.who.int/classifications/icd10/browse/2010/en#/Q25.1)	(most probable)	0.99
 
 ## [Annular epidermolytic ichthyosis](http://www.orpha.net/ORDO/Orphanet_281139) [MONDO:0011870](http://purl.obolibrary.org/obo/MONDO_0011870) [OMIM:607602](https://omim.org/entry/607602)
 
@@ -16161,8 +16161,8 @@
 
 ## [ICD10CM:P29.1](http://apps.who.int/classifications/icd10/browse/2010/en#/P29.1) [Idiopathic neonatal atrial flutter](http://www.orpha.net/ORDO/Orphanet_45452) [MONDO:0018684](http://purl.obolibrary.org/obo/MONDO_0018684)
 
-- [MONDO:0018684](http://purl.obolibrary.org/obo/MONDO_0018684) EquivalentTo [Idiopathic neonatal atrial flutter](http://www.orpha.net/ORDO/Orphanet_45452)	(most probable)	0.99
 - [MONDO:0018684](http://purl.obolibrary.org/obo/MONDO_0018684) EquivalentTo [ICD10CM:P29.1](http://apps.who.int/classifications/icd10/browse/2010/en#/P29.1)	(most probable)	0.99
+- [MONDO:0018684](http://purl.obolibrary.org/obo/MONDO_0018684) EquivalentTo [Idiopathic neonatal atrial flutter](http://www.orpha.net/ORDO/Orphanet_45452)	(most probable)	0.99
 
 ## [MGAT2-CDG](http://www.orpha.net/ORDO/Orphanet_79329) [MONDO:0008908](http://purl.obolibrary.org/obo/MONDO_0008908) [OMIM:212066](https://omim.org/entry/212066)
 
@@ -16241,10 +16241,10 @@
 
 ## [Hereditary myopathy with early respiratory failure](http://www.orpha.net/ORDO/Orphanet_178464) [MONDO:0011362](http://purl.obolibrary.org/obo/MONDO_0011362) [OMIM:603689](https://omim.org/entry/603689) [OMIM:607569](https://omim.org/entry/607569) [Orphanet:34521](http://www.orpha.net/ORDO/Orphanet_34521)
 
-- [MONDO:0011362](http://purl.obolibrary.org/obo/MONDO_0011362) SiblingOf [OMIM:603689](https://omim.org/entry/603689)		0.09999999999999998
-- [MONDO:0011362](http://purl.obolibrary.org/obo/MONDO_0011362) EquivalentTo [OMIM:607569](https://omim.org/entry/607569)	(most probable)	0.8
-- [MONDO:0011362](http://purl.obolibrary.org/obo/MONDO_0011362) SiblingOf [Hereditary myopathy with early respiratory failure](http://www.orpha.net/ORDO/Orphanet_178464)		0.0050000000000000044
-- [MONDO:0011362](http://purl.obolibrary.org/obo/MONDO_0011362) EquivalentTo [Orphanet:34521](http://www.orpha.net/ORDO/Orphanet_34521)	(most probable)	0.99
+- [MONDO:0011362](http://purl.obolibrary.org/obo/MONDO_0011362) SiblingOf [OMIM:607569](https://omim.org/entry/607569)		0.09999999999999998
+- [MONDO:0011362](http://purl.obolibrary.org/obo/MONDO_0011362) EquivalentTo [OMIM:603689](https://omim.org/entry/603689)	(most probable)	0.8
+- [MONDO:0011362](http://purl.obolibrary.org/obo/MONDO_0011362) SiblingOf [Orphanet:34521](http://www.orpha.net/ORDO/Orphanet_34521)		0.0050000000000000044
+- [MONDO:0011362](http://purl.obolibrary.org/obo/MONDO_0011362) EquivalentTo [Hereditary myopathy with early respiratory failure](http://www.orpha.net/ORDO/Orphanet_178464)	(most probable)	0.99
 
 ## [MONDO:0007112](http://purl.obolibrary.org/obo/MONDO_0007112) [OMIM:105805](https://omim.org/entry/105805) [Orphanet:99092](http://www.orpha.net/ORDO/Orphanet_99092)
 
@@ -16293,8 +16293,8 @@
 
 ## [ICD10CM:B42](http://apps.who.int/classifications/icd10/browse/2010/en#/B42) [MONDO:0005968](http://purl.obolibrary.org/obo/MONDO_0005968) [Sporotrichosis](http://www.orpha.net/ORDO/Orphanet_826)
 
-- [MONDO:0005968](http://purl.obolibrary.org/obo/MONDO_0005968) EquivalentTo [Sporotrichosis](http://www.orpha.net/ORDO/Orphanet_826)	(most probable)	0.99
 - [MONDO:0005968](http://purl.obolibrary.org/obo/MONDO_0005968) EquivalentTo [ICD10CM:B42](http://apps.who.int/classifications/icd10/browse/2010/en#/B42)	(most probable)	0.99
+- [MONDO:0005968](http://purl.obolibrary.org/obo/MONDO_0005968) EquivalentTo [Sporotrichosis](http://www.orpha.net/ORDO/Orphanet_826)	(most probable)	0.99
 
 ## [MONDO:0012198](http://purl.obolibrary.org/obo/MONDO_0012198) [OMIM:609136](https://omim.org/entry/609136) [Peripheral demyelinating neuropathy-central dysmyelinating leukodystrophy-Waardenburg syndrome-Hirschsprung disease](http://www.orpha.net/ORDO/Orphanet_163746)
 
@@ -16318,8 +16318,8 @@
 
 ## [ICD10CM:A83.3](http://apps.who.int/classifications/icd10/browse/2010/en#/A83.3) [MONDO:0005969](http://purl.obolibrary.org/obo/MONDO_0005969) [St. Louis encephalitis](http://www.orpha.net/ORDO/Orphanet_83484)
 
-- [MONDO:0005969](http://purl.obolibrary.org/obo/MONDO_0005969) EquivalentTo [St. Louis encephalitis](http://www.orpha.net/ORDO/Orphanet_83484)	(most probable)	0.99
 - [MONDO:0005969](http://purl.obolibrary.org/obo/MONDO_0005969) EquivalentTo [ICD10CM:A83.3](http://apps.who.int/classifications/icd10/browse/2010/en#/A83.3)	(most probable)	0.99
+- [MONDO:0005969](http://purl.obolibrary.org/obo/MONDO_0005969) EquivalentTo [St. Louis encephalitis](http://www.orpha.net/ORDO/Orphanet_83484)	(most probable)	0.99
 
 ## [MONDO:0008587](http://purl.obolibrary.org/obo/MONDO_0008587) [OMIM:189961](https://omim.org/entry/189961) [Tracheobronchopathia osteochondroplastica](http://www.orpha.net/ORDO/Orphanet_3348)
 
@@ -16328,8 +16328,8 @@
 
 ## [ICD10CM:L93.1](http://apps.who.int/classifications/icd10/browse/2010/en#/L93.1) [MONDO:0015573](http://purl.obolibrary.org/obo/MONDO_0015573) [Subacute cutaneous lupus erythematosus](http://www.orpha.net/ORDO/Orphanet_163525)
 
-- [MONDO:0015573](http://purl.obolibrary.org/obo/MONDO_0015573) EquivalentTo [Subacute cutaneous lupus erythematosus](http://www.orpha.net/ORDO/Orphanet_163525)	(most probable)	0.99
 - [MONDO:0015573](http://purl.obolibrary.org/obo/MONDO_0015573) EquivalentTo [ICD10CM:L93.1](http://apps.who.int/classifications/icd10/browse/2010/en#/L93.1)	(most probable)	0.99
+- [MONDO:0015573](http://purl.obolibrary.org/obo/MONDO_0015573) EquivalentTo [Subacute cutaneous lupus erythematosus](http://www.orpha.net/ORDO/Orphanet_163525)	(most probable)	0.99
 
 ## [MONDO:0012503](http://purl.obolibrary.org/obo/MONDO_0012503) [OMIM:610460](https://omim.org/entry/610460) [Orphanet:3315](http://www.orpha.net/ORDO/Orphanet_3315)
 
@@ -16418,8 +16418,8 @@
 
 ## [ICD10CM:Q86.1](http://apps.who.int/classifications/icd10/browse/2010/en#/Q86.1) [MONDO:0016008](http://purl.obolibrary.org/obo/MONDO_0016008) [Orphanet:1912](http://www.orpha.net/ORDO/Orphanet_1912)
 
-- [MONDO:0016008](http://purl.obolibrary.org/obo/MONDO_0016008) EquivalentTo [ICD10CM:Q86.1](http://apps.who.int/classifications/icd10/browse/2010/en#/Q86.1)	(most probable)	0.99
 - [MONDO:0016008](http://purl.obolibrary.org/obo/MONDO_0016008) EquivalentTo [Orphanet:1912](http://www.orpha.net/ORDO/Orphanet_1912)	(most probable)	0.99
+- [MONDO:0016008](http://purl.obolibrary.org/obo/MONDO_0016008) EquivalentTo [ICD10CM:Q86.1](http://apps.who.int/classifications/icd10/browse/2010/en#/Q86.1)	(most probable)	0.99
 
 ## [Interstitial lung disease-nephrotic syndrome-epidermolysis bullosa syndrome](http://www.orpha.net/ORDO/Orphanet_306504) [MONDO:0013881](http://purl.obolibrary.org/obo/MONDO_0013881) [OMIM:614748](https://omim.org/entry/614748)
 
@@ -16498,8 +16498,8 @@
 
 ## [ICD10CM:H55.01](http://apps.who.int/classifications/icd10/browse/2010/en#/H55.01) [MONDO:0005712](http://purl.obolibrary.org/obo/MONDO_0005712) [Orphanet:651](http://www.orpha.net/ORDO/Orphanet_651)
 
-- [MONDO:0005712](http://purl.obolibrary.org/obo/MONDO_0005712) EquivalentTo [Orphanet:651](http://www.orpha.net/ORDO/Orphanet_651)	(most probable)	0.99
 - [MONDO:0005712](http://purl.obolibrary.org/obo/MONDO_0005712) EquivalentTo [ICD10CM:H55.01](http://apps.who.int/classifications/icd10/browse/2010/en#/H55.01)	(most probable)	0.99
+- [MONDO:0005712](http://purl.obolibrary.org/obo/MONDO_0005712) EquivalentTo [Orphanet:651](http://www.orpha.net/ORDO/Orphanet_651)	(most probable)	0.99
 
 ## [MONDO:0010310](http://purl.obolibrary.org/obo/MONDO_0010310) [OMIM:300373](https://omim.org/entry/300373) [Orphanet:2780](http://www.orpha.net/ORDO/Orphanet_2780)
 
@@ -16563,8 +16563,8 @@
 
 ## [ICD10CM:A48.52](http://apps.who.int/classifications/icd10/browse/2010/en#/A48.52) [MONDO:0015803](http://purl.obolibrary.org/obo/MONDO_0015803) [Orphanet:178475](http://www.orpha.net/ORDO/Orphanet_178475)
 
-- [MONDO:0015803](http://purl.obolibrary.org/obo/MONDO_0015803) EquivalentTo [Orphanet:178475](http://www.orpha.net/ORDO/Orphanet_178475)	(most probable)	0.99
 - [MONDO:0015803](http://purl.obolibrary.org/obo/MONDO_0015803) EquivalentTo [ICD10CM:A48.52](http://apps.who.int/classifications/icd10/browse/2010/en#/A48.52)	(most probable)	0.99
+- [MONDO:0015803](http://purl.obolibrary.org/obo/MONDO_0015803) EquivalentTo [Orphanet:178475](http://www.orpha.net/ORDO/Orphanet_178475)	(most probable)	0.99
 
 ## [ICD10CM:L90.0](http://apps.who.int/classifications/icd10/browse/2010/en#/L90.0) [MONDO:0007899](http://purl.obolibrary.org/obo/MONDO_0007899) [OMIM:151590](https://omim.org/entry/151590) [Orphanet:33409](http://www.orpha.net/ORDO/Orphanet_33409)
 
@@ -16589,8 +16589,8 @@
 
 ## [ICD10CM:D61.0](http://apps.who.int/classifications/icd10/browse/2010/en#/D61.0) [MONDO:0001713](http://purl.obolibrary.org/obo/MONDO_0001713) [Orphanet:68383](http://www.orpha.net/ORDO/Orphanet_68383)
 
-- [MONDO:0001713](http://purl.obolibrary.org/obo/MONDO_0001713) EquivalentTo [ICD10CM:D61.0](http://apps.who.int/classifications/icd10/browse/2010/en#/D61.0)	(most probable)	0.99
 - [MONDO:0001713](http://purl.obolibrary.org/obo/MONDO_0001713) EquivalentTo [Orphanet:68383](http://www.orpha.net/ORDO/Orphanet_68383)	(most probable)	0.99
+- [MONDO:0001713](http://purl.obolibrary.org/obo/MONDO_0001713) EquivalentTo [ICD10CM:D61.0](http://apps.who.int/classifications/icd10/browse/2010/en#/D61.0)	(most probable)	0.99
 
 ## [MONDO:0010437](http://purl.obolibrary.org/obo/MONDO_0010437) [OMIM:300816](https://omim.org/entry/300816) [Severe X-linked mitochondrial encephalomyopathy](http://www.orpha.net/ORDO/Orphanet_238329)
 
@@ -16720,8 +16720,8 @@
 
 ## [ICD10CM:Q72.23](http://apps.who.int/classifications/icd10/browse/2010/en#/Q72.23) [MONDO:0017501](http://purl.obolibrary.org/obo/MONDO_0017501) [Orphanet:295099](http://www.orpha.net/ORDO/Orphanet_295099)
 
-- [MONDO:0017501](http://purl.obolibrary.org/obo/MONDO_0017501) EquivalentTo [Orphanet:295099](http://www.orpha.net/ORDO/Orphanet_295099)	(most probable)	0.99
 - [MONDO:0017501](http://purl.obolibrary.org/obo/MONDO_0017501) EquivalentTo [ICD10CM:Q72.23](http://apps.who.int/classifications/icd10/browse/2010/en#/Q72.23)	(most probable)	0.99
+- [MONDO:0017501](http://purl.obolibrary.org/obo/MONDO_0017501) EquivalentTo [Orphanet:295099](http://www.orpha.net/ORDO/Orphanet_295099)	(most probable)	0.99
 
 ## [ICD10CM:K56.1](http://apps.who.int/classifications/icd10/browse/2010/en#/K56.1) [MONDO:0007835](http://purl.obolibrary.org/obo/MONDO_0007835) [OMIM:147710](https://omim.org/entry/147710)
 
@@ -16979,8 +16979,8 @@
 
 ## [Cryptogenic organizing pneumonia](http://www.orpha.net/ORDO/Orphanet_1302) [ICD10CM:J84.116](http://apps.who.int/classifications/icd10/browse/2010/en#/J84.116) [MONDO:0015264](http://purl.obolibrary.org/obo/MONDO_0015264)
 
-- [MONDO:0015264](http://purl.obolibrary.org/obo/MONDO_0015264) EquivalentTo [ICD10CM:J84.116](http://apps.who.int/classifications/icd10/browse/2010/en#/J84.116)	(most probable)	0.99
 - [MONDO:0015264](http://purl.obolibrary.org/obo/MONDO_0015264) EquivalentTo [Cryptogenic organizing pneumonia](http://www.orpha.net/ORDO/Orphanet_1302)	(most probable)	0.99
+- [MONDO:0015264](http://purl.obolibrary.org/obo/MONDO_0015264) EquivalentTo [ICD10CM:J84.116](http://apps.who.int/classifications/icd10/browse/2010/en#/J84.116)	(most probable)	0.99
 
 ## [MONDO:0008650](http://purl.obolibrary.org/obo/MONDO_0008650) [OMIM:192800](https://omim.org/entry/192800) [Orphanet:2064](http://www.orpha.net/ORDO/Orphanet_2064)
 
@@ -17039,8 +17039,8 @@
 
 ## [ICD10CM:G56.0](http://apps.who.int/classifications/icd10/browse/2010/en#/G56.0) [MONDO:0007275](http://purl.obolibrary.org/obo/MONDO_0007275) [Orphanet:50838](http://www.orpha.net/ORDO/Orphanet_50838)
 
-- [MONDO:0007275](http://purl.obolibrary.org/obo/MONDO_0007275) EquivalentTo [ICD10CM:G56.0](http://apps.who.int/classifications/icd10/browse/2010/en#/G56.0)	(most probable)	0.99
 - [MONDO:0007275](http://purl.obolibrary.org/obo/MONDO_0007275) EquivalentTo [Orphanet:50838](http://www.orpha.net/ORDO/Orphanet_50838)	(most probable)	0.99
+- [MONDO:0007275](http://purl.obolibrary.org/obo/MONDO_0007275) EquivalentTo [ICD10CM:G56.0](http://apps.who.int/classifications/icd10/browse/2010/en#/G56.0)	(most probable)	0.99
 
 ## [ICD10CM:O90.3](http://apps.who.int/classifications/icd10/browse/2010/en#/O90.3) [MONDO:0018920](http://purl.obolibrary.org/obo/MONDO_0018920) [Peripartum cardiomyopathy](http://www.orpha.net/ORDO/Orphanet_563)
 
@@ -17324,13 +17324,13 @@
 
 ## [ICD10CM:A79.0](http://apps.who.int/classifications/icd10/browse/2010/en#/A79.0) [MONDO:0005991](http://purl.obolibrary.org/obo/MONDO_0005991) [Trench fever](http://www.orpha.net/ORDO/Orphanet_64694)
 
-- [MONDO:0005991](http://purl.obolibrary.org/obo/MONDO_0005991) EquivalentTo [Trench fever](http://www.orpha.net/ORDO/Orphanet_64694)	(most probable)	0.99
 - [MONDO:0005991](http://purl.obolibrary.org/obo/MONDO_0005991) EquivalentTo [ICD10CM:A79.0](http://apps.who.int/classifications/icd10/browse/2010/en#/A79.0)	(most probable)	0.99
+- [MONDO:0005991](http://purl.obolibrary.org/obo/MONDO_0005991) EquivalentTo [Trench fever](http://www.orpha.net/ORDO/Orphanet_64694)	(most probable)	0.99
 
 ## [ICD10CM:Q35.1](http://apps.who.int/classifications/icd10/browse/2010/en#/Q35.1) [MONDO:0015092](http://purl.obolibrary.org/obo/MONDO_0015092) [Orphanet:101023](http://www.orpha.net/ORDO/Orphanet_101023)
 
-- [MONDO:0015092](http://purl.obolibrary.org/obo/MONDO_0015092) EquivalentTo [ICD10CM:Q35.1](http://apps.who.int/classifications/icd10/browse/2010/en#/Q35.1)	(most probable)	0.99
 - [MONDO:0015092](http://purl.obolibrary.org/obo/MONDO_0015092) EquivalentTo [Orphanet:101023](http://www.orpha.net/ORDO/Orphanet_101023)	(most probable)	0.99
+- [MONDO:0015092](http://purl.obolibrary.org/obo/MONDO_0015092) EquivalentTo [ICD10CM:Q35.1](http://apps.who.int/classifications/icd10/browse/2010/en#/Q35.1)	(most probable)	0.99
 
 ## [Gray platelet syndrome](http://www.orpha.net/ORDO/Orphanet_721) [MONDO:0007686](http://purl.obolibrary.org/obo/MONDO_0007686) [OMIM:139090](https://omim.org/entry/139090)
 
@@ -17489,8 +17489,8 @@
 
 ## [ICD10CM:Q25.0](http://apps.who.int/classifications/icd10/browse/2010/en#/Q25.0) [MONDO:0011827](http://purl.obolibrary.org/obo/MONDO_0011827) [Orphanet:706](http://www.orpha.net/ORDO/Orphanet_706)
 
-- [MONDO:0011827](http://purl.obolibrary.org/obo/MONDO_0011827) EquivalentTo [Orphanet:706](http://www.orpha.net/ORDO/Orphanet_706)	(most probable)	0.99
 - [MONDO:0011827](http://purl.obolibrary.org/obo/MONDO_0011827) EquivalentTo [ICD10CM:Q25.0](http://apps.who.int/classifications/icd10/browse/2010/en#/Q25.0)	(most probable)	0.99
+- [MONDO:0011827](http://purl.obolibrary.org/obo/MONDO_0011827) EquivalentTo [Orphanet:706](http://www.orpha.net/ORDO/Orphanet_706)	(most probable)	0.99
 
 ## [MONDO:0008119](http://purl.obolibrary.org/obo/MONDO_0008119) [OMIM:164400](https://omim.org/entry/164400) [Spinocerebellar ataxia type 1](http://www.orpha.net/ORDO/Orphanet_98755)
 
@@ -17534,8 +17534,8 @@
 
 ## [Hereditary cerebral hemorrhage with amyloidosis](http://www.orpha.net/ORDO/Orphanet_85458) [ICD10CM:I68.0](http://apps.who.int/classifications/icd10/browse/2010/en#/I68.0) [MONDO:0005620](http://purl.obolibrary.org/obo/MONDO_0005620)
 
-- [MONDO:0005620](http://purl.obolibrary.org/obo/MONDO_0005620) EquivalentTo [ICD10CM:I68.0](http://apps.who.int/classifications/icd10/browse/2010/en#/I68.0)	(most probable)	0.99
 - [MONDO:0005620](http://purl.obolibrary.org/obo/MONDO_0005620) EquivalentTo [Hereditary cerebral hemorrhage with amyloidosis](http://www.orpha.net/ORDO/Orphanet_85458)	(most probable)	0.99
+- [MONDO:0005620](http://purl.obolibrary.org/obo/MONDO_0005620) EquivalentTo [ICD10CM:I68.0](http://apps.who.int/classifications/icd10/browse/2010/en#/I68.0)	(most probable)	0.99
 
 ## [Cryoglobulinemic vasculitis](http://www.orpha.net/ORDO/Orphanet_91138) [MONDO:0007407](http://purl.obolibrary.org/obo/MONDO_0007407) [OMIM:123550](https://omim.org/entry/123550)
 
@@ -17569,8 +17569,8 @@
 
 ## [Congenital neuronal ceroid lipofuscinosis](http://www.orpha.net/ORDO/Orphanet_168486) [MONDO:0009744](http://purl.obolibrary.org/obo/MONDO_0009744) [OMIM:214200](https://omim.org/entry/214200) [OMIM:256730](https://omim.org/entry/256730) [Orphanet:228329](http://www.orpha.net/ORDO/Orphanet_228329)
 
-- [MONDO:0009744](http://purl.obolibrary.org/obo/MONDO_0009744) SiblingOf [OMIM:256730](https://omim.org/entry/256730)		0.09999999999999998
-- [MONDO:0009744](http://purl.obolibrary.org/obo/MONDO_0009744) EquivalentTo [OMIM:214200](https://omim.org/entry/214200)	(most probable)	0.8
+- [MONDO:0009744](http://purl.obolibrary.org/obo/MONDO_0009744) SiblingOf [OMIM:214200](https://omim.org/entry/214200)		0.09999999999999998
+- [MONDO:0009744](http://purl.obolibrary.org/obo/MONDO_0009744) EquivalentTo [OMIM:256730](https://omim.org/entry/256730)	(most probable)	0.8
 - [MONDO:0009744](http://purl.obolibrary.org/obo/MONDO_0009744) SiblingOf [Orphanet:228329](http://www.orpha.net/ORDO/Orphanet_228329)		0.0050000000000000044
 - [MONDO:0009744](http://purl.obolibrary.org/obo/MONDO_0009744) EquivalentTo [Congenital neuronal ceroid lipofuscinosis](http://www.orpha.net/ORDO/Orphanet_168486)	(most probable)	0.99
 
@@ -17641,8 +17641,8 @@
 
 ## [Discoid lupus erythematosus](http://www.orpha.net/ORDO/Orphanet_90281) [ICD10CM:L93.0](http://apps.who.int/classifications/icd10/browse/2010/en#/L93.0) [MONDO:0019558](http://purl.obolibrary.org/obo/MONDO_0019558)
 
-- [MONDO:0019558](http://purl.obolibrary.org/obo/MONDO_0019558) EquivalentTo [ICD10CM:L93.0](http://apps.who.int/classifications/icd10/browse/2010/en#/L93.0)	(most probable)	0.99
 - [MONDO:0019558](http://purl.obolibrary.org/obo/MONDO_0019558) EquivalentTo [Discoid lupus erythematosus](http://www.orpha.net/ORDO/Orphanet_90281)	(most probable)	0.99
+- [MONDO:0019558](http://purl.obolibrary.org/obo/MONDO_0019558) EquivalentTo [ICD10CM:L93.0](http://apps.who.int/classifications/icd10/browse/2010/en#/L93.0)	(most probable)	0.99
 
 ## [Alpha delta granule deficiency](http://www.orpha.net/ORDO/Orphanet_734) [MONDO:0008495](http://purl.obolibrary.org/obo/MONDO_0008495) [OMIM:185050](https://omim.org/entry/185050)
 
@@ -17756,8 +17756,8 @@
 
 ## [ICD10CM:L83](http://apps.who.int/classifications/icd10/browse/2010/en#/L83) [MONDO:0007035](http://purl.obolibrary.org/obo/MONDO_0007035) [Orphanet:924](http://www.orpha.net/ORDO/Orphanet_924)
 
-- [MONDO:0007035](http://purl.obolibrary.org/obo/MONDO_0007035) EquivalentTo [ICD10CM:L83](http://apps.who.int/classifications/icd10/browse/2010/en#/L83)	(most probable)	0.99
 - [MONDO:0007035](http://purl.obolibrary.org/obo/MONDO_0007035) EquivalentTo [Orphanet:924](http://www.orpha.net/ORDO/Orphanet_924)	(most probable)	0.99
+- [MONDO:0007035](http://purl.obolibrary.org/obo/MONDO_0007035) EquivalentTo [ICD10CM:L83](http://apps.who.int/classifications/icd10/browse/2010/en#/L83)	(most probable)	0.99
 
 ## [MONDO:0010801](http://purl.obolibrary.org/obo/MONDO_0010801) [OMIM:600000](https://omim.org/entry/600000) [Orphanet:3180](http://www.orpha.net/ORDO/Orphanet_3180)
 
@@ -17877,8 +17877,8 @@
 ## [Allergic bronchopulmonary aspergillosis](http://www.orpha.net/ORDO/Orphanet_1164) [ICD10CM:B44.81](http://apps.who.int/classifications/icd10/browse/2010/en#/B44.81) [MONDO:0015243](http://purl.obolibrary.org/obo/MONDO_0015243) [OMIM:103920](https://omim.org/entry/103920)
 
 - [MONDO:0015243](http://purl.obolibrary.org/obo/MONDO_0015243) EquivalentTo [OMIM:103920](https://omim.org/entry/103920)	(most probable)	0.8
-- [MONDO:0015243](http://purl.obolibrary.org/obo/MONDO_0015243) EquivalentTo [ICD10CM:B44.81](http://apps.who.int/classifications/icd10/browse/2010/en#/B44.81)	(most probable)	0.99
 - [MONDO:0015243](http://purl.obolibrary.org/obo/MONDO_0015243) EquivalentTo [Allergic bronchopulmonary aspergillosis](http://www.orpha.net/ORDO/Orphanet_1164)	(most probable)	0.99
+- [MONDO:0015243](http://purl.obolibrary.org/obo/MONDO_0015243) EquivalentTo [ICD10CM:B44.81](http://apps.who.int/classifications/icd10/browse/2010/en#/B44.81)	(most probable)	0.99
 
 ## [Finnish upper limb-onset distal myopathy](http://www.orpha.net/ORDO/Orphanet_399086) [MONDO:0012410](http://purl.obolibrary.org/obo/MONDO_0012410) [OMIM:610099](https://omim.org/entry/610099)
 
@@ -18138,8 +18138,8 @@
 
 ## [ICD10CM:I42.1](http://apps.who.int/classifications/icd10/browse/2010/en#/I42.1) [MONDO:0005045](http://purl.obolibrary.org/obo/MONDO_0005045) [Orphanet:217569](http://www.orpha.net/ORDO/Orphanet_217569)
 
-- [MONDO:0005045](http://purl.obolibrary.org/obo/MONDO_0005045) EquivalentTo [ICD10CM:I42.1](http://apps.who.int/classifications/icd10/browse/2010/en#/I42.1)	(most probable)	0.99
 - [MONDO:0005045](http://purl.obolibrary.org/obo/MONDO_0005045) EquivalentTo [Orphanet:217569](http://www.orpha.net/ORDO/Orphanet_217569)	(most probable)	0.99
+- [MONDO:0005045](http://purl.obolibrary.org/obo/MONDO_0005045) EquivalentTo [ICD10CM:I42.1](http://apps.who.int/classifications/icd10/browse/2010/en#/I42.1)	(most probable)	0.99
 
 ## [MONDO:8000011](http://purl.obolibrary.org/obo/MONDO_8000011) [OMIM:243180](https://omim.org/entry/243180) [Orphanet:99811](http://www.orpha.net/ORDO/Orphanet_99811)
 
@@ -18354,8 +18354,8 @@
 ## [ICD10CM:Q79.3](http://apps.who.int/classifications/icd10/browse/2010/en#/Q79.3) [MONDO:0009264](http://purl.obolibrary.org/obo/MONDO_0009264) [OMIM:230750](https://omim.org/entry/230750) [Orphanet:2368](http://www.orpha.net/ORDO/Orphanet_2368)
 
 - [MONDO:0009264](http://purl.obolibrary.org/obo/MONDO_0009264) EquivalentTo [OMIM:230750](https://omim.org/entry/230750)	(most probable)	0.8
-- [MONDO:0009264](http://purl.obolibrary.org/obo/MONDO_0009264) EquivalentTo [Orphanet:2368](http://www.orpha.net/ORDO/Orphanet_2368)	(most probable)	0.99
 - [MONDO:0009264](http://purl.obolibrary.org/obo/MONDO_0009264) EquivalentTo [ICD10CM:Q79.3](http://apps.who.int/classifications/icd10/browse/2010/en#/Q79.3)	(most probable)	0.99
+- [MONDO:0009264](http://purl.obolibrary.org/obo/MONDO_0009264) EquivalentTo [Orphanet:2368](http://www.orpha.net/ORDO/Orphanet_2368)	(most probable)	0.99
 
 ## [Congenital muscular dystrophy due to LMNA mutation](http://www.orpha.net/ORDO/Orphanet_157973) [MONDO:0013178](http://purl.obolibrary.org/obo/MONDO_0013178) [OMIM:613205](https://omim.org/entry/613205)
 
@@ -18474,8 +18474,8 @@
 
 ## [ICD10CM:A83.1](http://apps.who.int/classifications/icd10/browse/2010/en#/A83.1) [MONDO:0019380](http://purl.obolibrary.org/obo/MONDO_0019380) [Western equine encephalitis](http://www.orpha.net/ORDO/Orphanet_83593)
 
-- [MONDO:0019380](http://purl.obolibrary.org/obo/MONDO_0019380) EquivalentTo [ICD10CM:A83.1](http://apps.who.int/classifications/icd10/browse/2010/en#/A83.1)	(most probable)	0.99
 - [MONDO:0019380](http://purl.obolibrary.org/obo/MONDO_0019380) EquivalentTo [Western equine encephalitis](http://www.orpha.net/ORDO/Orphanet_83593)	(most probable)	0.99
+- [MONDO:0019380](http://purl.obolibrary.org/obo/MONDO_0019380) EquivalentTo [ICD10CM:A83.1](http://apps.who.int/classifications/icd10/browse/2010/en#/A83.1)	(most probable)	0.99
 
 ## [MONDO:0007062](http://purl.obolibrary.org/obo/MONDO_0007062) [OMIM:102650](https://omim.org/entry/102650) [Orphanet:973](http://www.orpha.net/ORDO/Orphanet_973)
 
@@ -18644,8 +18644,8 @@
 
 ## [Achondrogenesis](http://www.orpha.net/ORDO/Orphanet_932) [ICD10CM:Q77.0](http://apps.who.int/classifications/icd10/browse/2010/en#/Q77.0) [MONDO:0019648](http://purl.obolibrary.org/obo/MONDO_0019648)
 
-- [MONDO:0019648](http://purl.obolibrary.org/obo/MONDO_0019648) EquivalentTo [Achondrogenesis](http://www.orpha.net/ORDO/Orphanet_932)	(most probable)	0.99
 - [MONDO:0019648](http://purl.obolibrary.org/obo/MONDO_0019648) EquivalentTo [ICD10CM:Q77.0](http://apps.who.int/classifications/icd10/browse/2010/en#/Q77.0)	(most probable)	0.99
+- [MONDO:0019648](http://purl.obolibrary.org/obo/MONDO_0019648) EquivalentTo [Achondrogenesis](http://www.orpha.net/ORDO/Orphanet_932)	(most probable)	0.99
 
 ## [Congenital ptosis](http://www.orpha.net/ORDO/Orphanet_91411) [MONDO:0008340](http://purl.obolibrary.org/obo/MONDO_0008340) [OMIM:178300](https://omim.org/entry/178300)
 
@@ -18829,13 +18829,13 @@
 
 ## [ICD10CM:F50.0](http://apps.who.int/classifications/icd10/browse/2010/en#/F50.0) [MONDO:0005351](http://purl.obolibrary.org/obo/MONDO_0005351) [Orphanet:36297](http://www.orpha.net/ORDO/Orphanet_36297)
 
-- [MONDO:0005351](http://purl.obolibrary.org/obo/MONDO_0005351) EquivalentTo [Orphanet:36297](http://www.orpha.net/ORDO/Orphanet_36297)	(most probable)	0.99
 - [MONDO:0005351](http://purl.obolibrary.org/obo/MONDO_0005351) EquivalentTo [ICD10CM:F50.0](http://apps.who.int/classifications/icd10/browse/2010/en#/F50.0)	(most probable)	0.99
+- [MONDO:0005351](http://purl.obolibrary.org/obo/MONDO_0005351) EquivalentTo [Orphanet:36297](http://www.orpha.net/ORDO/Orphanet_36297)	(most probable)	0.99
 
 ## [MONDO:0021569](http://purl.obolibrary.org/obo/MONDO_0021569) [OMIM:159001](https://omim.org/entry/159001) [OMIM:181350](https://omim.org/entry/181350) [Orphanet:264](http://www.orpha.net/ORDO/Orphanet_264)
 
-- [MONDO:0021569](http://purl.obolibrary.org/obo/MONDO_0021569) SiblingOf [OMIM:181350](https://omim.org/entry/181350)		0.09999999999999998
-- [MONDO:0021569](http://purl.obolibrary.org/obo/MONDO_0021569) EquivalentTo [OMIM:159001](https://omim.org/entry/159001)	(most probable)	0.8
+- [MONDO:0021569](http://purl.obolibrary.org/obo/MONDO_0021569) SiblingOf [OMIM:159001](https://omim.org/entry/159001)		0.09999999999999998
+- [MONDO:0021569](http://purl.obolibrary.org/obo/MONDO_0021569) EquivalentTo [OMIM:181350](https://omim.org/entry/181350)	(most probable)	0.8
 - [MONDO:0021569](http://purl.obolibrary.org/obo/MONDO_0021569) EquivalentTo [Orphanet:264](http://www.orpha.net/ORDO/Orphanet_264)	(most probable)	0.99
 
 ## [Auditory neuropathy-optic atrophy syndrome](http://www.orpha.net/ORDO/Orphanet_542585) [MONDO:0060582](http://purl.obolibrary.org/obo/MONDO_0060582) [OMIM:617717](https://omim.org/entry/617717)
@@ -18915,8 +18915,8 @@
 
 ## [Acquired hypertrichosis lanuginosa](http://www.orpha.net/ORDO/Orphanet_2221) [ICD10CM:L68.1](http://apps.who.int/classifications/icd10/browse/2010/en#/L68.1) [MONDO:0016380](http://purl.obolibrary.org/obo/MONDO_0016380)
 
-- [MONDO:0016380](http://purl.obolibrary.org/obo/MONDO_0016380) EquivalentTo [ICD10CM:L68.1](http://apps.who.int/classifications/icd10/browse/2010/en#/L68.1)	(most probable)	0.99
 - [MONDO:0016380](http://purl.obolibrary.org/obo/MONDO_0016380) EquivalentTo [Acquired hypertrichosis lanuginosa](http://www.orpha.net/ORDO/Orphanet_2221)	(most probable)	0.99
+- [MONDO:0016380](http://purl.obolibrary.org/obo/MONDO_0016380) EquivalentTo [ICD10CM:L68.1](http://apps.who.int/classifications/icd10/browse/2010/en#/L68.1)	(most probable)	0.99
 
 ## [MONDO:0009738](http://purl.obolibrary.org/obo/MONDO_0009738) [OMIM:256150](https://omim.org/entry/256150) [OMIM:256550](https://omim.org/entry/256550) [Sialidosis type 2](http://www.orpha.net/ORDO/Orphanet_87876)
 
@@ -18941,8 +18941,8 @@
 
 ## [ICD10CM:A92.4](http://apps.who.int/classifications/icd10/browse/2010/en#/A92.4) [MONDO:0017880](http://purl.obolibrary.org/obo/MONDO_0017880) [Rift valley fever](http://www.orpha.net/ORDO/Orphanet_319251)
 
-- [MONDO:0017880](http://purl.obolibrary.org/obo/MONDO_0017880) EquivalentTo [Rift valley fever](http://www.orpha.net/ORDO/Orphanet_319251)	(most probable)	0.99
 - [MONDO:0017880](http://purl.obolibrary.org/obo/MONDO_0017880) EquivalentTo [ICD10CM:A92.4](http://apps.who.int/classifications/icd10/browse/2010/en#/A92.4)	(most probable)	0.99
+- [MONDO:0017880](http://purl.obolibrary.org/obo/MONDO_0017880) EquivalentTo [Rift valley fever](http://www.orpha.net/ORDO/Orphanet_319251)	(most probable)	0.99
 
 ## [MONDO:0010270](http://purl.obolibrary.org/obo/MONDO_0010270) [OMIM:300218](https://omim.org/entry/300218) [Orphanet:85274](http://www.orpha.net/ORDO/Orphanet_85274)
 
@@ -18961,8 +18961,8 @@
 
 ## [Cryptococcosis](http://www.orpha.net/ORDO/Orphanet_1546) [ICD10CM:B45](http://apps.who.int/classifications/icd10/browse/2010/en#/B45) [MONDO:0005724](http://purl.obolibrary.org/obo/MONDO_0005724)
 
-- [MONDO:0005724](http://purl.obolibrary.org/obo/MONDO_0005724) EquivalentTo [ICD10CM:B45](http://apps.who.int/classifications/icd10/browse/2010/en#/B45)	(most probable)	0.99
 - [MONDO:0005724](http://purl.obolibrary.org/obo/MONDO_0005724) EquivalentTo [Cryptococcosis](http://www.orpha.net/ORDO/Orphanet_1546)	(most probable)	0.99
+- [MONDO:0005724](http://purl.obolibrary.org/obo/MONDO_0005724) EquivalentTo [ICD10CM:B45](http://apps.who.int/classifications/icd10/browse/2010/en#/B45)	(most probable)	0.99
 
 ## [MONDO:0009803](http://purl.obolibrary.org/obo/MONDO_0009803) [OMIM:259410](https://omim.org/entry/259410) [Orphanet:2772](http://www.orpha.net/ORDO/Orphanet_2772)
 
@@ -19016,8 +19016,8 @@
 
 ## [ICD10CM:E71.111](http://apps.who.int/classifications/icd10/browse/2010/en#/E71.111) [MONDO:0017359](http://purl.obolibrary.org/obo/MONDO_0017359) [Orphanet:289902](http://www.orpha.net/ORDO/Orphanet_289902)
 
-- [MONDO:0017359](http://purl.obolibrary.org/obo/MONDO_0017359) EquivalentTo [ICD10CM:E71.111](http://apps.who.int/classifications/icd10/browse/2010/en#/E71.111)	(most probable)	0.99
 - [MONDO:0017359](http://purl.obolibrary.org/obo/MONDO_0017359) EquivalentTo [Orphanet:289902](http://www.orpha.net/ORDO/Orphanet_289902)	(most probable)	0.99
+- [MONDO:0017359](http://purl.obolibrary.org/obo/MONDO_0017359) EquivalentTo [ICD10CM:E71.111](http://apps.who.int/classifications/icd10/browse/2010/en#/E71.111)	(most probable)	0.99
 
 ## [Cheilitis glandularis](http://www.orpha.net/ORDO/Orphanet_1221) [MONDO:0007313](http://purl.obolibrary.org/obo/MONDO_0007313) [OMIM:118330](https://omim.org/entry/118330)
 
@@ -19036,8 +19036,8 @@
 
 ## [Hymenolepiasis](http://www.orpha.net/ORDO/Orphanet_401) [ICD10CM:B71.0](http://apps.who.int/classifications/icd10/browse/2010/en#/B71.0) [MONDO:0005802](http://purl.obolibrary.org/obo/MONDO_0005802)
 
-- [MONDO:0005802](http://purl.obolibrary.org/obo/MONDO_0005802) EquivalentTo [Hymenolepiasis](http://www.orpha.net/ORDO/Orphanet_401)	(most probable)	0.99
 - [MONDO:0005802](http://purl.obolibrary.org/obo/MONDO_0005802) EquivalentTo [ICD10CM:B71.0](http://apps.who.int/classifications/icd10/browse/2010/en#/B71.0)	(most probable)	0.99
+- [MONDO:0005802](http://purl.obolibrary.org/obo/MONDO_0005802) EquivalentTo [Hymenolepiasis](http://www.orpha.net/ORDO/Orphanet_401)	(most probable)	0.99
 
 ## [MONDO:0008768](http://purl.obolibrary.org/obo/MONDO_0008768) [OMIM:204300](https://omim.org/entry/204300) [Orphanet:228340](http://www.orpha.net/ORDO/Orphanet_228340)
 
@@ -19257,8 +19257,8 @@
 ## [ICD10CM:Q45.1](http://apps.who.int/classifications/icd10/browse/2010/en#/Q45.1) [MONDO:0008183](http://purl.obolibrary.org/obo/MONDO_0008183) [OMIM:167750](https://omim.org/entry/167750) [Orphanet:675](http://www.orpha.net/ORDO/Orphanet_675)
 
 - [MONDO:0008183](http://purl.obolibrary.org/obo/MONDO_0008183) EquivalentTo [OMIM:167750](https://omim.org/entry/167750)	(most probable)	0.8
-- [MONDO:0008183](http://purl.obolibrary.org/obo/MONDO_0008183) EquivalentTo [Orphanet:675](http://www.orpha.net/ORDO/Orphanet_675)	(most probable)	0.99
 - [MONDO:0008183](http://purl.obolibrary.org/obo/MONDO_0008183) EquivalentTo [ICD10CM:Q45.1](http://apps.who.int/classifications/icd10/browse/2010/en#/Q45.1)	(most probable)	0.99
+- [MONDO:0008183](http://purl.obolibrary.org/obo/MONDO_0008183) EquivalentTo [Orphanet:675](http://www.orpha.net/ORDO/Orphanet_675)	(most probable)	0.99
 
 ## [Intellectual disability-myopathy-short stature-endocrine defect syndrome](http://www.orpha.net/ORDO/Orphanet_3068) [MONDO:0009671](http://purl.obolibrary.org/obo/MONDO_0009671) [OMIM:253320](https://omim.org/entry/253320)
 
@@ -19273,9 +19273,9 @@
 ## [Acrodermatitis continua of Hallopeau](http://www.orpha.net/ORDO/Orphanet_163931) [DITRA](http://www.orpha.net/ORDO/Orphanet_404546) [Generalized pustular psoriasis](http://www.orpha.net/ORDO/Orphanet_247353) [MONDO:0013626](http://purl.obolibrary.org/obo/MONDO_0013626) [OMIM:614204](https://omim.org/entry/614204)
 
 - [MONDO:0013626](http://purl.obolibrary.org/obo/MONDO_0013626) EquivalentTo [OMIM:614204](https://omim.org/entry/614204)	(most probable)	0.8
+- [MONDO:0013626](http://purl.obolibrary.org/obo/MONDO_0013626) SiblingOf [Acrodermatitis continua of Hallopeau](http://www.orpha.net/ORDO/Orphanet_163931)		0.0050000000000000044
 - [MONDO:0013626](http://purl.obolibrary.org/obo/MONDO_0013626) SiblingOf [DITRA](http://www.orpha.net/ORDO/Orphanet_404546)		0.0050000000000000044
-- [MONDO:0013626](http://purl.obolibrary.org/obo/MONDO_0013626) SiblingOf [Generalized pustular psoriasis](http://www.orpha.net/ORDO/Orphanet_247353)		0.0050000000000000044
-- [MONDO:0013626](http://purl.obolibrary.org/obo/MONDO_0013626) EquivalentTo [Acrodermatitis continua of Hallopeau](http://www.orpha.net/ORDO/Orphanet_163931)	(most probable)	0.99
+- [MONDO:0013626](http://purl.obolibrary.org/obo/MONDO_0013626) EquivalentTo [Generalized pustular psoriasis](http://www.orpha.net/ORDO/Orphanet_247353)	(most probable)	0.99
 
 ## [MONDO:0009712](http://purl.obolibrary.org/obo/MONDO_0009712) [OMIM:255320](https://omim.org/entry/255320) [Orphanet:98905](http://www.orpha.net/ORDO/Orphanet_98905)
 
@@ -19429,8 +19429,8 @@
 
 ## [ICD10CM:P94.0](http://apps.who.int/classifications/icd10/browse/2010/en#/P94.0) [MONDO:0018326](http://purl.obolibrary.org/obo/MONDO_0018326) [Orphanet:391504](http://www.orpha.net/ORDO/Orphanet_391504)
 
-- [MONDO:0018326](http://purl.obolibrary.org/obo/MONDO_0018326) EquivalentTo [Orphanet:391504](http://www.orpha.net/ORDO/Orphanet_391504)	(most probable)	0.99
 - [MONDO:0018326](http://purl.obolibrary.org/obo/MONDO_0018326) EquivalentTo [ICD10CM:P94.0](http://apps.who.int/classifications/icd10/browse/2010/en#/P94.0)	(most probable)	0.99
+- [MONDO:0018326](http://purl.obolibrary.org/obo/MONDO_0018326) EquivalentTo [Orphanet:391504](http://www.orpha.net/ORDO/Orphanet_391504)	(most probable)	0.99
 
 ## [Autosomal recessive spastic paraplegia type 28](http://www.orpha.net/ORDO/Orphanet_101008) [MONDO:0012256](http://purl.obolibrary.org/obo/MONDO_0012256) [OMIM:609340](https://omim.org/entry/609340)
 
@@ -19444,8 +19444,8 @@
 
 ## [ICD10CM:K52.832](http://apps.who.int/classifications/icd10/browse/2010/en#/K52.832) [MONDO:0000704](http://purl.obolibrary.org/obo/MONDO_0000704) [Orphanet:65279](http://www.orpha.net/ORDO/Orphanet_65279)
 
-- [MONDO:0000704](http://purl.obolibrary.org/obo/MONDO_0000704) EquivalentTo [ICD10CM:K52.832](http://apps.who.int/classifications/icd10/browse/2010/en#/K52.832)	(most probable)	0.99
 - [MONDO:0000704](http://purl.obolibrary.org/obo/MONDO_0000704) EquivalentTo [Orphanet:65279](http://www.orpha.net/ORDO/Orphanet_65279)	(most probable)	0.99
+- [MONDO:0000704](http://purl.obolibrary.org/obo/MONDO_0000704) EquivalentTo [ICD10CM:K52.832](http://apps.who.int/classifications/icd10/browse/2010/en#/K52.832)	(most probable)	0.99
 
 ## [Desmoid tumor](http://www.orpha.net/ORDO/Orphanet_873) [MONDO:0007608](http://purl.obolibrary.org/obo/MONDO_0007608) [OMIM:135290](https://omim.org/entry/135290)
 
@@ -19494,8 +19494,8 @@
 
 ## [ICD10CM:A77](http://apps.who.int/classifications/icd10/browse/2010/en#/A77) [MONDO:0001195](http://purl.obolibrary.org/obo/MONDO_0001195) [Orphanet:102022](http://www.orpha.net/ORDO/Orphanet_102022)
 
-- [MONDO:0001195](http://purl.obolibrary.org/obo/MONDO_0001195) EquivalentTo [ICD10CM:A77](http://apps.who.int/classifications/icd10/browse/2010/en#/A77)	(most probable)	0.99
 - [MONDO:0001195](http://purl.obolibrary.org/obo/MONDO_0001195) EquivalentTo [Orphanet:102022](http://www.orpha.net/ORDO/Orphanet_102022)	(most probable)	0.99
+- [MONDO:0001195](http://purl.obolibrary.org/obo/MONDO_0001195) EquivalentTo [ICD10CM:A77](http://apps.who.int/classifications/icd10/browse/2010/en#/A77)	(most probable)	0.99
 
 ## [MONDO:0013110](http://purl.obolibrary.org/obo/MONDO_0013110) [Neurodegenerative syndrome due to cerebral folate transport deficiency](http://www.orpha.net/ORDO/Orphanet_217382) [OMIM:613068](https://omim.org/entry/613068)
 
@@ -19534,8 +19534,8 @@
 
 ## [Amyotrophic lateral sclerosis](http://www.orpha.net/ORDO/Orphanet_803) [ICD10CM:G12.21](http://apps.who.int/classifications/icd10/browse/2010/en#/G12.21) [MONDO:0004976](http://purl.obolibrary.org/obo/MONDO_0004976)
 
-- [MONDO:0004976](http://purl.obolibrary.org/obo/MONDO_0004976) EquivalentTo [ICD10CM:G12.21](http://apps.who.int/classifications/icd10/browse/2010/en#/G12.21)	(most probable)	0.99
 - [MONDO:0004976](http://purl.obolibrary.org/obo/MONDO_0004976) EquivalentTo [Amyotrophic lateral sclerosis](http://www.orpha.net/ORDO/Orphanet_803)	(most probable)	0.99
+- [MONDO:0004976](http://purl.obolibrary.org/obo/MONDO_0004976) EquivalentTo [ICD10CM:G12.21](http://apps.who.int/classifications/icd10/browse/2010/en#/G12.21)	(most probable)	0.99
 
 ## [MONDO:0012308](http://purl.obolibrary.org/obo/MONDO_0012308) [OMIM:609583](https://omim.org/entry/609583) [Orphanet:220497](http://www.orpha.net/ORDO/Orphanet_220497)
 
@@ -19554,8 +19554,8 @@
 
 ## [ICD10CM:N40-N51](http://apps.who.int/classifications/icd10/browse/2010/en#/N40-N51) [ICD10CM:N40-N53](http://apps.who.int/classifications/icd10/browse/2010/en#/N40-N53) [MONDO:0003150](http://purl.obolibrary.org/obo/MONDO_0003150)
 
-- [MONDO:0003150](http://purl.obolibrary.org/obo/MONDO_0003150) SiblingOf [ICD10CM:N40-N53](http://apps.who.int/classifications/icd10/browse/2010/en#/N40-N53)		0.0050000000000000044
-- [MONDO:0003150](http://purl.obolibrary.org/obo/MONDO_0003150) EquivalentTo [ICD10CM:N40-N51](http://apps.who.int/classifications/icd10/browse/2010/en#/N40-N51)	(most probable)	0.99
+- [MONDO:0003150](http://purl.obolibrary.org/obo/MONDO_0003150) SiblingOf [ICD10CM:N40-N51](http://apps.who.int/classifications/icd10/browse/2010/en#/N40-N51)		0.0050000000000000044
+- [MONDO:0003150](http://purl.obolibrary.org/obo/MONDO_0003150) EquivalentTo [ICD10CM:N40-N53](http://apps.who.int/classifications/icd10/browse/2010/en#/N40-N53)	(most probable)	0.99
 
 ## [MONDO:0010134](http://purl.obolibrary.org/obo/MONDO_0010134) [OMIM:274600](https://omim.org/entry/274600) [Orphanet:705](http://www.orpha.net/ORDO/Orphanet_705)
 
@@ -19685,14 +19685,14 @@
 
 ## [ICD10CM:G71.0](http://apps.who.int/classifications/icd10/browse/2010/en#/G71.0) [MONDO:0020121](http://purl.obolibrary.org/obo/MONDO_0020121) [Orphanet:98473](http://www.orpha.net/ORDO/Orphanet_98473)
 
-- [MONDO:0020121](http://purl.obolibrary.org/obo/MONDO_0020121) EquivalentTo [Orphanet:98473](http://www.orpha.net/ORDO/Orphanet_98473)	(most probable)	0.99
 - [MONDO:0020121](http://purl.obolibrary.org/obo/MONDO_0020121) EquivalentTo [ICD10CM:G71.0](http://apps.who.int/classifications/icd10/browse/2010/en#/G71.0)	(most probable)	0.99
+- [MONDO:0020121](http://purl.obolibrary.org/obo/MONDO_0020121) EquivalentTo [Orphanet:98473](http://www.orpha.net/ORDO/Orphanet_98473)	(most probable)	0.99
 
 ## [ICD10CM:C86.3](http://apps.who.int/classifications/icd10/browse/2010/en#/C86.3) [MONDO:0019475](http://purl.obolibrary.org/obo/MONDO_0019475) [OMIM:618398](https://omim.org/entry/618398) [Subcutaneous panniculitis-like T-cell lymphoma](http://www.orpha.net/ORDO/Orphanet_86884)
 
 - [MONDO:0019475](http://purl.obolibrary.org/obo/MONDO_0019475) EquivalentTo [OMIM:618398](https://omim.org/entry/618398)	(most probable)	0.8
-- [MONDO:0019475](http://purl.obolibrary.org/obo/MONDO_0019475) EquivalentTo [ICD10CM:C86.3](http://apps.who.int/classifications/icd10/browse/2010/en#/C86.3)	(most probable)	0.99
 - [MONDO:0019475](http://purl.obolibrary.org/obo/MONDO_0019475) EquivalentTo [Subcutaneous panniculitis-like T-cell lymphoma](http://www.orpha.net/ORDO/Orphanet_86884)	(most probable)	0.99
+- [MONDO:0019475](http://purl.obolibrary.org/obo/MONDO_0019475) EquivalentTo [ICD10CM:C86.3](http://apps.who.int/classifications/icd10/browse/2010/en#/C86.3)	(most probable)	0.99
 
 ## [MONDO:0008138](http://purl.obolibrary.org/obo/MONDO_0008138) [OMIM:165600](https://omim.org/entry/165600) [Orphanet:98606](http://www.orpha.net/ORDO/Orphanet_98606)
 
@@ -19712,8 +19712,8 @@
 ## [ICD10CM:E71.311](http://apps.who.int/classifications/icd10/browse/2010/en#/E71.311) [MONDO:0008721](http://purl.obolibrary.org/obo/MONDO_0008721) [Medium chain acyl-CoA dehydrogenase deficiency](http://www.orpha.net/ORDO/Orphanet_42) [OMIM:201450](https://omim.org/entry/201450)
 
 - [MONDO:0008721](http://purl.obolibrary.org/obo/MONDO_0008721) EquivalentTo [OMIM:201450](https://omim.org/entry/201450)	(most probable)	0.8
-- [MONDO:0008721](http://purl.obolibrary.org/obo/MONDO_0008721) EquivalentTo [ICD10CM:E71.311](http://apps.who.int/classifications/icd10/browse/2010/en#/E71.311)	(most probable)	0.99
 - [MONDO:0008721](http://purl.obolibrary.org/obo/MONDO_0008721) EquivalentTo [Medium chain acyl-CoA dehydrogenase deficiency](http://www.orpha.net/ORDO/Orphanet_42)	(most probable)	0.99
+- [MONDO:0008721](http://purl.obolibrary.org/obo/MONDO_0008721) EquivalentTo [ICD10CM:E71.311](http://apps.who.int/classifications/icd10/browse/2010/en#/E71.311)	(most probable)	0.99
 
 ## [MONDO:0014751](http://purl.obolibrary.org/obo/MONDO_0014751) [OMIM:616728](https://omim.org/entry/616728) [Orphanet:477993](http://www.orpha.net/ORDO/Orphanet_477993)
 
@@ -19877,8 +19877,8 @@
 
 ## [ICD10CM:Q10.1](http://apps.who.int/classifications/icd10/browse/2010/en#/Q10.1) [MONDO:0020161](http://purl.obolibrary.org/obo/MONDO_0020161) [Orphanet:98570](http://www.orpha.net/ORDO/Orphanet_98570)
 
-- [MONDO:0020161](http://purl.obolibrary.org/obo/MONDO_0020161) EquivalentTo [Orphanet:98570](http://www.orpha.net/ORDO/Orphanet_98570)	(most probable)	0.99
 - [MONDO:0020161](http://purl.obolibrary.org/obo/MONDO_0020161) EquivalentTo [ICD10CM:Q10.1](http://apps.who.int/classifications/icd10/browse/2010/en#/Q10.1)	(most probable)	0.99
+- [MONDO:0020161](http://purl.obolibrary.org/obo/MONDO_0020161) EquivalentTo [Orphanet:98570](http://www.orpha.net/ORDO/Orphanet_98570)	(most probable)	0.99
 
 ## [MONDO:0007737](http://purl.obolibrary.org/obo/MONDO_0007737) [OMIM:143050](https://omim.org/entry/143050) [Orphanet:3265](http://www.orpha.net/ORDO/Orphanet_3265)
 
@@ -19938,8 +19938,8 @@
 ## [ICD10CM:E79.1](http://apps.who.int/classifications/icd10/browse/2010/en#/E79.1) [Lesch-Nyhan syndrome](http://www.orpha.net/ORDO/Orphanet_510) [MONDO:0010298](http://purl.obolibrary.org/obo/MONDO_0010298) [OMIM:300322](https://omim.org/entry/300322)
 
 - [MONDO:0010298](http://purl.obolibrary.org/obo/MONDO_0010298) EquivalentTo [OMIM:300322](https://omim.org/entry/300322)	(most probable)	0.8
-- [MONDO:0010298](http://purl.obolibrary.org/obo/MONDO_0010298) EquivalentTo [Lesch-Nyhan syndrome](http://www.orpha.net/ORDO/Orphanet_510)	(most probable)	0.99
 - [MONDO:0010298](http://purl.obolibrary.org/obo/MONDO_0010298) EquivalentTo [ICD10CM:E79.1](http://apps.who.int/classifications/icd10/browse/2010/en#/E79.1)	(most probable)	0.99
+- [MONDO:0010298](http://purl.obolibrary.org/obo/MONDO_0010298) EquivalentTo [Lesch-Nyhan syndrome](http://www.orpha.net/ORDO/Orphanet_510)	(most probable)	0.99
 
 ## [MONDO:0008708](http://purl.obolibrary.org/obo/MONDO_0008708) [OMIM:200990](https://omim.org/entry/200990) [Orphanet:36](http://www.orpha.net/ORDO/Orphanet_36)
 
@@ -19959,8 +19959,8 @@
 ## [ICD10CM:E71.312](http://apps.who.int/classifications/icd10/browse/2010/en#/E71.312) [MONDO:0008722](http://purl.obolibrary.org/obo/MONDO_0008722) [OMIM:201470](https://omim.org/entry/201470) [Short chain acyl-CoA dehydrogenase deficiency](http://www.orpha.net/ORDO/Orphanet_26792)
 
 - [MONDO:0008722](http://purl.obolibrary.org/obo/MONDO_0008722) EquivalentTo [OMIM:201470](https://omim.org/entry/201470)	(most probable)	0.8
-- [MONDO:0008722](http://purl.obolibrary.org/obo/MONDO_0008722) EquivalentTo [Short chain acyl-CoA dehydrogenase deficiency](http://www.orpha.net/ORDO/Orphanet_26792)	(most probable)	0.99
 - [MONDO:0008722](http://purl.obolibrary.org/obo/MONDO_0008722) EquivalentTo [ICD10CM:E71.312](http://apps.who.int/classifications/icd10/browse/2010/en#/E71.312)	(most probable)	0.99
+- [MONDO:0008722](http://purl.obolibrary.org/obo/MONDO_0008722) EquivalentTo [Short chain acyl-CoA dehydrogenase deficiency](http://www.orpha.net/ORDO/Orphanet_26792)	(most probable)	0.99
 
 ## [MONDO:0007414](http://purl.obolibrary.org/obo/MONDO_0007414) [OMIM:123880](https://omim.org/entry/123880) [Orphanet:73](http://www.orpha.net/ORDO/Orphanet_73)
 
@@ -20189,8 +20189,8 @@
 
 ## [ICD10CM:Q23.2](http://apps.who.int/classifications/icd10/browse/2010/en#/Q23.2) [MONDO:0020398](http://purl.obolibrary.org/obo/MONDO_0020398) [Orphanet:99057](http://www.orpha.net/ORDO/Orphanet_99057)
 
-- [MONDO:0020398](http://purl.obolibrary.org/obo/MONDO_0020398) EquivalentTo [ICD10CM:Q23.2](http://apps.who.int/classifications/icd10/browse/2010/en#/Q23.2)	(most probable)	0.99
 - [MONDO:0020398](http://purl.obolibrary.org/obo/MONDO_0020398) EquivalentTo [Orphanet:99057](http://www.orpha.net/ORDO/Orphanet_99057)	(most probable)	0.99
+- [MONDO:0020398](http://purl.obolibrary.org/obo/MONDO_0020398) EquivalentTo [ICD10CM:Q23.2](http://apps.who.int/classifications/icd10/browse/2010/en#/Q23.2)	(most probable)	0.99
 
 ## [Body skin hyperlaxity due to vitamin K-dependent coagulation factor deficiency](http://www.orpha.net/ORDO/Orphanet_91135) [MONDO:0012570](http://purl.obolibrary.org/obo/MONDO_0012570) [OMIM:610842](https://omim.org/entry/610842)
 
@@ -20370,8 +20370,8 @@
 ## [ICD10CM:D61.3](http://apps.who.int/classifications/icd10/browse/2010/en#/D61.3) [Idiopathic aplastic anemia](http://www.orpha.net/ORDO/Orphanet_88) [MONDO:0012197](http://purl.obolibrary.org/obo/MONDO_0012197) [OMIM:609135](https://omim.org/entry/609135)
 
 - [MONDO:0012197](http://purl.obolibrary.org/obo/MONDO_0012197) EquivalentTo [OMIM:609135](https://omim.org/entry/609135)	(most probable)	0.8
-- [MONDO:0012197](http://purl.obolibrary.org/obo/MONDO_0012197) EquivalentTo [Idiopathic aplastic anemia](http://www.orpha.net/ORDO/Orphanet_88)	(most probable)	0.99
 - [MONDO:0012197](http://purl.obolibrary.org/obo/MONDO_0012197) EquivalentTo [ICD10CM:D61.3](http://apps.who.int/classifications/icd10/browse/2010/en#/D61.3)	(most probable)	0.99
+- [MONDO:0012197](http://purl.obolibrary.org/obo/MONDO_0012197) EquivalentTo [Idiopathic aplastic anemia](http://www.orpha.net/ORDO/Orphanet_88)	(most probable)	0.99
 
 ## [MONDO:0013905](http://purl.obolibrary.org/obo/MONDO_0013905) [OMIM:614831](https://omim.org/entry/614831) [Orphanet:324262](http://www.orpha.net/ORDO/Orphanet_324262)
 
@@ -20451,8 +20451,8 @@
 ## [ICD10CM:Q17.2](http://apps.who.int/classifications/icd10/browse/2010/en#/Q17.2) [MONDO:0010920](http://purl.obolibrary.org/obo/MONDO_0010920) [OMIM:600674](https://omim.org/entry/600674) [Orphanet:83463](http://www.orpha.net/ORDO/Orphanet_83463)
 
 - [MONDO:0010920](http://purl.obolibrary.org/obo/MONDO_0010920) EquivalentTo [OMIM:600674](https://omim.org/entry/600674)	(most probable)	0.8
-- [MONDO:0010920](http://purl.obolibrary.org/obo/MONDO_0010920) EquivalentTo [ICD10CM:Q17.2](http://apps.who.int/classifications/icd10/browse/2010/en#/Q17.2)	(most probable)	0.99
 - [MONDO:0010920](http://purl.obolibrary.org/obo/MONDO_0010920) EquivalentTo [Orphanet:83463](http://www.orpha.net/ORDO/Orphanet_83463)	(most probable)	0.99
+- [MONDO:0010920](http://purl.obolibrary.org/obo/MONDO_0010920) EquivalentTo [ICD10CM:Q17.2](http://apps.who.int/classifications/icd10/browse/2010/en#/Q17.2)	(most probable)	0.99
 
 ## [Hyperuricemia-pulmonary hypertension-renal failure-alkalosis syndrome](http://www.orpha.net/ORDO/Orphanet_363694) [MONDO:0013458](http://purl.obolibrary.org/obo/MONDO_0013458) [OMIM:613845](https://omim.org/entry/613845)
 
@@ -20501,8 +20501,8 @@
 
 ## [ICD10CM:B53](http://apps.who.int/classifications/icd10/browse/2010/en#/B53) [MONDO:0005136](http://purl.obolibrary.org/obo/MONDO_0005136) [Malaria](http://www.orpha.net/ORDO/Orphanet_673)
 
-- [MONDO:0005136](http://purl.obolibrary.org/obo/MONDO_0005136) EquivalentTo [Malaria](http://www.orpha.net/ORDO/Orphanet_673)	(most probable)	0.99
 - [MONDO:0005136](http://purl.obolibrary.org/obo/MONDO_0005136) EquivalentTo [ICD10CM:B53](http://apps.who.int/classifications/icd10/browse/2010/en#/B53)	(most probable)	0.99
+- [MONDO:0005136](http://purl.obolibrary.org/obo/MONDO_0005136) EquivalentTo [Malaria](http://www.orpha.net/ORDO/Orphanet_673)	(most probable)	0.99
 
 ## [MONDO:0008338](http://purl.obolibrary.org/obo/MONDO_0008338) [OMIM:178110](https://omim.org/entry/178110) [Orphanet:65743](http://www.orpha.net/ORDO/Orphanet_65743)
 
@@ -20612,8 +20612,8 @@
 
 ## [Hypermethioninemia encephalopathy due to adenosine kinase deficiency](http://www.orpha.net/ORDO/Orphanet_289290) [MONDO:0100255](http://purl.obolibrary.org/obo/MONDO_0100255) [OMIM:611094](https://omim.org/entry/611094) [OMIM:614300](https://omim.org/entry/614300)
 
-- [MONDO:0100255](http://purl.obolibrary.org/obo/MONDO_0100255) SiblingOf [OMIM:614300](https://omim.org/entry/614300)		0.09999999999999998
-- [MONDO:0100255](http://purl.obolibrary.org/obo/MONDO_0100255) EquivalentTo [OMIM:611094](https://omim.org/entry/611094)	(most probable)	0.8
+- [MONDO:0100255](http://purl.obolibrary.org/obo/MONDO_0100255) SiblingOf [OMIM:611094](https://omim.org/entry/611094)		0.09999999999999998
+- [MONDO:0100255](http://purl.obolibrary.org/obo/MONDO_0100255) EquivalentTo [OMIM:614300](https://omim.org/entry/614300)	(most probable)	0.8
 - [MONDO:0100255](http://purl.obolibrary.org/obo/MONDO_0100255) EquivalentTo [Hypermethioninemia encephalopathy due to adenosine kinase deficiency](http://www.orpha.net/ORDO/Orphanet_289290)	(most probable)	0.99
 
 ## [Cystic fibrosis](http://www.orpha.net/ORDO/Orphanet_586) [ICD10CM:E84](http://apps.who.int/classifications/icd10/browse/2010/en#/E84) [MONDO:0009061](http://purl.obolibrary.org/obo/MONDO_0009061) [OMIM:219700](https://omim.org/entry/219700)
@@ -20695,8 +20695,8 @@
 ## [MONDO:0010030](http://purl.obolibrary.org/obo/MONDO_0010030) [OMIM:270150](https://omim.org/entry/270150) [Orphanet:378](http://www.orpha.net/ORDO/Orphanet_378) [Primary Sjögren syndrome](http://www.orpha.net/ORDO/Orphanet_289390)
 
 - [MONDO:0010030](http://purl.obolibrary.org/obo/MONDO_0010030) EquivalentTo [OMIM:270150](https://omim.org/entry/270150)	(most probable)	0.8
-- [MONDO:0010030](http://purl.obolibrary.org/obo/MONDO_0010030) SiblingOf [Orphanet:378](http://www.orpha.net/ORDO/Orphanet_378)		0.0050000000000000044
-- [MONDO:0010030](http://purl.obolibrary.org/obo/MONDO_0010030) EquivalentTo [Primary Sjögren syndrome](http://www.orpha.net/ORDO/Orphanet_289390)	(most probable)	0.99
+- [MONDO:0010030](http://purl.obolibrary.org/obo/MONDO_0010030) SiblingOf [Primary Sjögren syndrome](http://www.orpha.net/ORDO/Orphanet_289390)		0.0050000000000000044
+- [MONDO:0010030](http://purl.obolibrary.org/obo/MONDO_0010030) EquivalentTo [Orphanet:378](http://www.orpha.net/ORDO/Orphanet_378)	(most probable)	0.99
 
 ## [Ataxia-oculomotor apraxia type 4](http://www.orpha.net/ORDO/Orphanet_459033) [MONDO:0014557](http://purl.obolibrary.org/obo/MONDO_0014557) [OMIM:616267](https://omim.org/entry/616267)
 
@@ -20825,8 +20825,8 @@
 
 ## [Histiocytic sarcoma](http://www.orpha.net/ORDO/Orphanet_86896) [ICD10CM:C96.A](http://apps.who.int/classifications/icd10/browse/2010/en#/C96.A) [MONDO:0019479](http://purl.obolibrary.org/obo/MONDO_0019479)
 
-- [MONDO:0019479](http://purl.obolibrary.org/obo/MONDO_0019479) EquivalentTo [ICD10CM:C96.A](http://apps.who.int/classifications/icd10/browse/2010/en#/C96.A)	(most probable)	0.99
 - [MONDO:0019479](http://purl.obolibrary.org/obo/MONDO_0019479) EquivalentTo [Histiocytic sarcoma](http://www.orpha.net/ORDO/Orphanet_86896)	(most probable)	0.99
+- [MONDO:0019479](http://purl.obolibrary.org/obo/MONDO_0019479) EquivalentTo [ICD10CM:C96.A](http://apps.who.int/classifications/icd10/browse/2010/en#/C96.A)	(most probable)	0.99
 
 ## [Cyclosporosis](http://www.orpha.net/ORDO/Orphanet_210) [ICD10CM:A07.4](http://apps.who.int/classifications/icd10/browse/2010/en#/A07.4) [MONDO:0005725](http://purl.obolibrary.org/obo/MONDO_0005725)
 
@@ -20905,14 +20905,14 @@
 
 ## [MONDO:0008551](http://purl.obolibrary.org/obo/MONDO_0008551) [OMIM:187760](https://omim.org/entry/187760) [OMIM:187770](https://omim.org/entry/187770) [Orphanet:3317](http://www.orpha.net/ORDO/Orphanet_3317)
 
-- [MONDO:0008551](http://purl.obolibrary.org/obo/MONDO_0008551) SiblingOf [OMIM:187770](https://omim.org/entry/187770)		0.09999999999999998
-- [MONDO:0008551](http://purl.obolibrary.org/obo/MONDO_0008551) EquivalentTo [OMIM:187760](https://omim.org/entry/187760)	(most probable)	0.8
+- [MONDO:0008551](http://purl.obolibrary.org/obo/MONDO_0008551) SiblingOf [OMIM:187760](https://omim.org/entry/187760)		0.09999999999999998
+- [MONDO:0008551](http://purl.obolibrary.org/obo/MONDO_0008551) EquivalentTo [OMIM:187770](https://omim.org/entry/187770)	(most probable)	0.8
 - [MONDO:0008551](http://purl.obolibrary.org/obo/MONDO_0008551) EquivalentTo [Orphanet:3317](http://www.orpha.net/ORDO/Orphanet_3317)	(most probable)	0.99
 
 ## [Chronic Epstein-Barr virus infection syndrome](http://www.orpha.net/ORDO/Orphanet_2566) [MONDO:0009194](http://purl.obolibrary.org/obo/MONDO_0009194) [OMIM:226990](https://omim.org/entry/226990) [OMIM:614894](https://omim.org/entry/614894)
 
-- [MONDO:0009194](http://purl.obolibrary.org/obo/MONDO_0009194) SiblingOf [OMIM:614894](https://omim.org/entry/614894)		0.09999999999999998
-- [MONDO:0009194](http://purl.obolibrary.org/obo/MONDO_0009194) EquivalentTo [OMIM:226990](https://omim.org/entry/226990)	(most probable)	0.8
+- [MONDO:0009194](http://purl.obolibrary.org/obo/MONDO_0009194) SiblingOf [OMIM:226990](https://omim.org/entry/226990)		0.09999999999999998
+- [MONDO:0009194](http://purl.obolibrary.org/obo/MONDO_0009194) EquivalentTo [OMIM:614894](https://omim.org/entry/614894)	(most probable)	0.8
 - [MONDO:0009194](http://purl.obolibrary.org/obo/MONDO_0009194) EquivalentTo [Chronic Epstein-Barr virus infection syndrome](http://www.orpha.net/ORDO/Orphanet_2566)	(most probable)	0.99
 
 ## [MONDO:0011063](http://purl.obolibrary.org/obo/MONDO_0011063) [OMIM:601375](https://omim.org/entry/601375) [Orphanet:1808](http://www.orpha.net/ORDO/Orphanet_1808)
@@ -21047,8 +21047,8 @@
 
 ## [ICD10CM:L66.1](http://apps.who.int/classifications/icd10/browse/2010/en#/L66.1) [Lichen planopilaris](http://www.orpha.net/ORDO/Orphanet_525) [MONDO:0018879](http://purl.obolibrary.org/obo/MONDO_0018879)
 
-- [MONDO:0018879](http://purl.obolibrary.org/obo/MONDO_0018879) EquivalentTo [Lichen planopilaris](http://www.orpha.net/ORDO/Orphanet_525)	(most probable)	0.99
 - [MONDO:0018879](http://purl.obolibrary.org/obo/MONDO_0018879) EquivalentTo [ICD10CM:L66.1](http://apps.who.int/classifications/icd10/browse/2010/en#/L66.1)	(most probable)	0.99
+- [MONDO:0018879](http://purl.obolibrary.org/obo/MONDO_0018879) EquivalentTo [Lichen planopilaris](http://www.orpha.net/ORDO/Orphanet_525)	(most probable)	0.99
 
 ## [MONDO:0010683](http://purl.obolibrary.org/obo/MONDO_0010683) [OMIM:310400](https://omim.org/entry/310400) [X-linked centronuclear myopathy](http://www.orpha.net/ORDO/Orphanet_596)
 
@@ -21057,8 +21057,8 @@
 
 ## [ICD10CM:N25.1](http://apps.who.int/classifications/icd10/browse/2010/en#/N25.1) [MONDO:0016383](http://purl.obolibrary.org/obo/MONDO_0016383) [Nephrogenic diabetes insipidus](http://www.orpha.net/ORDO/Orphanet_223)
 
-- [MONDO:0016383](http://purl.obolibrary.org/obo/MONDO_0016383) EquivalentTo [Nephrogenic diabetes insipidus](http://www.orpha.net/ORDO/Orphanet_223)	(most probable)	0.99
 - [MONDO:0016383](http://purl.obolibrary.org/obo/MONDO_0016383) EquivalentTo [ICD10CM:N25.1](http://apps.who.int/classifications/icd10/browse/2010/en#/N25.1)	(most probable)	0.99
+- [MONDO:0016383](http://purl.obolibrary.org/obo/MONDO_0016383) EquivalentTo [Nephrogenic diabetes insipidus](http://www.orpha.net/ORDO/Orphanet_223)	(most probable)	0.99
 
 ## [MONDO:0008598](http://purl.obolibrary.org/obo/MONDO_0008598) [OMIM:190360](https://omim.org/entry/190360) [Orphanet:3361](http://www.orpha.net/ORDO/Orphanet_3361)
 
@@ -21138,8 +21138,8 @@
 ## [ICD10CM:Q35.3](http://apps.who.int/classifications/icd10/browse/2010/en#/Q35.3) [MONDO:0007338](http://purl.obolibrary.org/obo/MONDO_0007338) [OMIM:119570](https://omim.org/entry/119570) [Orphanet:99772](http://www.orpha.net/ORDO/Orphanet_99772)
 
 - [MONDO:0007338](http://purl.obolibrary.org/obo/MONDO_0007338) EquivalentTo [OMIM:119570](https://omim.org/entry/119570)	(most probable)	0.8
-- [MONDO:0007338](http://purl.obolibrary.org/obo/MONDO_0007338) EquivalentTo [ICD10CM:Q35.3](http://apps.who.int/classifications/icd10/browse/2010/en#/Q35.3)	(most probable)	0.99
 - [MONDO:0007338](http://purl.obolibrary.org/obo/MONDO_0007338) EquivalentTo [Orphanet:99772](http://www.orpha.net/ORDO/Orphanet_99772)	(most probable)	0.99
+- [MONDO:0007338](http://purl.obolibrary.org/obo/MONDO_0007338) EquivalentTo [ICD10CM:Q35.3](http://apps.who.int/classifications/icd10/browse/2010/en#/Q35.3)	(most probable)	0.99
 
 ## [Bacterial toxic-shock syndrome](http://www.orpha.net/ORDO/Orphanet_36234) [ICD10CM:A48.3](http://apps.who.int/classifications/icd10/browse/2010/en#/A48.3) [MONDO:0001881](http://purl.obolibrary.org/obo/MONDO_0001881)
 
@@ -21206,8 +21206,8 @@
 ## [Endocardial fibroelastosis](http://www.orpha.net/ORDO/Orphanet_2022) [ICD10CM:I42.4](http://apps.who.int/classifications/icd10/browse/2010/en#/I42.4) [MONDO:0009169](http://purl.obolibrary.org/obo/MONDO_0009169) [OMIM:226000](https://omim.org/entry/226000)
 
 - [MONDO:0009169](http://purl.obolibrary.org/obo/MONDO_0009169) EquivalentTo [OMIM:226000](https://omim.org/entry/226000)	(most probable)	0.8
-- [MONDO:0009169](http://purl.obolibrary.org/obo/MONDO_0009169) EquivalentTo [ICD10CM:I42.4](http://apps.who.int/classifications/icd10/browse/2010/en#/I42.4)	(most probable)	0.99
 - [MONDO:0009169](http://purl.obolibrary.org/obo/MONDO_0009169) EquivalentTo [Endocardial fibroelastosis](http://www.orpha.net/ORDO/Orphanet_2022)	(most probable)	0.99
+- [MONDO:0009169](http://purl.obolibrary.org/obo/MONDO_0009169) EquivalentTo [ICD10CM:I42.4](http://apps.who.int/classifications/icd10/browse/2010/en#/I42.4)	(most probable)	0.99
 
 ## [MONDO:0012289](http://purl.obolibrary.org/obo/MONDO_0012289) [Muscle filaminopathy](http://www.orpha.net/ORDO/Orphanet_171445) [OMIM:609524](https://omim.org/entry/609524)
 
@@ -21256,8 +21256,8 @@
 
 ## [ICD10CM:G21.0](http://apps.who.int/classifications/icd10/browse/2010/en#/G21.0) [MONDO:0019790](http://purl.obolibrary.org/obo/MONDO_0019790) [Neuroleptic malignant syndrome](http://www.orpha.net/ORDO/Orphanet_94093)
 
-- [MONDO:0019790](http://purl.obolibrary.org/obo/MONDO_0019790) EquivalentTo [ICD10CM:G21.0](http://apps.who.int/classifications/icd10/browse/2010/en#/G21.0)	(most probable)	0.99
 - [MONDO:0019790](http://purl.obolibrary.org/obo/MONDO_0019790) EquivalentTo [Neuroleptic malignant syndrome](http://www.orpha.net/ORDO/Orphanet_94093)	(most probable)	0.99
+- [MONDO:0019790](http://purl.obolibrary.org/obo/MONDO_0019790) EquivalentTo [ICD10CM:G21.0](http://apps.who.int/classifications/icd10/browse/2010/en#/G21.0)	(most probable)	0.99
 
 ## [Acrokeratosis verruciformis of Hopf](http://www.orpha.net/ORDO/Orphanet_79151) [MONDO:0007048](http://purl.obolibrary.org/obo/MONDO_0007048) [OMIM:101900](https://omim.org/entry/101900)
 
@@ -21501,8 +21501,8 @@
 
 ## [ICD10CM:Q60.4](http://apps.who.int/classifications/icd10/browse/2010/en#/Q60.4) [MONDO:0019980](http://purl.obolibrary.org/obo/MONDO_0019980) [Orphanet:97362](http://www.orpha.net/ORDO/Orphanet_97362)
 
-- [MONDO:0019980](http://purl.obolibrary.org/obo/MONDO_0019980) EquivalentTo [Orphanet:97362](http://www.orpha.net/ORDO/Orphanet_97362)	(most probable)	0.99
 - [MONDO:0019980](http://purl.obolibrary.org/obo/MONDO_0019980) EquivalentTo [ICD10CM:Q60.4](http://apps.who.int/classifications/icd10/browse/2010/en#/Q60.4)	(most probable)	0.99
+- [MONDO:0019980](http://purl.obolibrary.org/obo/MONDO_0019980) EquivalentTo [Orphanet:97362](http://www.orpha.net/ORDO/Orphanet_97362)	(most probable)	0.99
 
 ## [MONDO:0014371](http://purl.obolibrary.org/obo/MONDO_0014371) [OMIM:615859](https://omim.org/entry/615859) [Orphanet:411986](http://www.orpha.net/ORDO/Orphanet_411986)
 
@@ -21587,8 +21587,8 @@
 ## [Histidinemia](http://www.orpha.net/ORDO/Orphanet_2157) [ICD10CM:E70.41](http://apps.who.int/classifications/icd10/browse/2010/en#/E70.41) [MONDO:0009345](http://purl.obolibrary.org/obo/MONDO_0009345) [OMIM:235800](https://omim.org/entry/235800)
 
 - [MONDO:0009345](http://purl.obolibrary.org/obo/MONDO_0009345) EquivalentTo [OMIM:235800](https://omim.org/entry/235800)	(most probable)	0.8
-- [MONDO:0009345](http://purl.obolibrary.org/obo/MONDO_0009345) EquivalentTo [ICD10CM:E70.41](http://apps.who.int/classifications/icd10/browse/2010/en#/E70.41)	(most probable)	0.99
 - [MONDO:0009345](http://purl.obolibrary.org/obo/MONDO_0009345) EquivalentTo [Histidinemia](http://www.orpha.net/ORDO/Orphanet_2157)	(most probable)	0.99
+- [MONDO:0009345](http://purl.obolibrary.org/obo/MONDO_0009345) EquivalentTo [ICD10CM:E70.41](http://apps.who.int/classifications/icd10/browse/2010/en#/E70.41)	(most probable)	0.99
 
 ## [MONDO:0007374](http://purl.obolibrary.org/obo/MONDO_0007374) [OMIM:121800](https://omim.org/entry/121800) [Schnyder corneal dystrophy](http://www.orpha.net/ORDO/Orphanet_98967)
 
@@ -21618,8 +21618,8 @@
 
 ## [ICD10CM:D80.7](http://apps.who.int/classifications/icd10/browse/2010/en#/D80.7) [MONDO:0015698](http://purl.obolibrary.org/obo/MONDO_0015698) [Transient hypogammaglobulinemia of infancy](http://www.orpha.net/ORDO/Orphanet_169139)
 
-- [MONDO:0015698](http://purl.obolibrary.org/obo/MONDO_0015698) EquivalentTo [Transient hypogammaglobulinemia of infancy](http://www.orpha.net/ORDO/Orphanet_169139)	(most probable)	0.99
 - [MONDO:0015698](http://purl.obolibrary.org/obo/MONDO_0015698) EquivalentTo [ICD10CM:D80.7](http://apps.who.int/classifications/icd10/browse/2010/en#/D80.7)	(most probable)	0.99
+- [MONDO:0015698](http://purl.obolibrary.org/obo/MONDO_0015698) EquivalentTo [Transient hypogammaglobulinemia of infancy](http://www.orpha.net/ORDO/Orphanet_169139)	(most probable)	0.99
 
 ## [Hypotonia-failure to thrive-microcephaly syndrome](http://www.orpha.net/ORDO/Orphanet_79507) [MONDO:0013539](http://purl.obolibrary.org/obo/MONDO_0013539) [OMIM:614037](https://omim.org/entry/614037)
 
@@ -21743,8 +21743,8 @@
 
 ## [Angioimmunoblastic T-cell lymphoma](http://www.orpha.net/ORDO/Orphanet_86886) [ICD10CM:C86.5](http://apps.who.int/classifications/icd10/browse/2010/en#/C86.5) [MONDO:0004977](http://purl.obolibrary.org/obo/MONDO_0004977)
 
-- [MONDO:0004977](http://purl.obolibrary.org/obo/MONDO_0004977) EquivalentTo [Angioimmunoblastic T-cell lymphoma](http://www.orpha.net/ORDO/Orphanet_86886)	(most probable)	0.99
 - [MONDO:0004977](http://purl.obolibrary.org/obo/MONDO_0004977) EquivalentTo [ICD10CM:C86.5](http://apps.who.int/classifications/icd10/browse/2010/en#/C86.5)	(most probable)	0.99
+- [MONDO:0004977](http://purl.obolibrary.org/obo/MONDO_0004977) EquivalentTo [Angioimmunoblastic T-cell lymphoma](http://www.orpha.net/ORDO/Orphanet_86886)	(most probable)	0.99
 
 ## [MONDO:0007093](http://purl.obolibrary.org/obo/MONDO_0007093) [OMIM:104510](https://omim.org/entry/104510) [Orphanet:100034](http://www.orpha.net/ORDO/Orphanet_100034)
 
@@ -21793,8 +21793,8 @@
 
 ## [Histoplasmosis](http://www.orpha.net/ORDO/Orphanet_390) [ICD10CM:B39](http://apps.who.int/classifications/icd10/browse/2010/en#/B39) [MONDO:0018312](http://purl.obolibrary.org/obo/MONDO_0018312)
 
-- [MONDO:0018312](http://purl.obolibrary.org/obo/MONDO_0018312) EquivalentTo [ICD10CM:B39](http://apps.who.int/classifications/icd10/browse/2010/en#/B39)	(most probable)	0.99
 - [MONDO:0018312](http://purl.obolibrary.org/obo/MONDO_0018312) EquivalentTo [Histoplasmosis](http://www.orpha.net/ORDO/Orphanet_390)	(most probable)	0.99
+- [MONDO:0018312](http://purl.obolibrary.org/obo/MONDO_0018312) EquivalentTo [ICD10CM:B39](http://apps.who.int/classifications/icd10/browse/2010/en#/B39)	(most probable)	0.99
 
 ## [MONDO:0009863](http://purl.obolibrary.org/obo/MONDO_0009863) [OMIM:261640](https://omim.org/entry/261640) [Orphanet:13](http://www.orpha.net/ORDO/Orphanet_13)
 
@@ -21839,8 +21839,8 @@
 ## [Diastrophic dysplasia](http://www.orpha.net/ORDO/Orphanet_628) [ICD10CM:Q77.5](http://apps.who.int/classifications/icd10/browse/2010/en#/Q77.5) [MONDO:0009107](http://purl.obolibrary.org/obo/MONDO_0009107) [OMIM:222600](https://omim.org/entry/222600)
 
 - [MONDO:0009107](http://purl.obolibrary.org/obo/MONDO_0009107) EquivalentTo [OMIM:222600](https://omim.org/entry/222600)	(most probable)	0.8
-- [MONDO:0009107](http://purl.obolibrary.org/obo/MONDO_0009107) EquivalentTo [ICD10CM:Q77.5](http://apps.who.int/classifications/icd10/browse/2010/en#/Q77.5)	(most probable)	0.99
 - [MONDO:0009107](http://purl.obolibrary.org/obo/MONDO_0009107) EquivalentTo [Diastrophic dysplasia](http://www.orpha.net/ORDO/Orphanet_628)	(most probable)	0.99
+- [MONDO:0009107](http://purl.obolibrary.org/obo/MONDO_0009107) EquivalentTo [ICD10CM:Q77.5](http://apps.who.int/classifications/icd10/browse/2010/en#/Q77.5)	(most probable)	0.99
 
 ## [Distal arthrogryposis type 5D](http://www.orpha.net/ORDO/Orphanet_329457) [MONDO:0014028](http://purl.obolibrary.org/obo/MONDO_0014028) [OMIM:615065](https://omim.org/entry/615065)
 
@@ -21909,8 +21909,8 @@
 
 ## [ICD10CM:I00-I02](http://apps.who.int/classifications/icd10/browse/2010/en#/I00-I02) [MONDO:0017767](http://purl.obolibrary.org/obo/MONDO_0017767) [Rheumatic fever](http://www.orpha.net/ORDO/Orphanet_3099)
 
-- [MONDO:0017767](http://purl.obolibrary.org/obo/MONDO_0017767) EquivalentTo [ICD10CM:I00-I02](http://apps.who.int/classifications/icd10/browse/2010/en#/I00-I02)	(most probable)	0.99
 - [MONDO:0017767](http://purl.obolibrary.org/obo/MONDO_0017767) EquivalentTo [Rheumatic fever](http://www.orpha.net/ORDO/Orphanet_3099)	(most probable)	0.99
+- [MONDO:0017767](http://purl.obolibrary.org/obo/MONDO_0017767) EquivalentTo [ICD10CM:I00-I02](http://apps.who.int/classifications/icd10/browse/2010/en#/I00-I02)	(most probable)	0.99
 
 ## [MONDO:0011971](http://purl.obolibrary.org/obo/MONDO_0011971) [OMIM:608106](https://omim.org/entry/608106) [Orphanet:101092](http://www.orpha.net/ORDO/Orphanet_101092)
 
@@ -21919,8 +21919,8 @@
 
 ## [Diphtheria](http://www.orpha.net/ORDO/Orphanet_1679) [ICD10CM:A36](http://apps.who.int/classifications/icd10/browse/2010/en#/A36) [MONDO:0005504](http://purl.obolibrary.org/obo/MONDO_0005504)
 
-- [MONDO:0005504](http://purl.obolibrary.org/obo/MONDO_0005504) EquivalentTo [ICD10CM:A36](http://apps.who.int/classifications/icd10/browse/2010/en#/A36)	(most probable)	0.99
 - [MONDO:0005504](http://purl.obolibrary.org/obo/MONDO_0005504) EquivalentTo [Diphtheria](http://www.orpha.net/ORDO/Orphanet_1679)	(most probable)	0.99
+- [MONDO:0005504](http://purl.obolibrary.org/obo/MONDO_0005504) EquivalentTo [ICD10CM:A36](http://apps.who.int/classifications/icd10/browse/2010/en#/A36)	(most probable)	0.99
 
 ## [Charcot-Marie-Tooth disease type 4E](http://www.orpha.net/ORDO/Orphanet_99951) [MONDO:0011527](http://purl.obolibrary.org/obo/MONDO_0011527) [OMIM:605253](https://omim.org/entry/605253)
 
@@ -21980,8 +21980,8 @@
 
 ## [ICD10CM:B74.3](http://apps.who.int/classifications/icd10/browse/2010/en#/B74.3) [Loiasis](http://www.orpha.net/ORDO/Orphanet_2404) [MONDO:0016566](http://purl.obolibrary.org/obo/MONDO_0016566)
 
-- [MONDO:0016566](http://purl.obolibrary.org/obo/MONDO_0016566) EquivalentTo [ICD10CM:B74.3](http://apps.who.int/classifications/icd10/browse/2010/en#/B74.3)	(most probable)	0.99
 - [MONDO:0016566](http://purl.obolibrary.org/obo/MONDO_0016566) EquivalentTo [Loiasis](http://www.orpha.net/ORDO/Orphanet_2404)	(most probable)	0.99
+- [MONDO:0016566](http://purl.obolibrary.org/obo/MONDO_0016566) EquivalentTo [ICD10CM:B74.3](http://apps.who.int/classifications/icd10/browse/2010/en#/B74.3)	(most probable)	0.99
 
 ## [MONDO:0008993](http://purl.obolibrary.org/obo/MONDO_0008993) [OMIM:216300](https://omim.org/entry/216300) [Orphanet:2010](http://www.orpha.net/ORDO/Orphanet_2010)
 
@@ -22242,8 +22242,8 @@
 
 ## [Congenital syphilis](http://www.orpha.net/ORDO/Orphanet_499009) [ICD10CM:A50](http://apps.who.int/classifications/icd10/browse/2010/en#/A50) [MONDO:0005714](http://purl.obolibrary.org/obo/MONDO_0005714)
 
-- [MONDO:0005714](http://purl.obolibrary.org/obo/MONDO_0005714) EquivalentTo [Congenital syphilis](http://www.orpha.net/ORDO/Orphanet_499009)	(most probable)	0.99
 - [MONDO:0005714](http://purl.obolibrary.org/obo/MONDO_0005714) EquivalentTo [ICD10CM:A50](http://apps.who.int/classifications/icd10/browse/2010/en#/A50)	(most probable)	0.99
+- [MONDO:0005714](http://purl.obolibrary.org/obo/MONDO_0005714) EquivalentTo [Congenital syphilis](http://www.orpha.net/ORDO/Orphanet_499009)	(most probable)	0.99
 
 ## [MONDO:0017919](http://purl.obolibrary.org/obo/MONDO_0017919) [OMIM:258040](https://omim.org/entry/258040) [Orphanet:322](http://www.orpha.net/ORDO/Orphanet_322)
 
@@ -22272,8 +22272,8 @@
 
 ## [Hemophilia A](http://www.orpha.net/ORDO/Orphanet_98878) [MONDO:0010602](http://purl.obolibrary.org/obo/MONDO_0010602) [OMIM:134500](https://omim.org/entry/134500) [OMIM:306700](https://omim.org/entry/306700)
 
-- [MONDO:0010602](http://purl.obolibrary.org/obo/MONDO_0010602) SiblingOf [OMIM:134500](https://omim.org/entry/134500)		0.09999999999999998
-- [MONDO:0010602](http://purl.obolibrary.org/obo/MONDO_0010602) EquivalentTo [OMIM:306700](https://omim.org/entry/306700)	(most probable)	0.8
+- [MONDO:0010602](http://purl.obolibrary.org/obo/MONDO_0010602) SiblingOf [OMIM:306700](https://omim.org/entry/306700)		0.09999999999999998
+- [MONDO:0010602](http://purl.obolibrary.org/obo/MONDO_0010602) EquivalentTo [OMIM:134500](https://omim.org/entry/134500)	(most probable)	0.8
 - [MONDO:0010602](http://purl.obolibrary.org/obo/MONDO_0010602) EquivalentTo [Hemophilia A](http://www.orpha.net/ORDO/Orphanet_98878)	(most probable)	0.99
 
 ## [Hyperlipidemia due to hepatic triacylglycerol lipase deficiency](http://www.orpha.net/ORDO/Orphanet_140905) [MONDO:0013533](http://purl.obolibrary.org/obo/MONDO_0013533) [OMIM:614025](https://omim.org/entry/614025)
@@ -22428,13 +22428,13 @@
 
 ## [ICD10CM:D59.3](http://apps.who.int/classifications/icd10/browse/2010/en#/D59.3) [MONDO:0001549](http://purl.obolibrary.org/obo/MONDO_0001549) [Orphanet:544458](http://www.orpha.net/ORDO/Orphanet_544458)
 
-- [MONDO:0001549](http://purl.obolibrary.org/obo/MONDO_0001549) EquivalentTo [ICD10CM:D59.3](http://apps.who.int/classifications/icd10/browse/2010/en#/D59.3)	(most probable)	0.99
 - [MONDO:0001549](http://purl.obolibrary.org/obo/MONDO_0001549) EquivalentTo [Orphanet:544458](http://www.orpha.net/ORDO/Orphanet_544458)	(most probable)	0.99
+- [MONDO:0001549](http://purl.obolibrary.org/obo/MONDO_0001549) EquivalentTo [ICD10CM:D59.3](http://apps.who.int/classifications/icd10/browse/2010/en#/D59.3)	(most probable)	0.99
 
 ## [American trypanosomiasis](http://www.orpha.net/ORDO/Orphanet_3386) [ICD10CM:B57](http://apps.who.int/classifications/icd10/browse/2010/en#/B57) [MONDO:0001444](http://purl.obolibrary.org/obo/MONDO_0001444)
 
-- [MONDO:0001444](http://purl.obolibrary.org/obo/MONDO_0001444) EquivalentTo [ICD10CM:B57](http://apps.who.int/classifications/icd10/browse/2010/en#/B57)	(most probable)	0.99
 - [MONDO:0001444](http://purl.obolibrary.org/obo/MONDO_0001444) EquivalentTo [American trypanosomiasis](http://www.orpha.net/ORDO/Orphanet_3386)	(most probable)	0.99
+- [MONDO:0001444](http://purl.obolibrary.org/obo/MONDO_0001444) EquivalentTo [ICD10CM:B57](http://apps.who.int/classifications/icd10/browse/2010/en#/B57)	(most probable)	0.99
 
 ## [MONDO:0008796](http://purl.obolibrary.org/obo/MONDO_0008796) [OMIM:206750](https://omim.org/entry/206750) [Orphanet:1064](http://www.orpha.net/ORDO/Orphanet_1064)
 
@@ -22469,9 +22469,9 @@
 ## [ICD10CM:E76.1](http://apps.who.int/classifications/icd10/browse/2010/en#/E76.1) [MONDO:0010674](http://purl.obolibrary.org/obo/MONDO_0010674) [Mucopolysaccharidosis type 2](http://www.orpha.net/ORDO/Orphanet_580) [OMIM:309900](https://omim.org/entry/309900) [Orphanet:79388](http://www.orpha.net/ORDO/Orphanet_79388)
 
 - [MONDO:0010674](http://purl.obolibrary.org/obo/MONDO_0010674) EquivalentTo [OMIM:309900](https://omim.org/entry/309900)	(most probable)	0.8
-- [MONDO:0010674](http://purl.obolibrary.org/obo/MONDO_0010674) EquivalentTo [Mucopolysaccharidosis type 2](http://www.orpha.net/ORDO/Orphanet_580)	(most probable)	0.99
 - [MONDO:0010674](http://purl.obolibrary.org/obo/MONDO_0010674) SiblingOf [Orphanet:79388](http://www.orpha.net/ORDO/Orphanet_79388)		0.0050000000000000044
 - [MONDO:0010674](http://purl.obolibrary.org/obo/MONDO_0010674) EquivalentTo [ICD10CM:E76.1](http://apps.who.int/classifications/icd10/browse/2010/en#/E76.1)	(most probable)	0.99
+- [MONDO:0010674](http://purl.obolibrary.org/obo/MONDO_0010674) EquivalentTo [Mucopolysaccharidosis type 2](http://www.orpha.net/ORDO/Orphanet_580)	(most probable)	0.99
 
 ## [Autosomal dominant spastic ataxia type 1](http://www.orpha.net/ORDO/Orphanet_251282) [MONDO:0007164](http://purl.obolibrary.org/obo/MONDO_0007164) [OMIM:108600](https://omim.org/entry/108600)
 
@@ -22546,8 +22546,8 @@
 ## [ICD10CM:E88.41](http://apps.who.int/classifications/icd10/browse/2010/en#/E88.41) [MELAS](http://www.orpha.net/ORDO/Orphanet_550) [MONDO:0010789](http://purl.obolibrary.org/obo/MONDO_0010789) [OMIM:540000](https://omim.org/entry/540000)
 
 - [MONDO:0010789](http://purl.obolibrary.org/obo/MONDO_0010789) EquivalentTo [OMIM:540000](https://omim.org/entry/540000)	(most probable)	0.8
-- [MONDO:0010789](http://purl.obolibrary.org/obo/MONDO_0010789) EquivalentTo [MELAS](http://www.orpha.net/ORDO/Orphanet_550)	(most probable)	0.99
 - [MONDO:0010789](http://purl.obolibrary.org/obo/MONDO_0010789) EquivalentTo [ICD10CM:E88.41](http://apps.who.int/classifications/icd10/browse/2010/en#/E88.41)	(most probable)	0.99
+- [MONDO:0010789](http://purl.obolibrary.org/obo/MONDO_0010789) EquivalentTo [MELAS](http://www.orpha.net/ORDO/Orphanet_550)	(most probable)	0.99
 
 ## [ICD10CM:G47.4](http://apps.who.int/classifications/icd10/browse/2010/en#/G47.4) [MONDO:0016158](http://purl.obolibrary.org/obo/MONDO_0016158) [Narcolepsy type 1](http://www.orpha.net/ORDO/Orphanet_2073)
 
@@ -22597,8 +22597,8 @@
 ## [ICD10CM:Q89.3](http://apps.who.int/classifications/icd10/browse/2010/en#/Q89.3) [MONDO:0010029](http://purl.obolibrary.org/obo/MONDO_0010029) [OMIM:270100](https://omim.org/entry/270100) [Orphanet:101063](http://www.orpha.net/ORDO/Orphanet_101063)
 
 - [MONDO:0010029](http://purl.obolibrary.org/obo/MONDO_0010029) EquivalentTo [OMIM:270100](https://omim.org/entry/270100)	(most probable)	0.8
-- [MONDO:0010029](http://purl.obolibrary.org/obo/MONDO_0010029) EquivalentTo [ICD10CM:Q89.3](http://apps.who.int/classifications/icd10/browse/2010/en#/Q89.3)	(most probable)	0.99
 - [MONDO:0010029](http://purl.obolibrary.org/obo/MONDO_0010029) EquivalentTo [Orphanet:101063](http://www.orpha.net/ORDO/Orphanet_101063)	(most probable)	0.99
+- [MONDO:0010029](http://purl.obolibrary.org/obo/MONDO_0010029) EquivalentTo [ICD10CM:Q89.3](http://apps.who.int/classifications/icd10/browse/2010/en#/Q89.3)	(most probable)	0.99
 
 ## [MONDO:0010749](http://purl.obolibrary.org/obo/MONDO_0010749) [OMIM:314320](https://omim.org/entry/314320) [Orphanet:3369](http://www.orpha.net/ORDO/Orphanet_3369)
 
@@ -22612,8 +22612,8 @@
 
 ## [ICD10CM:H49.4](http://apps.who.int/classifications/icd10/browse/2010/en#/H49.4) [MONDO:0005181](http://purl.obolibrary.org/obo/MONDO_0005181) [Orphanet:520820](http://www.orpha.net/ORDO/Orphanet_520820)
 
-- [MONDO:0005181](http://purl.obolibrary.org/obo/MONDO_0005181) EquivalentTo [ICD10CM:H49.4](http://apps.who.int/classifications/icd10/browse/2010/en#/H49.4)	(most probable)	0.99
 - [MONDO:0005181](http://purl.obolibrary.org/obo/MONDO_0005181) EquivalentTo [Orphanet:520820](http://www.orpha.net/ORDO/Orphanet_520820)	(most probable)	0.99
+- [MONDO:0005181](http://purl.obolibrary.org/obo/MONDO_0005181) EquivalentTo [ICD10CM:H49.4](http://apps.who.int/classifications/icd10/browse/2010/en#/H49.4)	(most probable)	0.99
 
 ## [MONDO:0009552](http://purl.obolibrary.org/obo/MONDO_0009552) [Mal de Meleda](http://www.orpha.net/ORDO/Orphanet_87503) [OMIM:248300](https://omim.org/entry/248300)
 
@@ -22708,8 +22708,8 @@
 
 ## [ICD10CM:M87](http://apps.who.int/classifications/icd10/browse/2010/en#/M87) [MONDO:0005380](http://purl.obolibrary.org/obo/MONDO_0005380) [Orphanet:399158](http://www.orpha.net/ORDO/Orphanet_399158)
 
-- [MONDO:0005380](http://purl.obolibrary.org/obo/MONDO_0005380) EquivalentTo [Orphanet:399158](http://www.orpha.net/ORDO/Orphanet_399158)	(most probable)	0.99
 - [MONDO:0005380](http://purl.obolibrary.org/obo/MONDO_0005380) EquivalentTo [ICD10CM:M87](http://apps.who.int/classifications/icd10/browse/2010/en#/M87)	(most probable)	0.99
+- [MONDO:0005380](http://purl.obolibrary.org/obo/MONDO_0005380) EquivalentTo [Orphanet:399158](http://www.orpha.net/ORDO/Orphanet_399158)	(most probable)	0.99
 
 ## [MONDO:0033480](http://purl.obolibrary.org/obo/MONDO_0033480) [OMIM:617769](https://omim.org/entry/617769) [Spinocerebellar ataxia type 45](http://www.orpha.net/ORDO/Orphanet_589527)
 
@@ -22773,8 +22773,8 @@
 
 ## [ICD10CM:A82](http://apps.who.int/classifications/icd10/browse/2010/en#/A82) [MONDO:0019173](http://purl.obolibrary.org/obo/MONDO_0019173) [Rabies](http://www.orpha.net/ORDO/Orphanet_770)
 
-- [MONDO:0019173](http://purl.obolibrary.org/obo/MONDO_0019173) EquivalentTo [Rabies](http://www.orpha.net/ORDO/Orphanet_770)	(most probable)	0.99
 - [MONDO:0019173](http://purl.obolibrary.org/obo/MONDO_0019173) EquivalentTo [ICD10CM:A82](http://apps.who.int/classifications/icd10/browse/2010/en#/A82)	(most probable)	0.99
+- [MONDO:0019173](http://purl.obolibrary.org/obo/MONDO_0019173) EquivalentTo [Rabies](http://www.orpha.net/ORDO/Orphanet_770)	(most probable)	0.99
 
 ## [MONDO:0008209](http://purl.obolibrary.org/obo/MONDO_0008209) [OMIM:169100](https://omim.org/entry/169100) [Orphanet:46627](http://www.orpha.net/ORDO/Orphanet_46627)
 
@@ -22903,8 +22903,8 @@
 
 ## [ICD10CM:Q82.2](http://apps.who.int/classifications/icd10/browse/2010/en#/Q82.2) [MONDO:0007950](http://purl.obolibrary.org/obo/MONDO_0007950) [Orphanet:98292](http://www.orpha.net/ORDO/Orphanet_98292)
 
-- [MONDO:0007950](http://purl.obolibrary.org/obo/MONDO_0007950) EquivalentTo [ICD10CM:Q82.2](http://apps.who.int/classifications/icd10/browse/2010/en#/Q82.2)	(most probable)	0.99
 - [MONDO:0007950](http://purl.obolibrary.org/obo/MONDO_0007950) EquivalentTo [Orphanet:98292](http://www.orpha.net/ORDO/Orphanet_98292)	(most probable)	0.99
+- [MONDO:0007950](http://purl.obolibrary.org/obo/MONDO_0007950) EquivalentTo [ICD10CM:Q82.2](http://apps.who.int/classifications/icd10/browse/2010/en#/Q82.2)	(most probable)	0.99
 
 ## [Idiopathic spontaneous coronary artery dissection](http://www.orpha.net/ORDO/Orphanet_458718) [MONDO:0007385](http://purl.obolibrary.org/obo/MONDO_0007385) [OMIM:122455](https://omim.org/entry/122455)
 
@@ -23004,13 +23004,13 @@
 ## [ICD10CM:L10.0](http://apps.who.int/classifications/icd10/browse/2010/en#/L10.0) [MONDO:0008219](http://purl.obolibrary.org/obo/MONDO_0008219) [OMIM:169610](https://omim.org/entry/169610) [Pemphigus vulgaris](http://www.orpha.net/ORDO/Orphanet_704)
 
 - [MONDO:0008219](http://purl.obolibrary.org/obo/MONDO_0008219) EquivalentTo [OMIM:169610](https://omim.org/entry/169610)	(most probable)	0.8
-- [MONDO:0008219](http://purl.obolibrary.org/obo/MONDO_0008219) EquivalentTo [ICD10CM:L10.0](http://apps.who.int/classifications/icd10/browse/2010/en#/L10.0)	(most probable)	0.99
 - [MONDO:0008219](http://purl.obolibrary.org/obo/MONDO_0008219) EquivalentTo [Pemphigus vulgaris](http://www.orpha.net/ORDO/Orphanet_704)	(most probable)	0.99
+- [MONDO:0008219](http://purl.obolibrary.org/obo/MONDO_0008219) EquivalentTo [ICD10CM:L10.0](http://apps.who.int/classifications/icd10/browse/2010/en#/L10.0)	(most probable)	0.99
 
 ## [MONDO:0016620](http://purl.obolibrary.org/obo/MONDO_0016620) [Orphanet:248095](http://www.orpha.net/ORDO/Orphanet_248095) [Orphanet:2796](http://www.orpha.net/ORDO/Orphanet_2796)
 
-- [MONDO:0016620](http://purl.obolibrary.org/obo/MONDO_0016620) SiblingOf [Orphanet:248095](http://www.orpha.net/ORDO/Orphanet_248095)		0.0050000000000000044
-- [MONDO:0016620](http://purl.obolibrary.org/obo/MONDO_0016620) EquivalentTo [Orphanet:2796](http://www.orpha.net/ORDO/Orphanet_2796)	(most probable)	0.99
+- [MONDO:0016620](http://purl.obolibrary.org/obo/MONDO_0016620) SiblingOf [Orphanet:2796](http://www.orpha.net/ORDO/Orphanet_2796)		0.0050000000000000044
+- [MONDO:0016620](http://purl.obolibrary.org/obo/MONDO_0016620) EquivalentTo [Orphanet:248095](http://www.orpha.net/ORDO/Orphanet_248095)	(most probable)	0.99
 
 ## [MONDO:0008205](http://purl.obolibrary.org/obo/MONDO_0008205) [OMIM:168860](https://omim.org/entry/168860) [Orphanet:86789](http://www.orpha.net/ORDO/Orphanet_86789)
 
@@ -23109,8 +23109,8 @@
 
 ## [ICD10CM:J84.841](http://apps.who.int/classifications/icd10/browse/2010/en#/J84.841) [MONDO:0016322](http://purl.obolibrary.org/obo/MONDO_0016322) [Neuroendocrine cell hyperplasia of infancy](http://www.orpha.net/ORDO/Orphanet_217560)
 
-- [MONDO:0016322](http://purl.obolibrary.org/obo/MONDO_0016322) EquivalentTo [ICD10CM:J84.841](http://apps.who.int/classifications/icd10/browse/2010/en#/J84.841)	(most probable)	0.99
 - [MONDO:0016322](http://purl.obolibrary.org/obo/MONDO_0016322) EquivalentTo [Neuroendocrine cell hyperplasia of infancy](http://www.orpha.net/ORDO/Orphanet_217560)	(most probable)	0.99
+- [MONDO:0016322](http://purl.obolibrary.org/obo/MONDO_0016322) EquivalentTo [ICD10CM:J84.841](http://apps.who.int/classifications/icd10/browse/2010/en#/J84.841)	(most probable)	0.99
 
 ## [Castleman disease](http://www.orpha.net/ORDO/Orphanet_160) [ICD10CM:D47.Z2](http://apps.who.int/classifications/icd10/browse/2010/en#/D47.Z2) [MONDO:0015564](http://purl.obolibrary.org/obo/MONDO_0015564)
 
@@ -23430,8 +23430,8 @@
 
 ## [Dracunculiasis](http://www.orpha.net/ORDO/Orphanet_231) [ICD10CM:B72](http://apps.who.int/classifications/icd10/browse/2010/en#/B72) [MONDO:0016472](http://purl.obolibrary.org/obo/MONDO_0016472)
 
-- [MONDO:0016472](http://purl.obolibrary.org/obo/MONDO_0016472) EquivalentTo [Dracunculiasis](http://www.orpha.net/ORDO/Orphanet_231)	(most probable)	0.99
 - [MONDO:0016472](http://purl.obolibrary.org/obo/MONDO_0016472) EquivalentTo [ICD10CM:B72](http://apps.who.int/classifications/icd10/browse/2010/en#/B72)	(most probable)	0.99
+- [MONDO:0016472](http://purl.obolibrary.org/obo/MONDO_0016472) EquivalentTo [Dracunculiasis](http://www.orpha.net/ORDO/Orphanet_231)	(most probable)	0.99
 
 ## [CDKL5-deficiency disorder](http://www.orpha.net/ORDO/Orphanet_505652) [MONDO:0010396](http://purl.obolibrary.org/obo/MONDO_0010396) [OMIM:300672](https://omim.org/entry/300672)
 
@@ -23445,8 +23445,8 @@
 
 ## [ICD10CM:Q31.1](http://apps.who.int/classifications/icd10/browse/2010/en#/Q31.1) [MONDO:0015395](http://purl.obolibrary.org/obo/MONDO_0015395) [Orphanet:141121](http://www.orpha.net/ORDO/Orphanet_141121)
 
-- [MONDO:0015395](http://purl.obolibrary.org/obo/MONDO_0015395) EquivalentTo [Orphanet:141121](http://www.orpha.net/ORDO/Orphanet_141121)	(most probable)	0.99
 - [MONDO:0015395](http://purl.obolibrary.org/obo/MONDO_0015395) EquivalentTo [ICD10CM:Q31.1](http://apps.who.int/classifications/icd10/browse/2010/en#/Q31.1)	(most probable)	0.99
+- [MONDO:0015395](http://purl.obolibrary.org/obo/MONDO_0015395) EquivalentTo [Orphanet:141121](http://www.orpha.net/ORDO/Orphanet_141121)	(most probable)	0.99
 
 ## [MONDO:0010275](http://purl.obolibrary.org/obo/MONDO_0010275) [OMIM:300232](https://omim.org/entry/300232) [Orphanet:168448](http://www.orpha.net/ORDO/Orphanet_168448)
 
@@ -23481,8 +23481,8 @@
 ## [Alpha-1-antitrypsin deficiency](http://www.orpha.net/ORDO/Orphanet_60) [ICD10CM:E88.01](http://apps.who.int/classifications/icd10/browse/2010/en#/E88.01) [MONDO:0013282](http://purl.obolibrary.org/obo/MONDO_0013282) [OMIM:613490](https://omim.org/entry/613490)
 
 - [MONDO:0013282](http://purl.obolibrary.org/obo/MONDO_0013282) EquivalentTo [OMIM:613490](https://omim.org/entry/613490)	(most probable)	0.8
-- [MONDO:0013282](http://purl.obolibrary.org/obo/MONDO_0013282) EquivalentTo [ICD10CM:E88.01](http://apps.who.int/classifications/icd10/browse/2010/en#/E88.01)	(most probable)	0.99
 - [MONDO:0013282](http://purl.obolibrary.org/obo/MONDO_0013282) EquivalentTo [Alpha-1-antitrypsin deficiency](http://www.orpha.net/ORDO/Orphanet_60)	(most probable)	0.99
+- [MONDO:0013282](http://purl.obolibrary.org/obo/MONDO_0013282) EquivalentTo [ICD10CM:E88.01](http://apps.who.int/classifications/icd10/browse/2010/en#/E88.01)	(most probable)	0.99
 
 ## [MONDO:0024537](http://purl.obolibrary.org/obo/MONDO_0024537) [OMIM:211530](https://omim.org/entry/211530) [Orphanet:572543](http://www.orpha.net/ORDO/Orphanet_572543)
 
@@ -23793,8 +23793,8 @@
 
 ## [ICD10CM:M12.4](http://apps.who.int/classifications/icd10/browse/2010/en#/M12.4) [Intermittent hydrarthrosis](http://www.orpha.net/ORDO/Orphanet_329967) [MONDO:0018015](http://purl.obolibrary.org/obo/MONDO_0018015)
 
-- [MONDO:0018015](http://purl.obolibrary.org/obo/MONDO_0018015) EquivalentTo [ICD10CM:M12.4](http://apps.who.int/classifications/icd10/browse/2010/en#/M12.4)	(most probable)	0.99
 - [MONDO:0018015](http://purl.obolibrary.org/obo/MONDO_0018015) EquivalentTo [Intermittent hydrarthrosis](http://www.orpha.net/ORDO/Orphanet_329967)	(most probable)	0.99
+- [MONDO:0018015](http://purl.obolibrary.org/obo/MONDO_0018015) EquivalentTo [ICD10CM:M12.4](http://apps.who.int/classifications/icd10/browse/2010/en#/M12.4)	(most probable)	0.99
 
 ## [MONDO:0013755](http://purl.obolibrary.org/obo/MONDO_0013755) [OMIM:614438](https://omim.org/entry/614438) [Orphanet:293633](http://www.orpha.net/ORDO/Orphanet_293633)
 
@@ -24419,8 +24419,8 @@
 
 ## [ICD10CM:Q22.4](http://apps.who.int/classifications/icd10/browse/2010/en#/Q22.4) [MONDO:0019813](http://purl.obolibrary.org/obo/MONDO_0019813) [Orphanet:95459](http://www.orpha.net/ORDO/Orphanet_95459)
 
-- [MONDO:0019813](http://purl.obolibrary.org/obo/MONDO_0019813) EquivalentTo [Orphanet:95459](http://www.orpha.net/ORDO/Orphanet_95459)	(most probable)	0.99
 - [MONDO:0019813](http://purl.obolibrary.org/obo/MONDO_0019813) EquivalentTo [ICD10CM:Q22.4](http://apps.who.int/classifications/icd10/browse/2010/en#/Q22.4)	(most probable)	0.99
+- [MONDO:0019813](http://purl.obolibrary.org/obo/MONDO_0019813) EquivalentTo [Orphanet:95459](http://www.orpha.net/ORDO/Orphanet_95459)	(most probable)	0.99
 
 ## [MONDO:0007178](http://purl.obolibrary.org/obo/MONDO_0007178) [OMIM:109050](https://omim.org/entry/109050) [Orphanet:1219](http://www.orpha.net/ORDO/Orphanet_1219)
 
@@ -24455,8 +24455,8 @@
 ## [ICD10CM:J84.2](http://apps.who.int/classifications/icd10/browse/2010/en#/J84.2) [Lymphoid interstitial pneumonia](http://www.orpha.net/ORDO/Orphanet_79128) [MONDO:0009537](http://purl.obolibrary.org/obo/MONDO_0009537) [OMIM:247610](https://omim.org/entry/247610)
 
 - [MONDO:0009537](http://purl.obolibrary.org/obo/MONDO_0009537) EquivalentTo [OMIM:247610](https://omim.org/entry/247610)	(most probable)	0.8
-- [MONDO:0009537](http://purl.obolibrary.org/obo/MONDO_0009537) EquivalentTo [ICD10CM:J84.2](http://apps.who.int/classifications/icd10/browse/2010/en#/J84.2)	(most probable)	0.99
 - [MONDO:0009537](http://purl.obolibrary.org/obo/MONDO_0009537) EquivalentTo [Lymphoid interstitial pneumonia](http://www.orpha.net/ORDO/Orphanet_79128)	(most probable)	0.99
+- [MONDO:0009537](http://purl.obolibrary.org/obo/MONDO_0009537) EquivalentTo [ICD10CM:J84.2](http://apps.who.int/classifications/icd10/browse/2010/en#/J84.2)	(most probable)	0.99
 
 ## [MONDO:0009804](http://purl.obolibrary.org/obo/MONDO_0009804) [OMIM:259420](https://omim.org/entry/259420) [Orphanet:216812](http://www.orpha.net/ORDO/Orphanet_216812)
 
@@ -24490,8 +24490,8 @@
 
 ## [2-aminoadipic 2-oxoadipic aciduria](http://www.orpha.net/ORDO/Orphanet_79154) [MONDO:0008774](http://purl.obolibrary.org/obo/MONDO_0008774) [OMIM:204750](https://omim.org/entry/204750) [OMIM:245130](https://omim.org/entry/245130)
 
-- [MONDO:0008774](http://purl.obolibrary.org/obo/MONDO_0008774) SiblingOf [OMIM:245130](https://omim.org/entry/245130)		0.09999999999999998
-- [MONDO:0008774](http://purl.obolibrary.org/obo/MONDO_0008774) EquivalentTo [OMIM:204750](https://omim.org/entry/204750)	(most probable)	0.8
+- [MONDO:0008774](http://purl.obolibrary.org/obo/MONDO_0008774) SiblingOf [OMIM:204750](https://omim.org/entry/204750)		0.09999999999999998
+- [MONDO:0008774](http://purl.obolibrary.org/obo/MONDO_0008774) EquivalentTo [OMIM:245130](https://omim.org/entry/245130)	(most probable)	0.8
 - [MONDO:0008774](http://purl.obolibrary.org/obo/MONDO_0008774) EquivalentTo [2-aminoadipic 2-oxoadipic aciduria](http://www.orpha.net/ORDO/Orphanet_79154)	(most probable)	0.99
 
 ## [MONDO:0014558](http://purl.obolibrary.org/obo/MONDO_0014558) [OMIM:616268](https://omim.org/entry/616268) [Orphanet:457193](http://www.orpha.net/ORDO/Orphanet_457193)
@@ -24537,8 +24537,8 @@
 
 ## [ICD10CM:Q79.6](http://apps.who.int/classifications/icd10/browse/2010/en#/Q79.6) [MONDO:0020066](http://purl.obolibrary.org/obo/MONDO_0020066) [Orphanet:98249](http://www.orpha.net/ORDO/Orphanet_98249)
 
-- [MONDO:0020066](http://purl.obolibrary.org/obo/MONDO_0020066) EquivalentTo [Orphanet:98249](http://www.orpha.net/ORDO/Orphanet_98249)	(most probable)	0.99
 - [MONDO:0020066](http://purl.obolibrary.org/obo/MONDO_0020066) EquivalentTo [ICD10CM:Q79.6](http://apps.who.int/classifications/icd10/browse/2010/en#/Q79.6)	(most probable)	0.99
+- [MONDO:0020066](http://purl.obolibrary.org/obo/MONDO_0020066) EquivalentTo [Orphanet:98249](http://www.orpha.net/ORDO/Orphanet_98249)	(most probable)	0.99
 
 ## [MONDO:0007852](http://purl.obolibrary.org/obo/MONDO_0007852) [OMIM:148350](https://omim.org/entry/148350) [Palmoplantar keratoderma-deafness syndrome](http://www.orpha.net/ORDO/Orphanet_2202)
 
@@ -24637,8 +24637,8 @@
 
 ## [Alport syndrome](http://www.orpha.net/ORDO/Orphanet_63) [ICD10CM:Q87.81](http://apps.who.int/classifications/icd10/browse/2010/en#/Q87.81) [MONDO:0018965](http://purl.obolibrary.org/obo/MONDO_0018965)
 
-- [MONDO:0018965](http://purl.obolibrary.org/obo/MONDO_0018965) EquivalentTo [Alport syndrome](http://www.orpha.net/ORDO/Orphanet_63)	(most probable)	0.99
 - [MONDO:0018965](http://purl.obolibrary.org/obo/MONDO_0018965) EquivalentTo [ICD10CM:Q87.81](http://apps.who.int/classifications/icd10/browse/2010/en#/Q87.81)	(most probable)	0.99
+- [MONDO:0018965](http://purl.obolibrary.org/obo/MONDO_0018965) EquivalentTo [Alport syndrome](http://www.orpha.net/ORDO/Orphanet_63)	(most probable)	0.99
 
 ## [KIAA1109-related early lethal congenital brain malformations-arthrogryposis syndrome](http://www.orpha.net/ORDO/Orphanet_610569) [MONDO:0060631](http://purl.obolibrary.org/obo/MONDO_0060631) [OMIM:617822](https://omim.org/entry/617822)
 
@@ -24798,8 +24798,8 @@
 ## [MONDO:0012864](http://purl.obolibrary.org/obo/MONDO_0012864) [OMIM:612313](https://omim.org/entry/612313) [Orphanet:251019](http://www.orpha.net/ORDO/Orphanet_251019) [Orphanet:576283](http://www.orpha.net/ORDO/Orphanet_576283)
 
 - [MONDO:0012864](http://purl.obolibrary.org/obo/MONDO_0012864) EquivalentTo [OMIM:612313](https://omim.org/entry/612313)	(most probable)	0.8
-- [MONDO:0012864](http://purl.obolibrary.org/obo/MONDO_0012864) SiblingOf [Orphanet:576283](http://www.orpha.net/ORDO/Orphanet_576283)		0.0050000000000000044
-- [MONDO:0012864](http://purl.obolibrary.org/obo/MONDO_0012864) EquivalentTo [Orphanet:251019](http://www.orpha.net/ORDO/Orphanet_251019)	(most probable)	0.99
+- [MONDO:0012864](http://purl.obolibrary.org/obo/MONDO_0012864) SiblingOf [Orphanet:251019](http://www.orpha.net/ORDO/Orphanet_251019)		0.0050000000000000044
+- [MONDO:0012864](http://purl.obolibrary.org/obo/MONDO_0012864) EquivalentTo [Orphanet:576283](http://www.orpha.net/ORDO/Orphanet_576283)	(most probable)	0.99
 
 ## [MONDO:0011078](http://purl.obolibrary.org/obo/MONDO_0011078) [OMIM:601427](https://omim.org/entry/601427) [Orphanet:2321](http://www.orpha.net/ORDO/Orphanet_2321)
 
@@ -25030,8 +25030,8 @@
 ## [MONDO:0007800](http://purl.obolibrary.org/obo/MONDO_0007800) [Monosomy 18p](http://www.orpha.net/ORDO/Orphanet_1598) [OMIM:146390](https://omim.org/entry/146390) [Orphanet:261974](http://www.orpha.net/ORDO/Orphanet_261974)
 
 - [MONDO:0007800](http://purl.obolibrary.org/obo/MONDO_0007800) EquivalentTo [OMIM:146390](https://omim.org/entry/146390)	(most probable)	0.8
-- [MONDO:0007800](http://purl.obolibrary.org/obo/MONDO_0007800) SiblingOf [Orphanet:261974](http://www.orpha.net/ORDO/Orphanet_261974)		0.0050000000000000044
-- [MONDO:0007800](http://purl.obolibrary.org/obo/MONDO_0007800) EquivalentTo [Monosomy 18p](http://www.orpha.net/ORDO/Orphanet_1598)	(most probable)	0.99
+- [MONDO:0007800](http://purl.obolibrary.org/obo/MONDO_0007800) SiblingOf [Monosomy 18p](http://www.orpha.net/ORDO/Orphanet_1598)		0.0050000000000000044
+- [MONDO:0007800](http://purl.obolibrary.org/obo/MONDO_0007800) EquivalentTo [Orphanet:261974](http://www.orpha.net/ORDO/Orphanet_261974)	(most probable)	0.99
 
 ## [ICD10CM:I10-I16](http://apps.who.int/classifications/icd10/browse/2010/en#/I10-I16) [ICD10CM:I15](http://apps.who.int/classifications/icd10/browse/2010/en#/I15) [MONDO:0005044](http://purl.obolibrary.org/obo/MONDO_0005044)
 
@@ -25405,8 +25405,8 @@
 
 ## [ICD10CM:A75-A79](http://apps.who.int/classifications/icd10/browse/2010/en#/A75-A79) [MONDO:0006956](http://purl.obolibrary.org/obo/MONDO_0006956) [Orphanet:102021](http://www.orpha.net/ORDO/Orphanet_102021)
 
-- [MONDO:0006956](http://purl.obolibrary.org/obo/MONDO_0006956) EquivalentTo [ICD10CM:A75-A79](http://apps.who.int/classifications/icd10/browse/2010/en#/A75-A79)	(most probable)	0.99
 - [MONDO:0006956](http://purl.obolibrary.org/obo/MONDO_0006956) EquivalentTo [Orphanet:102021](http://www.orpha.net/ORDO/Orphanet_102021)	(most probable)	0.99
+- [MONDO:0006956](http://purl.obolibrary.org/obo/MONDO_0006956) EquivalentTo [ICD10CM:A75-A79](http://apps.who.int/classifications/icd10/browse/2010/en#/A75-A79)	(most probable)	0.99
 
 ## [MONDO:0011079](http://purl.obolibrary.org/obo/MONDO_0011079) [OMIM:601438](https://omim.org/entry/601438) [Orphanet:2831](http://www.orpha.net/ORDO/Orphanet_2831)
 
@@ -25450,8 +25450,8 @@
 
 ## [ICD10CM:Q44.6](http://apps.who.int/classifications/icd10/browse/2010/en#/Q44.6) [MONDO:0000447](http://purl.obolibrary.org/obo/MONDO_0000447) [Orphanet:2924](http://www.orpha.net/ORDO/Orphanet_2924)
 
-- [MONDO:0000447](http://purl.obolibrary.org/obo/MONDO_0000447) EquivalentTo [Orphanet:2924](http://www.orpha.net/ORDO/Orphanet_2924)	(most probable)	0.99
 - [MONDO:0000447](http://purl.obolibrary.org/obo/MONDO_0000447) EquivalentTo [ICD10CM:Q44.6](http://apps.who.int/classifications/icd10/browse/2010/en#/Q44.6)	(most probable)	0.99
+- [MONDO:0000447](http://purl.obolibrary.org/obo/MONDO_0000447) EquivalentTo [Orphanet:2924](http://www.orpha.net/ORDO/Orphanet_2924)	(most probable)	0.99
 
 ## [Combined immunodeficiency with faciooculoskeletal anomalies](http://www.orpha.net/ORDO/Orphanet_221139) [MONDO:0013226](http://purl.obolibrary.org/obo/MONDO_0013226) [OMIM:613328](https://omim.org/entry/613328)
 
@@ -25675,8 +25675,8 @@
 
 ## [Cysticercosis](http://www.orpha.net/ORDO/Orphanet_1560) [ICD10CM:B69](http://apps.who.int/classifications/icd10/browse/2010/en#/B69) [MONDO:0015484](http://purl.obolibrary.org/obo/MONDO_0015484)
 
-- [MONDO:0015484](http://purl.obolibrary.org/obo/MONDO_0015484) EquivalentTo [ICD10CM:B69](http://apps.who.int/classifications/icd10/browse/2010/en#/B69)	(most probable)	0.99
 - [MONDO:0015484](http://purl.obolibrary.org/obo/MONDO_0015484) EquivalentTo [Cysticercosis](http://www.orpha.net/ORDO/Orphanet_1560)	(most probable)	0.99
+- [MONDO:0015484](http://purl.obolibrary.org/obo/MONDO_0015484) EquivalentTo [ICD10CM:B69](http://apps.who.int/classifications/icd10/browse/2010/en#/B69)	(most probable)	0.99
 
 ## [MONDO:0010959](http://purl.obolibrary.org/obo/MONDO_0010959) [OMIM:600920](https://omim.org/entry/600920) [Orphanet:2460](http://www.orpha.net/ORDO/Orphanet_2460)
 
@@ -25845,8 +25845,8 @@
 
 ## [ICD10CM:D68.311](http://apps.who.int/classifications/icd10/browse/2010/en#/D68.311) [MONDO:0019139](http://purl.obolibrary.org/obo/MONDO_0019139) [Orphanet:73274](http://www.orpha.net/ORDO/Orphanet_73274)
 
-- [MONDO:0019139](http://purl.obolibrary.org/obo/MONDO_0019139) EquivalentTo [ICD10CM:D68.311](http://apps.who.int/classifications/icd10/browse/2010/en#/D68.311)	(most probable)	0.99
 - [MONDO:0019139](http://purl.obolibrary.org/obo/MONDO_0019139) EquivalentTo [Orphanet:73274](http://www.orpha.net/ORDO/Orphanet_73274)	(most probable)	0.99
+- [MONDO:0019139](http://purl.obolibrary.org/obo/MONDO_0019139) EquivalentTo [ICD10CM:D68.311](http://apps.who.int/classifications/icd10/browse/2010/en#/D68.311)	(most probable)	0.99
 
 ## [MONDO:0009770](http://purl.obolibrary.org/obo/MONDO_0009770) [OMIM:257920](https://omim.org/entry/257920) [Orphanet:2506](http://www.orpha.net/ORDO/Orphanet_2506)
 
@@ -25951,8 +25951,8 @@
 ## [Alpha-thalassemia](http://www.orpha.net/ORDO/Orphanet_846) [ICD10CM:D56.0](http://apps.who.int/classifications/icd10/browse/2010/en#/D56.0) [MONDO:0011399](http://purl.obolibrary.org/obo/MONDO_0011399) [OMIM:604131](https://omim.org/entry/604131)
 
 - [MONDO:0011399](http://purl.obolibrary.org/obo/MONDO_0011399) EquivalentTo [OMIM:604131](https://omim.org/entry/604131)	(most probable)	0.8
-- [MONDO:0011399](http://purl.obolibrary.org/obo/MONDO_0011399) EquivalentTo [Alpha-thalassemia](http://www.orpha.net/ORDO/Orphanet_846)	(most probable)	0.99
 - [MONDO:0011399](http://purl.obolibrary.org/obo/MONDO_0011399) EquivalentTo [ICD10CM:D56.0](http://apps.who.int/classifications/icd10/browse/2010/en#/D56.0)	(most probable)	0.99
+- [MONDO:0011399](http://purl.obolibrary.org/obo/MONDO_0011399) EquivalentTo [Alpha-thalassemia](http://www.orpha.net/ORDO/Orphanet_846)	(most probable)	0.99
 
 ## [MONDO:0007382](http://purl.obolibrary.org/obo/MONDO_0007382) [OMIM:122430](https://omim.org/entry/122430) [Orphanet:1051](http://www.orpha.net/ORDO/Orphanet_1051)
 
@@ -25977,8 +25977,8 @@
 ## [MONDO:0018931](http://purl.obolibrary.org/obo/MONDO_0018931) [Mucolipidosis type III](http://www.orpha.net/ORDO/Orphanet_577) [OMIM:252600](https://omim.org/entry/252600) [Orphanet:423461](http://www.orpha.net/ORDO/Orphanet_423461)
 
 - [MONDO:0018931](http://purl.obolibrary.org/obo/MONDO_0018931) EquivalentTo [OMIM:252600](https://omim.org/entry/252600)	(most probable)	0.8
-- [MONDO:0018931](http://purl.obolibrary.org/obo/MONDO_0018931) SiblingOf [Orphanet:423461](http://www.orpha.net/ORDO/Orphanet_423461)		0.0050000000000000044
-- [MONDO:0018931](http://purl.obolibrary.org/obo/MONDO_0018931) EquivalentTo [Mucolipidosis type III](http://www.orpha.net/ORDO/Orphanet_577)	(most probable)	0.99
+- [MONDO:0018931](http://purl.obolibrary.org/obo/MONDO_0018931) SiblingOf [Mucolipidosis type III](http://www.orpha.net/ORDO/Orphanet_577)		0.0050000000000000044
+- [MONDO:0018931](http://purl.obolibrary.org/obo/MONDO_0018931) EquivalentTo [Orphanet:423461](http://www.orpha.net/ORDO/Orphanet_423461)	(most probable)	0.99
 
 ## [Familial benign copper deficiency](http://www.orpha.net/ORDO/Orphanet_1551) [MONDO:0007368](http://purl.obolibrary.org/obo/MONDO_0007368) [OMIM:121270](https://omim.org/entry/121270)
 
@@ -26017,8 +26017,8 @@
 
 ## [ICD10CM:L73.2](http://apps.who.int/classifications/icd10/browse/2010/en#/L73.2) [MONDO:0006559](http://purl.obolibrary.org/obo/MONDO_0006559) [Orphanet:387](http://www.orpha.net/ORDO/Orphanet_387)
 
-- [MONDO:0006559](http://purl.obolibrary.org/obo/MONDO_0006559) EquivalentTo [Orphanet:387](http://www.orpha.net/ORDO/Orphanet_387)	(most probable)	0.99
 - [MONDO:0006559](http://purl.obolibrary.org/obo/MONDO_0006559) EquivalentTo [ICD10CM:L73.2](http://apps.who.int/classifications/icd10/browse/2010/en#/L73.2)	(most probable)	0.99
+- [MONDO:0006559](http://purl.obolibrary.org/obo/MONDO_0006559) EquivalentTo [Orphanet:387](http://www.orpha.net/ORDO/Orphanet_387)	(most probable)	0.99
 
 ## [MONDO:0009351](http://purl.obolibrary.org/obo/MONDO_0009351) [OMIM:236130](https://omim.org/entry/236130) [Orphanet:2168](http://www.orpha.net/ORDO/Orphanet_2168)
 
@@ -26087,16 +26087,16 @@
 
 ## [MONDO:0012853](http://purl.obolibrary.org/obo/MONDO_0012853) [OMIM:233500](https://omim.org/entry/233500) [OMIM:612289](https://omim.org/entry/612289) [Orphanet:2095](http://www.orpha.net/ORDO/Orphanet_2095) [Orphanet:2963](http://www.orpha.net/ORDO/Orphanet_2963)
 
-- [MONDO:0012853](http://purl.obolibrary.org/obo/MONDO_0012853) SiblingOf [OMIM:612289](https://omim.org/entry/612289)		0.09999999999999998
-- [MONDO:0012853](http://purl.obolibrary.org/obo/MONDO_0012853) EquivalentTo [OMIM:233500](https://omim.org/entry/233500)	(most probable)	0.8
-- [MONDO:0012853](http://purl.obolibrary.org/obo/MONDO_0012853) SiblingOf [Orphanet:2095](http://www.orpha.net/ORDO/Orphanet_2095)		0.0050000000000000044
-- [MONDO:0012853](http://purl.obolibrary.org/obo/MONDO_0012853) EquivalentTo [Orphanet:2963](http://www.orpha.net/ORDO/Orphanet_2963)	(most probable)	0.99
+- [MONDO:0012853](http://purl.obolibrary.org/obo/MONDO_0012853) SiblingOf [OMIM:233500](https://omim.org/entry/233500)		0.09999999999999998
+- [MONDO:0012853](http://purl.obolibrary.org/obo/MONDO_0012853) EquivalentTo [OMIM:612289](https://omim.org/entry/612289)	(most probable)	0.8
+- [MONDO:0012853](http://purl.obolibrary.org/obo/MONDO_0012853) SiblingOf [Orphanet:2963](http://www.orpha.net/ORDO/Orphanet_2963)		0.0050000000000000044
+- [MONDO:0012853](http://purl.obolibrary.org/obo/MONDO_0012853) EquivalentTo [Orphanet:2095](http://www.orpha.net/ORDO/Orphanet_2095)	(most probable)	0.99
 
 ## [KRT1-related diffuse nonepidermolytic keratoderma](http://www.orpha.net/ORDO/Orphanet_530838) [MONDO:0010962](http://purl.obolibrary.org/obo/MONDO_0010962) [OMIM:600962](https://omim.org/entry/600962) [Orphanet:496](http://www.orpha.net/ORDO/Orphanet_496)
 
 - [MONDO:0010962](http://purl.obolibrary.org/obo/MONDO_0010962) EquivalentTo [OMIM:600962](https://omim.org/entry/600962)	(most probable)	0.8
-- [MONDO:0010962](http://purl.obolibrary.org/obo/MONDO_0010962) SiblingOf [Orphanet:496](http://www.orpha.net/ORDO/Orphanet_496)		0.0050000000000000044
-- [MONDO:0010962](http://purl.obolibrary.org/obo/MONDO_0010962) EquivalentTo [KRT1-related diffuse nonepidermolytic keratoderma](http://www.orpha.net/ORDO/Orphanet_530838)	(most probable)	0.99
+- [MONDO:0010962](http://purl.obolibrary.org/obo/MONDO_0010962) SiblingOf [KRT1-related diffuse nonepidermolytic keratoderma](http://www.orpha.net/ORDO/Orphanet_530838)		0.0050000000000000044
+- [MONDO:0010962](http://purl.obolibrary.org/obo/MONDO_0010962) EquivalentTo [Orphanet:496](http://www.orpha.net/ORDO/Orphanet_496)	(most probable)	0.99
 
 ## [Kniest dysplasia](http://www.orpha.net/ORDO/Orphanet_485) [MONDO:0007987](http://purl.obolibrary.org/obo/MONDO_0007987) [OMIM:156550](https://omim.org/entry/156550)
 
@@ -26171,8 +26171,8 @@
 
 ## [COL4A1-related familial vascular leukoencephalopathy](http://www.orpha.net/ORDO/Orphanet_36383) [MONDO:0008289](http://purl.obolibrary.org/obo/MONDO_0008289) [OMIM:175780](https://omim.org/entry/175780) [OMIM:607595](https://omim.org/entry/607595)
 
-- [MONDO:0008289](http://purl.obolibrary.org/obo/MONDO_0008289) SiblingOf [OMIM:607595](https://omim.org/entry/607595)		0.09999999999999998
-- [MONDO:0008289](http://purl.obolibrary.org/obo/MONDO_0008289) EquivalentTo [OMIM:175780](https://omim.org/entry/175780)	(most probable)	0.8
+- [MONDO:0008289](http://purl.obolibrary.org/obo/MONDO_0008289) SiblingOf [OMIM:175780](https://omim.org/entry/175780)		0.09999999999999998
+- [MONDO:0008289](http://purl.obolibrary.org/obo/MONDO_0008289) EquivalentTo [OMIM:607595](https://omim.org/entry/607595)	(most probable)	0.8
 - [MONDO:0008289](http://purl.obolibrary.org/obo/MONDO_0008289) EquivalentTo [COL4A1-related familial vascular leukoencephalopathy](http://www.orpha.net/ORDO/Orphanet_36383)	(most probable)	0.99
 
 ## [MONDO:0010338](http://purl.obolibrary.org/obo/MONDO_0010338) [OMIM:300489](https://omim.org/entry/300489) [X-linked distal spinal muscular atrophy type 3](http://www.orpha.net/ORDO/Orphanet_139557)
@@ -26278,8 +26278,8 @@
 ## [ICD10CM:D82.0](http://apps.who.int/classifications/icd10/browse/2010/en#/D82.0) [MONDO:0010518](http://purl.obolibrary.org/obo/MONDO_0010518) [OMIM:301000](https://omim.org/entry/301000) [Wiskott-Aldrich syndrome](http://www.orpha.net/ORDO/Orphanet_906)
 
 - [MONDO:0010518](http://purl.obolibrary.org/obo/MONDO_0010518) EquivalentTo [OMIM:301000](https://omim.org/entry/301000)	(most probable)	0.8
-- [MONDO:0010518](http://purl.obolibrary.org/obo/MONDO_0010518) EquivalentTo [Wiskott-Aldrich syndrome](http://www.orpha.net/ORDO/Orphanet_906)	(most probable)	0.99
 - [MONDO:0010518](http://purl.obolibrary.org/obo/MONDO_0010518) EquivalentTo [ICD10CM:D82.0](http://apps.who.int/classifications/icd10/browse/2010/en#/D82.0)	(most probable)	0.99
+- [MONDO:0010518](http://purl.obolibrary.org/obo/MONDO_0010518) EquivalentTo [Wiskott-Aldrich syndrome](http://www.orpha.net/ORDO/Orphanet_906)	(most probable)	0.99
 
 ## [MONDO:0010408](http://purl.obolibrary.org/obo/MONDO_0010408) [OMIM:300707](https://omim.org/entry/300707) [Orphanet:140952](http://www.orpha.net/ORDO/Orphanet_140952)
 
@@ -26353,8 +26353,8 @@
 
 ## [Achromatopsia](http://www.orpha.net/ORDO/Orphanet_49382) [ICD10CM:H53.51](http://apps.who.int/classifications/icd10/browse/2010/en#/H53.51) [MONDO:0018852](http://purl.obolibrary.org/obo/MONDO_0018852)
 
-- [MONDO:0018852](http://purl.obolibrary.org/obo/MONDO_0018852) EquivalentTo [ICD10CM:H53.51](http://apps.who.int/classifications/icd10/browse/2010/en#/H53.51)	(most probable)	0.99
 - [MONDO:0018852](http://purl.obolibrary.org/obo/MONDO_0018852) EquivalentTo [Achromatopsia](http://www.orpha.net/ORDO/Orphanet_49382)	(most probable)	0.99
+- [MONDO:0018852](http://purl.obolibrary.org/obo/MONDO_0018852) EquivalentTo [ICD10CM:H53.51](http://apps.who.int/classifications/icd10/browse/2010/en#/H53.51)	(most probable)	0.99
 
 ## [MONDO:0014412](http://purl.obolibrary.org/obo/MONDO_0014412) [OMIM:615947](https://omim.org/entry/615947) [Orphanet:535458](http://www.orpha.net/ORDO/Orphanet_535458)
 
@@ -26395,8 +26395,8 @@
 ## [Choroideremia](http://www.orpha.net/ORDO/Orphanet_180) [ICD10CM:H31.21](http://apps.who.int/classifications/icd10/browse/2010/en#/H31.21) [MONDO:0010557](http://purl.obolibrary.org/obo/MONDO_0010557) [OMIM:303100](https://omim.org/entry/303100)
 
 - [MONDO:0010557](http://purl.obolibrary.org/obo/MONDO_0010557) EquivalentTo [OMIM:303100](https://omim.org/entry/303100)	(most probable)	0.8
-- [MONDO:0010557](http://purl.obolibrary.org/obo/MONDO_0010557) EquivalentTo [ICD10CM:H31.21](http://apps.who.int/classifications/icd10/browse/2010/en#/H31.21)	(most probable)	0.99
 - [MONDO:0010557](http://purl.obolibrary.org/obo/MONDO_0010557) EquivalentTo [Choroideremia](http://www.orpha.net/ORDO/Orphanet_180)	(most probable)	0.99
+- [MONDO:0010557](http://purl.obolibrary.org/obo/MONDO_0010557) EquivalentTo [ICD10CM:H31.21](http://apps.who.int/classifications/icd10/browse/2010/en#/H31.21)	(most probable)	0.99
 
 ## [Cartilage-hair hypoplasia](http://www.orpha.net/ORDO/Orphanet_175) [MONDO:0009595](http://purl.obolibrary.org/obo/MONDO_0009595) [OMIM:250250](https://omim.org/entry/250250)
 
@@ -26506,10 +26506,10 @@
 
 ## [MONDO:0009726](http://purl.obolibrary.org/obo/MONDO_0009726) [Orphanet:2615](http://www.orpha.net/ORDO/Orphanet_2615) [Orphanet:324999](http://www.orpha.net/ORDO/Orphanet_324999) [Orphanet:325004](http://www.orpha.net/ORDO/Orphanet_325004) [Proteasome-associated autoinflammatory syndrome](http://www.orpha.net/ORDO/Orphanet_324977)
 
-- [MONDO:0009726](http://purl.obolibrary.org/obo/MONDO_0009726) SiblingOf [Orphanet:324999](http://www.orpha.net/ORDO/Orphanet_324999)		0.0050000000000000044
-- [MONDO:0009726](http://purl.obolibrary.org/obo/MONDO_0009726) SiblingOf [Proteasome-associated autoinflammatory syndrome](http://www.orpha.net/ORDO/Orphanet_324977)		0.0050000000000000044
+- [MONDO:0009726](http://purl.obolibrary.org/obo/MONDO_0009726) SiblingOf [Orphanet:2615](http://www.orpha.net/ORDO/Orphanet_2615)		0.0050000000000000044
 - [MONDO:0009726](http://purl.obolibrary.org/obo/MONDO_0009726) SiblingOf [Orphanet:325004](http://www.orpha.net/ORDO/Orphanet_325004)		0.0050000000000000044
-- [MONDO:0009726](http://purl.obolibrary.org/obo/MONDO_0009726) EquivalentTo [Orphanet:2615](http://www.orpha.net/ORDO/Orphanet_2615)	(most probable)	0.99
+- [MONDO:0009726](http://purl.obolibrary.org/obo/MONDO_0009726) SiblingOf [Orphanet:324999](http://www.orpha.net/ORDO/Orphanet_324999)		0.0050000000000000044
+- [MONDO:0009726](http://purl.obolibrary.org/obo/MONDO_0009726) EquivalentTo [Proteasome-associated autoinflammatory syndrome](http://www.orpha.net/ORDO/Orphanet_324977)	(most probable)	0.99
 
 ## [Idiopathic hypereosinophilic syndrome](http://www.orpha.net/ORDO/Orphanet_3260) [MONDO:0011895](http://purl.obolibrary.org/obo/MONDO_0011895) [OMIM:607685](https://omim.org/entry/607685)
 
@@ -26543,8 +26543,8 @@
 
 ## [MONDO:0014353](http://purl.obolibrary.org/obo/MONDO_0014353) [OMIM:216920](https://omim.org/entry/216920) [OMIM:615816](https://omim.org/entry/615816) [PGM3-CDG](http://www.orpha.net/ORDO/Orphanet_443811)
 
-- [MONDO:0014353](http://purl.obolibrary.org/obo/MONDO_0014353) SiblingOf [OMIM:615816](https://omim.org/entry/615816)		0.09999999999999998
-- [MONDO:0014353](http://purl.obolibrary.org/obo/MONDO_0014353) EquivalentTo [OMIM:216920](https://omim.org/entry/216920)	(most probable)	0.8
+- [MONDO:0014353](http://purl.obolibrary.org/obo/MONDO_0014353) SiblingOf [OMIM:216920](https://omim.org/entry/216920)		0.09999999999999998
+- [MONDO:0014353](http://purl.obolibrary.org/obo/MONDO_0014353) EquivalentTo [OMIM:615816](https://omim.org/entry/615816)	(most probable)	0.8
 - [MONDO:0014353](http://purl.obolibrary.org/obo/MONDO_0014353) EquivalentTo [PGM3-CDG](http://www.orpha.net/ORDO/Orphanet_443811)	(most probable)	0.99
 
 ## [MONDO:0007607](http://purl.obolibrary.org/obo/MONDO_0007607) [OMIM:135150](https://omim.org/entry/135150) [Orphanet:122](http://www.orpha.net/ORDO/Orphanet_122)
@@ -26664,8 +26664,8 @@
 
 ## [ICD10CM:A81.01](http://apps.who.int/classifications/icd10/browse/2010/en#/A81.01) [MONDO:0007012](http://purl.obolibrary.org/obo/MONDO_0007012) [Variant Creutzfeldt-Jakob disease](http://www.orpha.net/ORDO/Orphanet_576370)
 
-- [MONDO:0007012](http://purl.obolibrary.org/obo/MONDO_0007012) EquivalentTo [Variant Creutzfeldt-Jakob disease](http://www.orpha.net/ORDO/Orphanet_576370)	(most probable)	0.99
 - [MONDO:0007012](http://purl.obolibrary.org/obo/MONDO_0007012) EquivalentTo [ICD10CM:A81.01](http://apps.who.int/classifications/icd10/browse/2010/en#/A81.01)	(most probable)	0.99
+- [MONDO:0007012](http://purl.obolibrary.org/obo/MONDO_0007012) EquivalentTo [Variant Creutzfeldt-Jakob disease](http://www.orpha.net/ORDO/Orphanet_576370)	(most probable)	0.99
 
 ## [MONDO:0009373](http://purl.obolibrary.org/obo/MONDO_0009373) [OMIM:236900](https://omim.org/entry/236900) [Seizures-intellectual disability due to hydroxylysinuria syndrome](http://www.orpha.net/ORDO/Orphanet_79156)
 
@@ -26729,8 +26729,8 @@
 
 ## [ICD10CM:Q81.0](http://apps.who.int/classifications/icd10/browse/2010/en#/Q81.0) [MONDO:0017610](http://purl.obolibrary.org/obo/MONDO_0017610) [Orphanet:304](http://www.orpha.net/ORDO/Orphanet_304)
 
-- [MONDO:0017610](http://purl.obolibrary.org/obo/MONDO_0017610) EquivalentTo [ICD10CM:Q81.0](http://apps.who.int/classifications/icd10/browse/2010/en#/Q81.0)	(most probable)	0.99
 - [MONDO:0017610](http://purl.obolibrary.org/obo/MONDO_0017610) EquivalentTo [Orphanet:304](http://www.orpha.net/ORDO/Orphanet_304)	(most probable)	0.99
+- [MONDO:0017610](http://purl.obolibrary.org/obo/MONDO_0017610) EquivalentTo [ICD10CM:Q81.0](http://apps.who.int/classifications/icd10/browse/2010/en#/Q81.0)	(most probable)	0.99
 
 ## [Low phospholipid-associated cholelithiasis](http://www.orpha.net/ORDO/Orphanet_69663) [MONDO:0010939](http://purl.obolibrary.org/obo/MONDO_0010939) [OMIM:600803](https://omim.org/entry/600803)
 
@@ -26830,8 +26830,8 @@
 ## [ICD10CM:L80](http://apps.who.int/classifications/icd10/browse/2010/en#/L80) [MONDO:0008661](http://purl.obolibrary.org/obo/MONDO_0008661) [OMIM:193200](https://omim.org/entry/193200) [Orphanet:247871](http://www.orpha.net/ORDO/Orphanet_247871)
 
 - [MONDO:0008661](http://purl.obolibrary.org/obo/MONDO_0008661) EquivalentTo [OMIM:193200](https://omim.org/entry/193200)	(most probable)	0.8
-- [MONDO:0008661](http://purl.obolibrary.org/obo/MONDO_0008661) EquivalentTo [ICD10CM:L80](http://apps.who.int/classifications/icd10/browse/2010/en#/L80)	(most probable)	0.99
 - [MONDO:0008661](http://purl.obolibrary.org/obo/MONDO_0008661) EquivalentTo [Orphanet:247871](http://www.orpha.net/ORDO/Orphanet_247871)	(most probable)	0.99
+- [MONDO:0008661](http://purl.obolibrary.org/obo/MONDO_0008661) EquivalentTo [ICD10CM:L80](http://apps.who.int/classifications/icd10/browse/2010/en#/L80)	(most probable)	0.99
 
 ## [Autosomal dominant Charcot-Marie-Tooth disease type 2W](http://www.orpha.net/ORDO/Orphanet_488333) [MONDO:0014711](http://purl.obolibrary.org/obo/MONDO_0014711) [OMIM:616625](https://omim.org/entry/616625)
 
@@ -26980,8 +26980,8 @@
 
 ## [ICD10CM:Q35-Q37](http://apps.who.int/classifications/icd10/browse/2010/en#/Q35-Q37) [MONDO:0016044](http://purl.obolibrary.org/obo/MONDO_0016044) [Orphanet:199306](http://www.orpha.net/ORDO/Orphanet_199306)
 
-- [MONDO:0016044](http://purl.obolibrary.org/obo/MONDO_0016044) EquivalentTo [ICD10CM:Q35-Q37](http://apps.who.int/classifications/icd10/browse/2010/en#/Q35-Q37)	(most probable)	0.99
 - [MONDO:0016044](http://purl.obolibrary.org/obo/MONDO_0016044) EquivalentTo [Orphanet:199306](http://www.orpha.net/ORDO/Orphanet_199306)	(most probable)	0.99
+- [MONDO:0016044](http://purl.obolibrary.org/obo/MONDO_0016044) EquivalentTo [ICD10CM:Q35-Q37](http://apps.who.int/classifications/icd10/browse/2010/en#/Q35-Q37)	(most probable)	0.99
 
 ## [MONDO:0010461](http://purl.obolibrary.org/obo/MONDO_0010461) [OMIM:300860](https://omim.org/entry/300860) [X-linked intellectual disability, Nascimento type](http://www.orpha.net/ORDO/Orphanet_163956)
 
@@ -27021,8 +27021,8 @@
 ## [Congenital lactase deficiency](http://www.orpha.net/ORDO/Orphanet_53690) [ICD10CM:E73.0](http://apps.who.int/classifications/icd10/browse/2010/en#/E73.0) [MONDO:0009115](http://purl.obolibrary.org/obo/MONDO_0009115) [OMIM:223000](https://omim.org/entry/223000)
 
 - [MONDO:0009115](http://purl.obolibrary.org/obo/MONDO_0009115) EquivalentTo [OMIM:223000](https://omim.org/entry/223000)	(most probable)	0.8
-- [MONDO:0009115](http://purl.obolibrary.org/obo/MONDO_0009115) EquivalentTo [Congenital lactase deficiency](http://www.orpha.net/ORDO/Orphanet_53690)	(most probable)	0.99
 - [MONDO:0009115](http://purl.obolibrary.org/obo/MONDO_0009115) EquivalentTo [ICD10CM:E73.0](http://apps.who.int/classifications/icd10/browse/2010/en#/E73.0)	(most probable)	0.99
+- [MONDO:0009115](http://purl.obolibrary.org/obo/MONDO_0009115) EquivalentTo [Congenital lactase deficiency](http://www.orpha.net/ORDO/Orphanet_53690)	(most probable)	0.99
 
 ## [ICD10CM:L94.6](http://apps.who.int/classifications/icd10/browse/2010/en#/L94.6) [MONDO:0007074](http://purl.obolibrary.org/obo/MONDO_0007074) [OMIM:103400](https://omim.org/entry/103400)
 
@@ -27103,8 +27103,8 @@
 
 ## [ICD10CM:M04-M04](http://apps.who.int/classifications/icd10/browse/2010/en#/M04-M04) [MONDO:0019751](http://purl.obolibrary.org/obo/MONDO_0019751) [Orphanet:93665](http://www.orpha.net/ORDO/Orphanet_93665)
 
-- [MONDO:0019751](http://purl.obolibrary.org/obo/MONDO_0019751) EquivalentTo [ICD10CM:M04-M04](http://apps.who.int/classifications/icd10/browse/2010/en#/M04-M04)	(most probable)	0.99
 - [MONDO:0019751](http://purl.obolibrary.org/obo/MONDO_0019751) EquivalentTo [Orphanet:93665](http://www.orpha.net/ORDO/Orphanet_93665)	(most probable)	0.99
+- [MONDO:0019751](http://purl.obolibrary.org/obo/MONDO_0019751) EquivalentTo [ICD10CM:M04-M04](http://apps.who.int/classifications/icd10/browse/2010/en#/M04-M04)	(most probable)	0.99
 
 ## [Autosomal dominant mendelian susceptibility to mycobacterial diseases due to partial IFNgammaR1 deficiency](http://www.orpha.net/ORDO/Orphanet_319581) [MONDO:0014429](http://purl.obolibrary.org/obo/MONDO_0014429) [OMIM:615978](https://omim.org/entry/615978)
 
@@ -27128,8 +27128,8 @@
 
 ## [Hepatosplenic T-cell lymphoma](http://www.orpha.net/ORDO/Orphanet_86882) [ICD10CM:C86.1](http://apps.who.int/classifications/icd10/browse/2010/en#/C86.1) [MONDO:0019474](http://purl.obolibrary.org/obo/MONDO_0019474)
 
-- [MONDO:0019474](http://purl.obolibrary.org/obo/MONDO_0019474) EquivalentTo [ICD10CM:C86.1](http://apps.who.int/classifications/icd10/browse/2010/en#/C86.1)	(most probable)	0.99
 - [MONDO:0019474](http://purl.obolibrary.org/obo/MONDO_0019474) EquivalentTo [Hepatosplenic T-cell lymphoma](http://www.orpha.net/ORDO/Orphanet_86882)	(most probable)	0.99
+- [MONDO:0019474](http://purl.obolibrary.org/obo/MONDO_0019474) EquivalentTo [ICD10CM:C86.1](http://apps.who.int/classifications/icd10/browse/2010/en#/C86.1)	(most probable)	0.99
 
 ## [Combined immunodeficiency due to GINS1 deficiency](http://www.orpha.net/ORDO/Orphanet_505227) [MONDO:0044725](http://purl.obolibrary.org/obo/MONDO_0044725) [OMIM:617827](https://omim.org/entry/617827)
 
@@ -27243,8 +27243,8 @@
 
 ## [Drug-induced autoimmune hemolytic anemia](http://www.orpha.net/ORDO/Orphanet_90037) [ICD10CM:D59.0](http://apps.who.int/classifications/icd10/browse/2010/en#/D59.0) [MONDO:0019535](http://purl.obolibrary.org/obo/MONDO_0019535)
 
-- [MONDO:0019535](http://purl.obolibrary.org/obo/MONDO_0019535) EquivalentTo [Drug-induced autoimmune hemolytic anemia](http://www.orpha.net/ORDO/Orphanet_90037)	(most probable)	0.99
 - [MONDO:0019535](http://purl.obolibrary.org/obo/MONDO_0019535) EquivalentTo [ICD10CM:D59.0](http://apps.who.int/classifications/icd10/browse/2010/en#/D59.0)	(most probable)	0.99
+- [MONDO:0019535](http://purl.obolibrary.org/obo/MONDO_0019535) EquivalentTo [Drug-induced autoimmune hemolytic anemia](http://www.orpha.net/ORDO/Orphanet_90037)	(most probable)	0.99
 
 ## [MONDO:0021019](http://purl.obolibrary.org/obo/MONDO_0021019) [OMIM:300500](https://omim.org/entry/300500) [X-linked recessive ocular albinism](http://www.orpha.net/ORDO/Orphanet_54)
 
@@ -27258,8 +27258,8 @@
 
 ## [MONDO:0030914](http://purl.obolibrary.org/obo/MONDO_0030914) [OMIM:300602](https://omim.org/entry/300602) [OMIM:617752](https://omim.org/entry/617752) [Orphanet:600731](http://www.orpha.net/ORDO/Orphanet_600731)
 
-- [MONDO:0030914](http://purl.obolibrary.org/obo/MONDO_0030914) SiblingOf [OMIM:300602](https://omim.org/entry/300602)		0.09999999999999998
-- [MONDO:0030914](http://purl.obolibrary.org/obo/MONDO_0030914) EquivalentTo [OMIM:617752](https://omim.org/entry/617752)	(most probable)	0.8
+- [MONDO:0030914](http://purl.obolibrary.org/obo/MONDO_0030914) SiblingOf [OMIM:617752](https://omim.org/entry/617752)		0.09999999999999998
+- [MONDO:0030914](http://purl.obolibrary.org/obo/MONDO_0030914) EquivalentTo [OMIM:300602](https://omim.org/entry/300602)	(most probable)	0.8
 - [MONDO:0030914](http://purl.obolibrary.org/obo/MONDO_0030914) EquivalentTo [Orphanet:600731](http://www.orpha.net/ORDO/Orphanet_600731)	(most probable)	0.99
 
 ## [MONDO:0007811](http://purl.obolibrary.org/obo/MONDO_0007811) [OMIM:146720](https://omim.org/entry/146720) [Orphanet:2267](http://www.orpha.net/ORDO/Orphanet_2267)
@@ -27430,13 +27430,13 @@
 
 ## [ICD10CM:Q00.2](http://apps.who.int/classifications/icd10/browse/2010/en#/Q00.2) [MONDO:0018968](http://purl.obolibrary.org/obo/MONDO_0018968) [Orphanet:63259](http://www.orpha.net/ORDO/Orphanet_63259)
 
-- [MONDO:0018968](http://purl.obolibrary.org/obo/MONDO_0018968) EquivalentTo [ICD10CM:Q00.2](http://apps.who.int/classifications/icd10/browse/2010/en#/Q00.2)	(most probable)	0.99
 - [MONDO:0018968](http://purl.obolibrary.org/obo/MONDO_0018968) EquivalentTo [Orphanet:63259](http://www.orpha.net/ORDO/Orphanet_63259)	(most probable)	0.99
+- [MONDO:0018968](http://purl.obolibrary.org/obo/MONDO_0018968) EquivalentTo [ICD10CM:Q00.2](http://apps.who.int/classifications/icd10/browse/2010/en#/Q00.2)	(most probable)	0.99
 
 ## [ICD10CM:M79.7](http://apps.who.int/classifications/icd10/browse/2010/en#/M79.7) [MONDO:0005546](http://purl.obolibrary.org/obo/MONDO_0005546) [Orphanet:41842](http://www.orpha.net/ORDO/Orphanet_41842)
 
-- [MONDO:0005546](http://purl.obolibrary.org/obo/MONDO_0005546) EquivalentTo [Orphanet:41842](http://www.orpha.net/ORDO/Orphanet_41842)	(most probable)	0.99
 - [MONDO:0005546](http://purl.obolibrary.org/obo/MONDO_0005546) EquivalentTo [ICD10CM:M79.7](http://apps.who.int/classifications/icd10/browse/2010/en#/M79.7)	(most probable)	0.99
+- [MONDO:0005546](http://purl.obolibrary.org/obo/MONDO_0005546) EquivalentTo [Orphanet:41842](http://www.orpha.net/ORDO/Orphanet_41842)	(most probable)	0.99
 
 ## [MONDO:0012413](http://purl.obolibrary.org/obo/MONDO_0012413) [OMIM:610125](https://omim.org/entry/610125) [Orphanet:178364](http://www.orpha.net/ORDO/Orphanet_178364)
 
@@ -27520,13 +27520,13 @@
 
 ## [Delta-beta-thalassemia](http://www.orpha.net/ORDO/Orphanet_231237) [ICD10CM:D56.2](http://apps.who.int/classifications/icd10/browse/2010/en#/D56.2) [MONDO:0016489](http://purl.obolibrary.org/obo/MONDO_0016489)
 
-- [MONDO:0016489](http://purl.obolibrary.org/obo/MONDO_0016489) EquivalentTo [ICD10CM:D56.2](http://apps.who.int/classifications/icd10/browse/2010/en#/D56.2)	(most probable)	0.99
 - [MONDO:0016489](http://purl.obolibrary.org/obo/MONDO_0016489) EquivalentTo [Delta-beta-thalassemia](http://www.orpha.net/ORDO/Orphanet_231237)	(most probable)	0.99
+- [MONDO:0016489](http://purl.obolibrary.org/obo/MONDO_0016489) EquivalentTo [ICD10CM:D56.2](http://apps.who.int/classifications/icd10/browse/2010/en#/D56.2)	(most probable)	0.99
 
 ## [Brucellosis](http://www.orpha.net/ORDO/Orphanet_1304) [ICD10CM:A23](http://apps.who.int/classifications/icd10/browse/2010/en#/A23) [MONDO:0005683](http://purl.obolibrary.org/obo/MONDO_0005683)
 
-- [MONDO:0005683](http://purl.obolibrary.org/obo/MONDO_0005683) EquivalentTo [ICD10CM:A23](http://apps.who.int/classifications/icd10/browse/2010/en#/A23)	(most probable)	0.99
 - [MONDO:0005683](http://purl.obolibrary.org/obo/MONDO_0005683) EquivalentTo [Brucellosis](http://www.orpha.net/ORDO/Orphanet_1304)	(most probable)	0.99
+- [MONDO:0005683](http://purl.obolibrary.org/obo/MONDO_0005683) EquivalentTo [ICD10CM:A23](http://apps.who.int/classifications/icd10/browse/2010/en#/A23)	(most probable)	0.99
 
 ## [MONDO:0044738](http://purl.obolibrary.org/obo/MONDO_0044738) [OMIM:617557](https://omim.org/entry/617557) [Orphanet:506358](http://www.orpha.net/ORDO/Orphanet_506358)
 
@@ -27550,8 +27550,8 @@
 
 ## [ICD10CM:E70-E88](http://apps.who.int/classifications/icd10/browse/2010/en#/E70-E88) [ICD10CM:E70-E90](http://apps.who.int/classifications/icd10/browse/2010/en#/E70-E90) [MONDO:0005066](http://purl.obolibrary.org/obo/MONDO_0005066)
 
-- [MONDO:0005066](http://purl.obolibrary.org/obo/MONDO_0005066) SiblingOf [ICD10CM:E70-E88](http://apps.who.int/classifications/icd10/browse/2010/en#/E70-E88)		0.0050000000000000044
-- [MONDO:0005066](http://purl.obolibrary.org/obo/MONDO_0005066) EquivalentTo [ICD10CM:E70-E90](http://apps.who.int/classifications/icd10/browse/2010/en#/E70-E90)	(most probable)	0.99
+- [MONDO:0005066](http://purl.obolibrary.org/obo/MONDO_0005066) SiblingOf [ICD10CM:E70-E90](http://apps.who.int/classifications/icd10/browse/2010/en#/E70-E90)		0.0050000000000000044
+- [MONDO:0005066](http://purl.obolibrary.org/obo/MONDO_0005066) EquivalentTo [ICD10CM:E70-E88](http://apps.who.int/classifications/icd10/browse/2010/en#/E70-E88)	(most probable)	0.99
 
 ## [ICD10CM:E71.511](http://apps.who.int/classifications/icd10/browse/2010/en#/E71.511) [MONDO:0018598](http://purl.obolibrary.org/obo/MONDO_0018598) [Neonatal adrenoleukodystrophy](http://www.orpha.net/ORDO/Orphanet_44)
 
@@ -27626,8 +27626,8 @@
 
 ## [Erythrokeratodermia variabilis](http://www.orpha.net/ORDO/Orphanet_317) [MONDO:0017851](http://purl.obolibrary.org/obo/MONDO_0017851) [Progressive symmetric erythrokeratodermia](http://www.orpha.net/ORDO/Orphanet_316)
 
-- [MONDO:0017851](http://purl.obolibrary.org/obo/MONDO_0017851) SiblingOf [Progressive symmetric erythrokeratodermia](http://www.orpha.net/ORDO/Orphanet_316)		0.0050000000000000044
-- [MONDO:0017851](http://purl.obolibrary.org/obo/MONDO_0017851) EquivalentTo [Erythrokeratodermia variabilis](http://www.orpha.net/ORDO/Orphanet_317)	(most probable)	0.99
+- [MONDO:0017851](http://purl.obolibrary.org/obo/MONDO_0017851) SiblingOf [Erythrokeratodermia variabilis](http://www.orpha.net/ORDO/Orphanet_317)		0.0050000000000000044
+- [MONDO:0017851](http://purl.obolibrary.org/obo/MONDO_0017851) EquivalentTo [Progressive symmetric erythrokeratodermia](http://www.orpha.net/ORDO/Orphanet_316)	(most probable)	0.99
 
 ## [MONDO:0009742](http://purl.obolibrary.org/obo/MONDO_0009742) [OMIM:256710](https://omim.org/entry/256710) [Orphanet:33445](http://www.orpha.net/ORDO/Orphanet_33445)
 
@@ -27671,8 +27671,8 @@
 
 ## [ICD10CM:Q93.3](http://apps.who.int/classifications/icd10/browse/2010/en#/Q93.3) [MONDO:0022762](http://purl.obolibrary.org/obo/MONDO_0022762) [Orphanet:261884](http://www.orpha.net/ORDO/Orphanet_261884)
 
-- [MONDO:0022762](http://purl.obolibrary.org/obo/MONDO_0022762) EquivalentTo [Orphanet:261884](http://www.orpha.net/ORDO/Orphanet_261884)	(most probable)	0.99
 - [MONDO:0022762](http://purl.obolibrary.org/obo/MONDO_0022762) EquivalentTo [ICD10CM:Q93.3](http://apps.who.int/classifications/icd10/browse/2010/en#/Q93.3)	(most probable)	0.99
+- [MONDO:0022762](http://purl.obolibrary.org/obo/MONDO_0022762) EquivalentTo [Orphanet:261884](http://www.orpha.net/ORDO/Orphanet_261884)	(most probable)	0.99
 
 ## [Combined oxidative phosphorylation defect type 21](http://www.orpha.net/ORDO/Orphanet_420733) [MONDO:0014398](http://purl.obolibrary.org/obo/MONDO_0014398) [OMIM:615918](https://omim.org/entry/615918)
 
@@ -27718,8 +27718,8 @@
 ## [ICD10CM:Q80.0](http://apps.who.int/classifications/icd10/browse/2010/en#/Q80.0) [MONDO:0007810](http://purl.obolibrary.org/obo/MONDO_0007810) [OMIM:146700](https://omim.org/entry/146700) [Orphanet:462](http://www.orpha.net/ORDO/Orphanet_462)
 
 - [MONDO:0007810](http://purl.obolibrary.org/obo/MONDO_0007810) EquivalentTo [OMIM:146700](https://omim.org/entry/146700)	(most probable)	0.8
-- [MONDO:0007810](http://purl.obolibrary.org/obo/MONDO_0007810) EquivalentTo [Orphanet:462](http://www.orpha.net/ORDO/Orphanet_462)	(most probable)	0.99
 - [MONDO:0007810](http://purl.obolibrary.org/obo/MONDO_0007810) EquivalentTo [ICD10CM:Q80.0](http://apps.who.int/classifications/icd10/browse/2010/en#/Q80.0)	(most probable)	0.99
+- [MONDO:0007810](http://purl.obolibrary.org/obo/MONDO_0007810) EquivalentTo [Orphanet:462](http://www.orpha.net/ORDO/Orphanet_462)	(most probable)	0.99
 
 ## [Episodic ataxia with slurred speech](http://www.orpha.net/ORDO/Orphanet_401953) [MONDO:0014476](http://purl.obolibrary.org/obo/MONDO_0014476) [OMIM:616055](https://omim.org/entry/616055)
 
@@ -27853,10 +27853,10 @@
 
 ## [MONDO:0011939](http://purl.obolibrary.org/obo/MONDO_0011939) [OMIM:271550](https://omim.org/entry/271550) [OMIM:607944](https://omim.org/entry/607944) [Orphanet:1855](http://www.orpha.net/ORDO/Orphanet_1855) [Orphanet:50816](http://www.orpha.net/ORDO/Orphanet_50816)
 
-- [MONDO:0011939](http://purl.obolibrary.org/obo/MONDO_0011939) SiblingOf [OMIM:607944](https://omim.org/entry/607944)		0.09999999999999998
-- [MONDO:0011939](http://purl.obolibrary.org/obo/MONDO_0011939) EquivalentTo [OMIM:271550](https://omim.org/entry/271550)	(most probable)	0.8
-- [MONDO:0011939](http://purl.obolibrary.org/obo/MONDO_0011939) SiblingOf [Orphanet:50816](http://www.orpha.net/ORDO/Orphanet_50816)		0.0050000000000000044
-- [MONDO:0011939](http://purl.obolibrary.org/obo/MONDO_0011939) EquivalentTo [Orphanet:1855](http://www.orpha.net/ORDO/Orphanet_1855)	(most probable)	0.99
+- [MONDO:0011939](http://purl.obolibrary.org/obo/MONDO_0011939) SiblingOf [OMIM:271550](https://omim.org/entry/271550)		0.09999999999999998
+- [MONDO:0011939](http://purl.obolibrary.org/obo/MONDO_0011939) EquivalentTo [OMIM:607944](https://omim.org/entry/607944)	(most probable)	0.8
+- [MONDO:0011939](http://purl.obolibrary.org/obo/MONDO_0011939) SiblingOf [Orphanet:1855](http://www.orpha.net/ORDO/Orphanet_1855)		0.0050000000000000044
+- [MONDO:0011939](http://purl.obolibrary.org/obo/MONDO_0011939) EquivalentTo [Orphanet:50816](http://www.orpha.net/ORDO/Orphanet_50816)	(most probable)	0.99
 
 ## [MONDO:0014034](http://purl.obolibrary.org/obo/MONDO_0014034) [OMIM:615074](https://omim.org/entry/615074) [Severe intellectual disability-poor language-strabismus-grimacing face-long fingers syndrome](http://www.orpha.net/ORDO/Orphanet_363686)
 
@@ -27920,8 +27920,8 @@
 
 ## [Diphyllobothriasis](http://www.orpha.net/ORDO/Orphanet_128) [ICD10CM:B70.0](http://apps.who.int/classifications/icd10/browse/2010/en#/B70.0) [MONDO:0015260](http://purl.obolibrary.org/obo/MONDO_0015260)
 
-- [MONDO:0015260](http://purl.obolibrary.org/obo/MONDO_0015260) EquivalentTo [Diphyllobothriasis](http://www.orpha.net/ORDO/Orphanet_128)	(most probable)	0.99
 - [MONDO:0015260](http://purl.obolibrary.org/obo/MONDO_0015260) EquivalentTo [ICD10CM:B70.0](http://apps.who.int/classifications/icd10/browse/2010/en#/B70.0)	(most probable)	0.99
+- [MONDO:0015260](http://purl.obolibrary.org/obo/MONDO_0015260) EquivalentTo [Diphyllobothriasis](http://www.orpha.net/ORDO/Orphanet_128)	(most probable)	0.99
 
 ## [MONDO:0013128](http://purl.obolibrary.org/obo/MONDO_0013128) [OMIM:613092](https://omim.org/entry/613092) [Orphanet:217330](http://www.orpha.net/ORDO/Orphanet_217330)
 
@@ -27966,14 +27966,14 @@
 ## [MONDO:0011812](http://purl.obolibrary.org/obo/MONDO_0011812) [OMIM:607323](https://omim.org/entry/607323) [Orphanet:93293](http://www.orpha.net/ORDO/Orphanet_93293) [Orphanet:959](http://www.orpha.net/ORDO/Orphanet_959)
 
 - [MONDO:0011812](http://purl.obolibrary.org/obo/MONDO_0011812) EquivalentTo [OMIM:607323](https://omim.org/entry/607323)	(most probable)	0.8
-- [MONDO:0011812](http://purl.obolibrary.org/obo/MONDO_0011812) SiblingOf [Orphanet:93293](http://www.orpha.net/ORDO/Orphanet_93293)		0.0050000000000000044
-- [MONDO:0011812](http://purl.obolibrary.org/obo/MONDO_0011812) EquivalentTo [Orphanet:959](http://www.orpha.net/ORDO/Orphanet_959)	(most probable)	0.99
+- [MONDO:0011812](http://purl.obolibrary.org/obo/MONDO_0011812) SiblingOf [Orphanet:959](http://www.orpha.net/ORDO/Orphanet_959)		0.0050000000000000044
+- [MONDO:0011812](http://purl.obolibrary.org/obo/MONDO_0011812) EquivalentTo [Orphanet:93293](http://www.orpha.net/ORDO/Orphanet_93293)	(most probable)	0.99
 
 ## [ICD10CM:E71.110](http://apps.who.int/classifications/icd10/browse/2010/en#/E71.110) [Isovaleric acidemia](http://www.orpha.net/ORDO/Orphanet_33) [MONDO:0009475](http://purl.obolibrary.org/obo/MONDO_0009475) [OMIM:243500](https://omim.org/entry/243500)
 
 - [MONDO:0009475](http://purl.obolibrary.org/obo/MONDO_0009475) EquivalentTo [OMIM:243500](https://omim.org/entry/243500)	(most probable)	0.8
-- [MONDO:0009475](http://purl.obolibrary.org/obo/MONDO_0009475) EquivalentTo [Isovaleric acidemia](http://www.orpha.net/ORDO/Orphanet_33)	(most probable)	0.99
 - [MONDO:0009475](http://purl.obolibrary.org/obo/MONDO_0009475) EquivalentTo [ICD10CM:E71.110](http://apps.who.int/classifications/icd10/browse/2010/en#/E71.110)	(most probable)	0.99
+- [MONDO:0009475](http://purl.obolibrary.org/obo/MONDO_0009475) EquivalentTo [Isovaleric acidemia](http://www.orpha.net/ORDO/Orphanet_33)	(most probable)	0.99
 
 ## [ICD10CM:A98.1](http://apps.who.int/classifications/icd10/browse/2010/en#/A98.1) [MONDO:0017882](http://purl.obolibrary.org/obo/MONDO_0017882) [Omsk hemorrhagic fever](http://www.orpha.net/ORDO/Orphanet_319266)
 
@@ -28044,13 +28044,13 @@
 ## [ICD10CM:G30](http://apps.who.int/classifications/icd10/browse/2010/en#/G30) [MONDO:0004975](http://purl.obolibrary.org/obo/MONDO_0004975) [OMIM:104300](https://omim.org/entry/104300) [Orphanet:238616](http://www.orpha.net/ORDO/Orphanet_238616)
 
 - [MONDO:0004975](http://purl.obolibrary.org/obo/MONDO_0004975) EquivalentTo [OMIM:104300](https://omim.org/entry/104300)	(most probable)	0.8
-- [MONDO:0004975](http://purl.obolibrary.org/obo/MONDO_0004975) EquivalentTo [Orphanet:238616](http://www.orpha.net/ORDO/Orphanet_238616)	(most probable)	0.99
 - [MONDO:0004975](http://purl.obolibrary.org/obo/MONDO_0004975) EquivalentTo [ICD10CM:G30](http://apps.who.int/classifications/icd10/browse/2010/en#/G30)	(most probable)	0.99
+- [MONDO:0004975](http://purl.obolibrary.org/obo/MONDO_0004975) EquivalentTo [Orphanet:238616](http://www.orpha.net/ORDO/Orphanet_238616)	(most probable)	0.99
 
 ## [ICD10CM:Q78.1](http://apps.who.int/classifications/icd10/browse/2010/en#/Q78.1) [MONDO:0008274](http://purl.obolibrary.org/obo/MONDO_0008274) [Orphanet:93276](http://www.orpha.net/ORDO/Orphanet_93276)
 
-- [MONDO:0008274](http://purl.obolibrary.org/obo/MONDO_0008274) EquivalentTo [ICD10CM:Q78.1](http://apps.who.int/classifications/icd10/browse/2010/en#/Q78.1)	(most probable)	0.99
 - [MONDO:0008274](http://purl.obolibrary.org/obo/MONDO_0008274) EquivalentTo [Orphanet:93276](http://www.orpha.net/ORDO/Orphanet_93276)	(most probable)	0.99
+- [MONDO:0008274](http://purl.obolibrary.org/obo/MONDO_0008274) EquivalentTo [ICD10CM:Q78.1](http://apps.who.int/classifications/icd10/browse/2010/en#/Q78.1)	(most probable)	0.99
 
 ## [Fingerprint body myopathy](http://www.orpha.net/ORDO/Orphanet_97232) [MONDO:0010591](http://purl.obolibrary.org/obo/MONDO_0010591) [OMIM:305550](https://omim.org/entry/305550)
 
@@ -28164,8 +28164,8 @@
 
 ## [Complete androgen insensitivity syndrome](http://www.orpha.net/ORDO/Orphanet_99429) [ICD10CM:E34.51](http://apps.who.int/classifications/icd10/browse/2010/en#/E34.51) [MONDO:0021023](http://purl.obolibrary.org/obo/MONDO_0021023)
 
-- [MONDO:0021023](http://purl.obolibrary.org/obo/MONDO_0021023) EquivalentTo [Complete androgen insensitivity syndrome](http://www.orpha.net/ORDO/Orphanet_99429)	(most probable)	0.99
 - [MONDO:0021023](http://purl.obolibrary.org/obo/MONDO_0021023) EquivalentTo [ICD10CM:E34.51](http://apps.who.int/classifications/icd10/browse/2010/en#/E34.51)	(most probable)	0.99
+- [MONDO:0021023](http://purl.obolibrary.org/obo/MONDO_0021023) EquivalentTo [Complete androgen insensitivity syndrome](http://www.orpha.net/ORDO/Orphanet_99429)	(most probable)	0.99
 
 ## [Familial primary hypomagnesemia with hypercalciuria and nephrocalcinosis without severe ocular involvement](http://www.orpha.net/ORDO/Orphanet_31043) [MONDO:0009550](http://purl.obolibrary.org/obo/MONDO_0009550) [OMIM:248250](https://omim.org/entry/248250)
 
@@ -28380,8 +28380,8 @@
 
 ## [Balantidiasis](http://www.orpha.net/ORDO/Orphanet_1223) [ICD10CM:A07.0](http://apps.who.int/classifications/icd10/browse/2010/en#/A07.0) [MONDO:0005662](http://purl.obolibrary.org/obo/MONDO_0005662)
 
-- [MONDO:0005662](http://purl.obolibrary.org/obo/MONDO_0005662) EquivalentTo [Balantidiasis](http://www.orpha.net/ORDO/Orphanet_1223)	(most probable)	0.99
 - [MONDO:0005662](http://purl.obolibrary.org/obo/MONDO_0005662) EquivalentTo [ICD10CM:A07.0](http://apps.who.int/classifications/icd10/browse/2010/en#/A07.0)	(most probable)	0.99
+- [MONDO:0005662](http://purl.obolibrary.org/obo/MONDO_0005662) EquivalentTo [Balantidiasis](http://www.orpha.net/ORDO/Orphanet_1223)	(most probable)	0.99
 
 ## [MONDO:0014627](http://purl.obolibrary.org/obo/MONDO_0014627) [OMIM:616411](https://omim.org/entry/616411) [Primary dystonia, DYT27 type](http://www.orpha.net/ORDO/Orphanet_464440)
 
@@ -28543,8 +28543,8 @@
 ## [Fatal familial insomnia](http://www.orpha.net/ORDO/Orphanet_466) [ICD10CM:A81.83](http://apps.who.int/classifications/icd10/browse/2010/en#/A81.83) [MONDO:0010808](http://purl.obolibrary.org/obo/MONDO_0010808) [OMIM:600072](https://omim.org/entry/600072)
 
 - [MONDO:0010808](http://purl.obolibrary.org/obo/MONDO_0010808) EquivalentTo [OMIM:600072](https://omim.org/entry/600072)	(most probable)	0.8
-- [MONDO:0010808](http://purl.obolibrary.org/obo/MONDO_0010808) EquivalentTo [Fatal familial insomnia](http://www.orpha.net/ORDO/Orphanet_466)	(most probable)	0.99
 - [MONDO:0010808](http://purl.obolibrary.org/obo/MONDO_0010808) EquivalentTo [ICD10CM:A81.83](http://apps.who.int/classifications/icd10/browse/2010/en#/A81.83)	(most probable)	0.99
+- [MONDO:0010808](http://purl.obolibrary.org/obo/MONDO_0010808) EquivalentTo [Fatal familial insomnia](http://www.orpha.net/ORDO/Orphanet_466)	(most probable)	0.99
 
 ## [MONDO:0012687](http://purl.obolibrary.org/obo/MONDO_0012687) [OMIM:611543](https://omim.org/entry/611543) [Orphanet:464760](http://www.orpha.net/ORDO/Orphanet_464760)
 
@@ -28684,8 +28684,8 @@
 ## [Biotin-thiamine-responsive basal ganglia disease](http://www.orpha.net/ORDO/Orphanet_65284) [MONDO:0011841](http://purl.obolibrary.org/obo/MONDO_0011841) [OMIM:607483](https://omim.org/entry/607483) [Thiamine-responsive encephalopathy](http://www.orpha.net/ORDO/Orphanet_199348)
 
 - [MONDO:0011841](http://purl.obolibrary.org/obo/MONDO_0011841) EquivalentTo [OMIM:607483](https://omim.org/entry/607483)	(most probable)	0.8
-- [MONDO:0011841](http://purl.obolibrary.org/obo/MONDO_0011841) SiblingOf [Biotin-thiamine-responsive basal ganglia disease](http://www.orpha.net/ORDO/Orphanet_65284)		0.0050000000000000044
-- [MONDO:0011841](http://purl.obolibrary.org/obo/MONDO_0011841) EquivalentTo [Thiamine-responsive encephalopathy](http://www.orpha.net/ORDO/Orphanet_199348)	(most probable)	0.99
+- [MONDO:0011841](http://purl.obolibrary.org/obo/MONDO_0011841) SiblingOf [Thiamine-responsive encephalopathy](http://www.orpha.net/ORDO/Orphanet_199348)		0.0050000000000000044
+- [MONDO:0011841](http://purl.obolibrary.org/obo/MONDO_0011841) EquivalentTo [Biotin-thiamine-responsive basal ganglia disease](http://www.orpha.net/ORDO/Orphanet_65284)	(most probable)	0.99
 
 ## [MONDO:0008387](http://purl.obolibrary.org/obo/MONDO_0008387) [OMIM:180550](https://omim.org/entry/180550) [Ring dermoid of cornea](http://www.orpha.net/ORDO/Orphanet_91481)
 
@@ -28739,13 +28739,13 @@
 
 ## [Hereditary hemorrhagic telangiectasia](http://www.orpha.net/ORDO/Orphanet_774) [ICD10CM:I78.0](http://apps.who.int/classifications/icd10/browse/2010/en#/I78.0) [MONDO:0019180](http://purl.obolibrary.org/obo/MONDO_0019180)
 
-- [MONDO:0019180](http://purl.obolibrary.org/obo/MONDO_0019180) EquivalentTo [Hereditary hemorrhagic telangiectasia](http://www.orpha.net/ORDO/Orphanet_774)	(most probable)	0.99
 - [MONDO:0019180](http://purl.obolibrary.org/obo/MONDO_0019180) EquivalentTo [ICD10CM:I78.0](http://apps.who.int/classifications/icd10/browse/2010/en#/I78.0)	(most probable)	0.99
+- [MONDO:0019180](http://purl.obolibrary.org/obo/MONDO_0019180) EquivalentTo [Hereditary hemorrhagic telangiectasia](http://www.orpha.net/ORDO/Orphanet_774)	(most probable)	0.99
 
 ## [ICD10CM:Q23](http://apps.who.int/classifications/icd10/browse/2010/en#/Q23) [MONDO:0019817](http://purl.obolibrary.org/obo/MONDO_0019817) [Orphanet:95464](http://www.orpha.net/ORDO/Orphanet_95464)
 
-- [MONDO:0019817](http://purl.obolibrary.org/obo/MONDO_0019817) EquivalentTo [ICD10CM:Q23](http://apps.who.int/classifications/icd10/browse/2010/en#/Q23)	(most probable)	0.99
 - [MONDO:0019817](http://purl.obolibrary.org/obo/MONDO_0019817) EquivalentTo [Orphanet:95464](http://www.orpha.net/ORDO/Orphanet_95464)	(most probable)	0.99
+- [MONDO:0019817](http://purl.obolibrary.org/obo/MONDO_0019817) EquivalentTo [ICD10CM:Q23](http://apps.who.int/classifications/icd10/browse/2010/en#/Q23)	(most probable)	0.99
 
 ## [MONDO:0009313](http://purl.obolibrary.org/obo/MONDO_0009313) [OMIM:233810](https://omim.org/entry/233810) [Orphanet:2101](http://www.orpha.net/ORDO/Orphanet_2101)
 
@@ -28834,8 +28834,8 @@
 
 ## [Hereditary spherocytosis](http://www.orpha.net/ORDO/Orphanet_822) [ICD10CM:D58.0](http://apps.who.int/classifications/icd10/browse/2010/en#/D58.0) [MONDO:0019350](http://purl.obolibrary.org/obo/MONDO_0019350)
 
-- [MONDO:0019350](http://purl.obolibrary.org/obo/MONDO_0019350) EquivalentTo [ICD10CM:D58.0](http://apps.who.int/classifications/icd10/browse/2010/en#/D58.0)	(most probable)	0.99
 - [MONDO:0019350](http://purl.obolibrary.org/obo/MONDO_0019350) EquivalentTo [Hereditary spherocytosis](http://www.orpha.net/ORDO/Orphanet_822)	(most probable)	0.99
+- [MONDO:0019350](http://purl.obolibrary.org/obo/MONDO_0019350) EquivalentTo [ICD10CM:D58.0](http://apps.who.int/classifications/icd10/browse/2010/en#/D58.0)	(most probable)	0.99
 
 ## [MONDO:0008006](http://purl.obolibrary.org/obo/MONDO_0008006) [Moebius syndrome](http://www.orpha.net/ORDO/Orphanet_570) [OMIM:157900](https://omim.org/entry/157900)
 
@@ -28844,8 +28844,8 @@
 
 ## [ICD10CM:C88.0](http://apps.who.int/classifications/icd10/browse/2010/en#/C88.0) [MONDO:0100280](http://purl.obolibrary.org/obo/MONDO_0100280) [Waldenström macroglobulinemia](http://www.orpha.net/ORDO/Orphanet_33226)
 
-- [MONDO:0100280](http://purl.obolibrary.org/obo/MONDO_0100280) EquivalentTo [Waldenström macroglobulinemia](http://www.orpha.net/ORDO/Orphanet_33226)	(most probable)	0.99
 - [MONDO:0100280](http://purl.obolibrary.org/obo/MONDO_0100280) EquivalentTo [ICD10CM:C88.0](http://apps.who.int/classifications/icd10/browse/2010/en#/C88.0)	(most probable)	0.99
+- [MONDO:0100280](http://purl.obolibrary.org/obo/MONDO_0100280) EquivalentTo [Waldenström macroglobulinemia](http://www.orpha.net/ORDO/Orphanet_33226)	(most probable)	0.99
 
 ## [MONDO:0008396](http://purl.obolibrary.org/obo/MONDO_0008396) [OMIM:180900](https://omim.org/entry/180900) [Orphanet:2709](http://www.orpha.net/ORDO/Orphanet_2709)
 
@@ -28855,8 +28855,8 @@
 ## [ICD10CM:C90.0](http://apps.who.int/classifications/icd10/browse/2010/en#/C90.0) [MONDO:0009693](http://purl.obolibrary.org/obo/MONDO_0009693) [Multiple myeloma](http://www.orpha.net/ORDO/Orphanet_29073) [OMIM:254500](https://omim.org/entry/254500)
 
 - [MONDO:0009693](http://purl.obolibrary.org/obo/MONDO_0009693) EquivalentTo [OMIM:254500](https://omim.org/entry/254500)	(most probable)	0.8
-- [MONDO:0009693](http://purl.obolibrary.org/obo/MONDO_0009693) EquivalentTo [Multiple myeloma](http://www.orpha.net/ORDO/Orphanet_29073)	(most probable)	0.99
 - [MONDO:0009693](http://purl.obolibrary.org/obo/MONDO_0009693) EquivalentTo [ICD10CM:C90.0](http://apps.who.int/classifications/icd10/browse/2010/en#/C90.0)	(most probable)	0.99
+- [MONDO:0009693](http://purl.obolibrary.org/obo/MONDO_0009693) EquivalentTo [Multiple myeloma](http://www.orpha.net/ORDO/Orphanet_29073)	(most probable)	0.99
 
 ## [ICD10CM:Q85.02](http://apps.who.int/classifications/icd10/browse/2010/en#/Q85.02) [MONDO:0007039](http://purl.obolibrary.org/obo/MONDO_0007039) [Neurofibromatosis type 2](http://www.orpha.net/ORDO/Orphanet_637) [OMIM:101000](https://omim.org/entry/101000)
 
@@ -28876,8 +28876,8 @@
 
 ## [Coccidioidomycosis](http://www.orpha.net/ORDO/Orphanet_228123) [ICD10CM:B38](http://apps.who.int/classifications/icd10/browse/2010/en#/B38) [MONDO:0005706](http://purl.obolibrary.org/obo/MONDO_0005706)
 
-- [MONDO:0005706](http://purl.obolibrary.org/obo/MONDO_0005706) EquivalentTo [ICD10CM:B38](http://apps.who.int/classifications/icd10/browse/2010/en#/B38)	(most probable)	0.99
 - [MONDO:0005706](http://purl.obolibrary.org/obo/MONDO_0005706) EquivalentTo [Coccidioidomycosis](http://www.orpha.net/ORDO/Orphanet_228123)	(most probable)	0.99
+- [MONDO:0005706](http://purl.obolibrary.org/obo/MONDO_0005706) EquivalentTo [ICD10CM:B38](http://apps.who.int/classifications/icd10/browse/2010/en#/B38)	(most probable)	0.99
 
 ## [MONDO:0011146](http://purl.obolibrary.org/obo/MONDO_0011146) [OMIM:601803](https://omim.org/entry/601803) [Orphanet:884](http://www.orpha.net/ORDO/Orphanet_884)
 
@@ -28991,8 +28991,8 @@
 
 ## [ICD10CM:C92.3](http://apps.who.int/classifications/icd10/browse/2010/en#/C92.3) [MONDO:0006861](http://purl.obolibrary.org/obo/MONDO_0006861) [Myeloid sarcoma](http://www.orpha.net/ORDO/Orphanet_86850)
 
-- [MONDO:0006861](http://purl.obolibrary.org/obo/MONDO_0006861) EquivalentTo [ICD10CM:C92.3](http://apps.who.int/classifications/icd10/browse/2010/en#/C92.3)	(most probable)	0.99
 - [MONDO:0006861](http://purl.obolibrary.org/obo/MONDO_0006861) EquivalentTo [Myeloid sarcoma](http://www.orpha.net/ORDO/Orphanet_86850)	(most probable)	0.99
+- [MONDO:0006861](http://purl.obolibrary.org/obo/MONDO_0006861) EquivalentTo [ICD10CM:C92.3](http://apps.who.int/classifications/icd10/browse/2010/en#/C92.3)	(most probable)	0.99
 
 ## [CCDC115-CDG](http://www.orpha.net/ORDO/Orphanet_468684) [MONDO:0014789](http://purl.obolibrary.org/obo/MONDO_0014789) [OMIM:616828](https://omim.org/entry/616828)
 
@@ -29011,8 +29011,8 @@
 
 ## [ICD10CM:G61.0](http://apps.who.int/classifications/icd10/browse/2010/en#/G61.0) [MONDO:0016218](http://purl.obolibrary.org/obo/MONDO_0016218) [Orphanet:2103](http://www.orpha.net/ORDO/Orphanet_2103)
 
-- [MONDO:0016218](http://purl.obolibrary.org/obo/MONDO_0016218) EquivalentTo [Orphanet:2103](http://www.orpha.net/ORDO/Orphanet_2103)	(most probable)	0.99
 - [MONDO:0016218](http://purl.obolibrary.org/obo/MONDO_0016218) EquivalentTo [ICD10CM:G61.0](http://apps.who.int/classifications/icd10/browse/2010/en#/G61.0)	(most probable)	0.99
+- [MONDO:0016218](http://purl.obolibrary.org/obo/MONDO_0016218) EquivalentTo [Orphanet:2103](http://www.orpha.net/ORDO/Orphanet_2103)	(most probable)	0.99
 
 ## [Brain-lung-thyroid syndrome](http://www.orpha.net/ORDO/Orphanet_209905) [MONDO:0012593](http://purl.obolibrary.org/obo/MONDO_0012593) [OMIM:610978](https://omim.org/entry/610978)
 
@@ -29047,8 +29047,8 @@
 ## [ICD10CM:H53.54](http://apps.who.int/classifications/icd10/browse/2010/en#/H53.54) [MONDO:0010565](http://purl.obolibrary.org/obo/MONDO_0010565) [OMIM:303900](https://omim.org/entry/303900) [Orphanet:319691](http://www.orpha.net/ORDO/Orphanet_319691)
 
 - [MONDO:0010565](http://purl.obolibrary.org/obo/MONDO_0010565) EquivalentTo [OMIM:303900](https://omim.org/entry/303900)	(most probable)	0.8
-- [MONDO:0010565](http://purl.obolibrary.org/obo/MONDO_0010565) EquivalentTo [Orphanet:319691](http://www.orpha.net/ORDO/Orphanet_319691)	(most probable)	0.99
 - [MONDO:0010565](http://purl.obolibrary.org/obo/MONDO_0010565) EquivalentTo [ICD10CM:H53.54](http://apps.who.int/classifications/icd10/browse/2010/en#/H53.54)	(most probable)	0.99
+- [MONDO:0010565](http://purl.obolibrary.org/obo/MONDO_0010565) EquivalentTo [Orphanet:319691](http://www.orpha.net/ORDO/Orphanet_319691)	(most probable)	0.99
 
 ## [MONDO:0013957](http://purl.obolibrary.org/obo/MONDO_0013957) [Mendelian susceptibility to mycobacterial diseases due to partial IRF8 deficiency](http://www.orpha.net/ORDO/Orphanet_319600) [OMIM:614893](https://omim.org/entry/614893)
 
@@ -29137,8 +29137,8 @@
 
 ## [MONDO:0008807](http://purl.obolibrary.org/obo/MONDO_0008807) [OMIM:107640](https://omim.org/entry/107640) [OMIM:207720](https://omim.org/entry/207720)
 
-- [MONDO:0008807](http://purl.obolibrary.org/obo/MONDO_0008807) SiblingOf [OMIM:107640](https://omim.org/entry/107640)		0.09999999999999998
-- [MONDO:0008807](http://purl.obolibrary.org/obo/MONDO_0008807) EquivalentTo [OMIM:207720](https://omim.org/entry/207720)	(most probable)	0.8
+- [MONDO:0008807](http://purl.obolibrary.org/obo/MONDO_0008807) SiblingOf [OMIM:207720](https://omim.org/entry/207720)		0.09999999999999998
+- [MONDO:0008807](http://purl.obolibrary.org/obo/MONDO_0008807) EquivalentTo [OMIM:107640](https://omim.org/entry/107640)	(most probable)	0.8
 
 ## [MONDO:0007198](http://purl.obolibrary.org/obo/MONDO_0007198) [OMIM:109900](https://omim.org/entry/109900) [Orphanet:1253](http://www.orpha.net/ORDO/Orphanet_1253)
 
@@ -29187,8 +29187,8 @@
 
 ## [ICD10CM:A96.2](http://apps.who.int/classifications/icd10/browse/2010/en#/A96.2) [Lassa fever](http://www.orpha.net/ORDO/Orphanet_99824) [MONDO:0005820](http://purl.obolibrary.org/obo/MONDO_0005820)
 
-- [MONDO:0005820](http://purl.obolibrary.org/obo/MONDO_0005820) EquivalentTo [ICD10CM:A96.2](http://apps.who.int/classifications/icd10/browse/2010/en#/A96.2)	(most probable)	0.99
 - [MONDO:0005820](http://purl.obolibrary.org/obo/MONDO_0005820) EquivalentTo [Lassa fever](http://www.orpha.net/ORDO/Orphanet_99824)	(most probable)	0.99
+- [MONDO:0005820](http://purl.obolibrary.org/obo/MONDO_0005820) EquivalentTo [ICD10CM:A96.2](http://apps.who.int/classifications/icd10/browse/2010/en#/A96.2)	(most probable)	0.99
 
 ## [MONDO:0013014](http://purl.obolibrary.org/obo/MONDO_0013014) [OMIM:612813](https://omim.org/entry/612813) [Spondyloepimetaphyseal dysplasia, aggrecan type](http://www.orpha.net/ORDO/Orphanet_171866)
 
@@ -29212,8 +29212,8 @@
 
 ## [ICD10CM:Q01.0](http://apps.who.int/classifications/icd10/browse/2010/en#/Q01.0) [MONDO:0016020](http://purl.obolibrary.org/obo/MONDO_0016020) [Orphanet:1931](http://www.orpha.net/ORDO/Orphanet_1931)
 
-- [MONDO:0016020](http://purl.obolibrary.org/obo/MONDO_0016020) EquivalentTo [ICD10CM:Q01.0](http://apps.who.int/classifications/icd10/browse/2010/en#/Q01.0)	(most probable)	0.99
 - [MONDO:0016020](http://purl.obolibrary.org/obo/MONDO_0016020) EquivalentTo [Orphanet:1931](http://www.orpha.net/ORDO/Orphanet_1931)	(most probable)	0.99
+- [MONDO:0016020](http://purl.obolibrary.org/obo/MONDO_0016020) EquivalentTo [ICD10CM:Q01.0](http://apps.who.int/classifications/icd10/browse/2010/en#/Q01.0)	(most probable)	0.99
 
 ## [MONDO:0008487](http://purl.obolibrary.org/obo/MONDO_0008487) [OMIM:184700](https://omim.org/entry/184700) [Orphanet:3185](http://www.orpha.net/ORDO/Orphanet_3185)
 
@@ -29378,8 +29378,8 @@
 ## [Elastosis perforans serpiginosa](http://www.orpha.net/ORDO/Orphanet_79148) [ICD10CM:L87.2](http://apps.who.int/classifications/icd10/browse/2010/en#/L87.2) [MONDO:0007529](http://purl.obolibrary.org/obo/MONDO_0007529) [OMIM:130100](https://omim.org/entry/130100)
 
 - [MONDO:0007529](http://purl.obolibrary.org/obo/MONDO_0007529) EquivalentTo [OMIM:130100](https://omim.org/entry/130100)	(most probable)	0.8
-- [MONDO:0007529](http://purl.obolibrary.org/obo/MONDO_0007529) EquivalentTo [ICD10CM:L87.2](http://apps.who.int/classifications/icd10/browse/2010/en#/L87.2)	(most probable)	0.99
 - [MONDO:0007529](http://purl.obolibrary.org/obo/MONDO_0007529) EquivalentTo [Elastosis perforans serpiginosa](http://www.orpha.net/ORDO/Orphanet_79148)	(most probable)	0.99
+- [MONDO:0007529](http://purl.obolibrary.org/obo/MONDO_0007529) EquivalentTo [ICD10CM:L87.2](http://apps.who.int/classifications/icd10/browse/2010/en#/L87.2)	(most probable)	0.99
 
 ## [MONDO:0010356](http://purl.obolibrary.org/obo/MONDO_0010356) [Nephrogenic syndrome of inappropriate antidiuresis](http://www.orpha.net/ORDO/Orphanet_93606) [OMIM:300539](https://omim.org/entry/300539)
 
@@ -29418,8 +29418,8 @@
 
 ## [HSD10 disease](http://www.orpha.net/ORDO/Orphanet_391417) [MONDO:0010327](http://purl.obolibrary.org/obo/MONDO_0010327) [OMIM:300220](https://omim.org/entry/300220) [OMIM:300438](https://omim.org/entry/300438)
 
-- [MONDO:0010327](http://purl.obolibrary.org/obo/MONDO_0010327) SiblingOf [OMIM:300220](https://omim.org/entry/300220)		0.09999999999999998
-- [MONDO:0010327](http://purl.obolibrary.org/obo/MONDO_0010327) EquivalentTo [OMIM:300438](https://omim.org/entry/300438)	(most probable)	0.8
+- [MONDO:0010327](http://purl.obolibrary.org/obo/MONDO_0010327) SiblingOf [OMIM:300438](https://omim.org/entry/300438)		0.09999999999999998
+- [MONDO:0010327](http://purl.obolibrary.org/obo/MONDO_0010327) EquivalentTo [OMIM:300220](https://omim.org/entry/300220)	(most probable)	0.8
 - [MONDO:0010327](http://purl.obolibrary.org/obo/MONDO_0010327) EquivalentTo [HSD10 disease](http://www.orpha.net/ORDO/Orphanet_391417)	(most probable)	0.99
 
 ## [Autoimmune interstitial lung disease-arthritis syndrome](http://www.orpha.net/ORDO/Orphanet_444092) [MONDO:0014629](http://purl.obolibrary.org/obo/MONDO_0014629) [OMIM:616414](https://omim.org/entry/616414)
@@ -29429,8 +29429,8 @@
 
 ## [ICD10CM:Q25.21](http://apps.who.int/classifications/icd10/browse/2010/en#/Q25.21) [MONDO:0009010](http://purl.obolibrary.org/obo/MONDO_0009010) [Orphanet:2299](http://www.orpha.net/ORDO/Orphanet_2299)
 
-- [MONDO:0009010](http://purl.obolibrary.org/obo/MONDO_0009010) EquivalentTo [ICD10CM:Q25.21](http://apps.who.int/classifications/icd10/browse/2010/en#/Q25.21)	(most probable)	0.99
 - [MONDO:0009010](http://purl.obolibrary.org/obo/MONDO_0009010) EquivalentTo [Orphanet:2299](http://www.orpha.net/ORDO/Orphanet_2299)	(most probable)	0.99
+- [MONDO:0009010](http://purl.obolibrary.org/obo/MONDO_0009010) EquivalentTo [ICD10CM:Q25.21](http://apps.who.int/classifications/icd10/browse/2010/en#/Q25.21)	(most probable)	0.99
 
 ## [Familial benign flecked retina](http://www.orpha.net/ORDO/Orphanet_363989) [MONDO:0009235](http://purl.obolibrary.org/obo/MONDO_0009235) [OMIM:228980](https://omim.org/entry/228980)
 
@@ -29469,8 +29469,8 @@
 
 ## [ICD10CM:E31.0](http://apps.who.int/classifications/icd10/browse/2010/en#/E31.0) [MONDO:0017278](http://purl.obolibrary.org/obo/MONDO_0017278) [Orphanet:282196](http://www.orpha.net/ORDO/Orphanet_282196)
 
-- [MONDO:0017278](http://purl.obolibrary.org/obo/MONDO_0017278) EquivalentTo [ICD10CM:E31.0](http://apps.who.int/classifications/icd10/browse/2010/en#/E31.0)	(most probable)	0.99
 - [MONDO:0017278](http://purl.obolibrary.org/obo/MONDO_0017278) EquivalentTo [Orphanet:282196](http://www.orpha.net/ORDO/Orphanet_282196)	(most probable)	0.99
+- [MONDO:0017278](http://purl.obolibrary.org/obo/MONDO_0017278) EquivalentTo [ICD10CM:E31.0](http://apps.who.int/classifications/icd10/browse/2010/en#/E31.0)	(most probable)	0.99
 
 ## [Adiposis dolorosa](http://www.orpha.net/ORDO/Orphanet_36397) [MONDO:0007070](http://purl.obolibrary.org/obo/MONDO_0007070) [OMIM:103200](https://omim.org/entry/103200)
 
@@ -29554,8 +29554,8 @@
 
 ## [Autosomal dominant limb-girdle muscular dystrophy type 1A](http://www.orpha.net/ORDO/Orphanet_266) [Distal myotilinopathy](http://www.orpha.net/ORDO/Orphanet_98911) [MONDO:0012215](http://purl.obolibrary.org/obo/MONDO_0012215) [OMIM:159000](https://omim.org/entry/159000) [OMIM:609200](https://omim.org/entry/609200)
 
-- [MONDO:0012215](http://purl.obolibrary.org/obo/MONDO_0012215) SiblingOf [OMIM:159000](https://omim.org/entry/159000)		0.09999999999999998
-- [MONDO:0012215](http://purl.obolibrary.org/obo/MONDO_0012215) EquivalentTo [OMIM:609200](https://omim.org/entry/609200)	(most probable)	0.8
+- [MONDO:0012215](http://purl.obolibrary.org/obo/MONDO_0012215) SiblingOf [OMIM:609200](https://omim.org/entry/609200)		0.09999999999999998
+- [MONDO:0012215](http://purl.obolibrary.org/obo/MONDO_0012215) EquivalentTo [OMIM:159000](https://omim.org/entry/159000)	(most probable)	0.8
 - [MONDO:0012215](http://purl.obolibrary.org/obo/MONDO_0012215) SiblingOf [Distal myotilinopathy](http://www.orpha.net/ORDO/Orphanet_98911)		0.0050000000000000044
 - [MONDO:0012215](http://purl.obolibrary.org/obo/MONDO_0012215) EquivalentTo [Autosomal dominant limb-girdle muscular dystrophy type 1A](http://www.orpha.net/ORDO/Orphanet_266)	(most probable)	0.99
 
@@ -29648,8 +29648,8 @@
 ## [Hereditary fructose intolerance](http://www.orpha.net/ORDO/Orphanet_469) [ICD10CM:E74.12](http://apps.who.int/classifications/icd10/browse/2010/en#/E74.12) [MONDO:0009249](http://purl.obolibrary.org/obo/MONDO_0009249) [OMIM:229600](https://omim.org/entry/229600)
 
 - [MONDO:0009249](http://purl.obolibrary.org/obo/MONDO_0009249) EquivalentTo [OMIM:229600](https://omim.org/entry/229600)	(most probable)	0.8
-- [MONDO:0009249](http://purl.obolibrary.org/obo/MONDO_0009249) EquivalentTo [ICD10CM:E74.12](http://apps.who.int/classifications/icd10/browse/2010/en#/E74.12)	(most probable)	0.99
 - [MONDO:0009249](http://purl.obolibrary.org/obo/MONDO_0009249) EquivalentTo [Hereditary fructose intolerance](http://www.orpha.net/ORDO/Orphanet_469)	(most probable)	0.99
+- [MONDO:0009249](http://purl.obolibrary.org/obo/MONDO_0009249) EquivalentTo [ICD10CM:E74.12](http://apps.who.int/classifications/icd10/browse/2010/en#/E74.12)	(most probable)	0.99
 
 ## [MONDO:0007604](http://purl.obolibrary.org/obo/MONDO_0007604) [OMIM:134780](https://omim.org/entry/134780) [Orphanet:1988](http://www.orpha.net/ORDO/Orphanet_1988)
 
@@ -29758,8 +29758,8 @@
 
 ## [Cryptosporidiosis](http://www.orpha.net/ORDO/Orphanet_1549) [ICD10CM:A07.2](http://apps.who.int/classifications/icd10/browse/2010/en#/A07.2) [MONDO:0015474](http://purl.obolibrary.org/obo/MONDO_0015474)
 
-- [MONDO:0015474](http://purl.obolibrary.org/obo/MONDO_0015474) EquivalentTo [Cryptosporidiosis](http://www.orpha.net/ORDO/Orphanet_1549)	(most probable)	0.99
 - [MONDO:0015474](http://purl.obolibrary.org/obo/MONDO_0015474) EquivalentTo [ICD10CM:A07.2](http://apps.who.int/classifications/icd10/browse/2010/en#/A07.2)	(most probable)	0.99
+- [MONDO:0015474](http://purl.obolibrary.org/obo/MONDO_0015474) EquivalentTo [Cryptosporidiosis](http://www.orpha.net/ORDO/Orphanet_1549)	(most probable)	0.99
 
 ## [MONDO:0012188](http://purl.obolibrary.org/obo/MONDO_0012188) [OMIM:609055](https://omim.org/entry/609055) [Orphanet:228357](http://www.orpha.net/ORDO/Orphanet_228357)
 
@@ -29814,8 +29814,8 @@
 ## [MONDO:0008771](http://purl.obolibrary.org/obo/MONDO_0008771) [OMIM:204690](https://omim.org/entry/204690) [Orphanet:1031](http://www.orpha.net/ORDO/Orphanet_1031) [Orphanet:171836](http://www.orpha.net/ORDO/Orphanet_171836)
 
 - [MONDO:0008771](http://purl.obolibrary.org/obo/MONDO_0008771) EquivalentTo [OMIM:204690](https://omim.org/entry/204690)	(most probable)	0.8
-- [MONDO:0008771](http://purl.obolibrary.org/obo/MONDO_0008771) SiblingOf [Orphanet:1031](http://www.orpha.net/ORDO/Orphanet_1031)		0.0050000000000000044
-- [MONDO:0008771](http://purl.obolibrary.org/obo/MONDO_0008771) EquivalentTo [Orphanet:171836](http://www.orpha.net/ORDO/Orphanet_171836)	(most probable)	0.99
+- [MONDO:0008771](http://purl.obolibrary.org/obo/MONDO_0008771) SiblingOf [Orphanet:171836](http://www.orpha.net/ORDO/Orphanet_171836)		0.0050000000000000044
+- [MONDO:0008771](http://purl.obolibrary.org/obo/MONDO_0008771) EquivalentTo [Orphanet:1031](http://www.orpha.net/ORDO/Orphanet_1031)	(most probable)	0.99
 
 ## [MONDO:0007398](http://purl.obolibrary.org/obo/MONDO_0007398) [OMIM:123050](https://omim.org/entry/123050) [Orphanet:157832](http://www.orpha.net/ORDO/Orphanet_157832)
 
@@ -29899,8 +29899,8 @@
 
 ## [Heavy chain disease](http://www.orpha.net/ORDO/Orphanet_86864) [ICD10CM:C88.2](http://apps.who.int/classifications/icd10/browse/2010/en#/C88.2) [MONDO:0019464](http://purl.obolibrary.org/obo/MONDO_0019464)
 
-- [MONDO:0019464](http://purl.obolibrary.org/obo/MONDO_0019464) EquivalentTo [ICD10CM:C88.2](http://apps.who.int/classifications/icd10/browse/2010/en#/C88.2)	(most probable)	0.99
 - [MONDO:0019464](http://purl.obolibrary.org/obo/MONDO_0019464) EquivalentTo [Heavy chain disease](http://www.orpha.net/ORDO/Orphanet_86864)	(most probable)	0.99
+- [MONDO:0019464](http://purl.obolibrary.org/obo/MONDO_0019464) EquivalentTo [ICD10CM:C88.2](http://apps.who.int/classifications/icd10/browse/2010/en#/C88.2)	(most probable)	0.99
 
 ## [MONDO:0013267](http://purl.obolibrary.org/obo/MONDO_0013267) [OMIM:613444](https://omim.org/entry/613444) [Orphanet:261222](http://www.orpha.net/ORDO/Orphanet_261222)
 
@@ -29934,8 +29934,8 @@
 
 ## [ICD10CM:A43](http://apps.who.int/classifications/icd10/browse/2010/en#/A43) [MONDO:0017776](http://purl.obolibrary.org/obo/MONDO_0017776) [Nocardiosis](http://www.orpha.net/ORDO/Orphanet_31204)
 
-- [MONDO:0017776](http://purl.obolibrary.org/obo/MONDO_0017776) EquivalentTo [ICD10CM:A43](http://apps.who.int/classifications/icd10/browse/2010/en#/A43)	(most probable)	0.99
 - [MONDO:0017776](http://purl.obolibrary.org/obo/MONDO_0017776) EquivalentTo [Nocardiosis](http://www.orpha.net/ORDO/Orphanet_31204)	(most probable)	0.99
+- [MONDO:0017776](http://purl.obolibrary.org/obo/MONDO_0017776) EquivalentTo [ICD10CM:A43](http://apps.who.int/classifications/icd10/browse/2010/en#/A43)	(most probable)	0.99
 
 ## [MONDO:0011541](http://purl.obolibrary.org/obo/MONDO_0011541) [OMIM:605362](https://omim.org/entry/605362) [Sensorineural deafness with dilated cardiomyopathy](http://www.orpha.net/ORDO/Orphanet_217622)
 
@@ -29989,8 +29989,8 @@
 
 ## [Gaucher disease](http://www.orpha.net/ORDO/Orphanet_355) [ICD10CM:E75.22](http://apps.who.int/classifications/icd10/browse/2010/en#/E75.22) [MONDO:0018150](http://purl.obolibrary.org/obo/MONDO_0018150)
 
-- [MONDO:0018150](http://purl.obolibrary.org/obo/MONDO_0018150) EquivalentTo [ICD10CM:E75.22](http://apps.who.int/classifications/icd10/browse/2010/en#/E75.22)	(most probable)	0.99
 - [MONDO:0018150](http://purl.obolibrary.org/obo/MONDO_0018150) EquivalentTo [Gaucher disease](http://www.orpha.net/ORDO/Orphanet_355)	(most probable)	0.99
+- [MONDO:0018150](http://purl.obolibrary.org/obo/MONDO_0018150) EquivalentTo [ICD10CM:E75.22](http://apps.who.int/classifications/icd10/browse/2010/en#/E75.22)	(most probable)	0.99
 
 ## [MONDO:0013053](http://purl.obolibrary.org/obo/MONDO_0013053) [OMIM:612946](https://omim.org/entry/612946) [Orphanet:217026](http://www.orpha.net/ORDO/Orphanet_217026)
 
@@ -30084,8 +30084,8 @@
 
 ## [ICD10CM:G47.24](http://apps.who.int/classifications/icd10/browse/2010/en#/G47.24) [MONDO:0019137](http://purl.obolibrary.org/obo/MONDO_0019137) [Non-24-hour sleep-wake syndrome](http://www.orpha.net/ORDO/Orphanet_73267)
 
-- [MONDO:0019137](http://purl.obolibrary.org/obo/MONDO_0019137) EquivalentTo [ICD10CM:G47.24](http://apps.who.int/classifications/icd10/browse/2010/en#/G47.24)	(most probable)	0.99
 - [MONDO:0019137](http://purl.obolibrary.org/obo/MONDO_0019137) EquivalentTo [Non-24-hour sleep-wake syndrome](http://www.orpha.net/ORDO/Orphanet_73267)	(most probable)	0.99
+- [MONDO:0019137](http://purl.obolibrary.org/obo/MONDO_0019137) EquivalentTo [ICD10CM:G47.24](http://apps.who.int/classifications/icd10/browse/2010/en#/G47.24)	(most probable)	0.99
 
 ## [MONDO:0009437](http://purl.obolibrary.org/obo/MONDO_0009437) [OMIM:241850](https://omim.org/entry/241850) [Orphanet:1226](http://www.orpha.net/ORDO/Orphanet_1226)
 
@@ -30286,8 +30286,8 @@
 
 ## [MONDO:0011401](http://purl.obolibrary.org/obo/MONDO_0011401) [OMIM:604154](https://omim.org/entry/604154) [OMIM:611155](https://omim.org/entry/611155)
 
-- [MONDO:0011401](http://purl.obolibrary.org/obo/MONDO_0011401) SiblingOf [OMIM:611155](https://omim.org/entry/611155)		0.09999999999999998
-- [MONDO:0011401](http://purl.obolibrary.org/obo/MONDO_0011401) EquivalentTo [OMIM:604154](https://omim.org/entry/604154)	(most probable)	0.8
+- [MONDO:0011401](http://purl.obolibrary.org/obo/MONDO_0011401) SiblingOf [OMIM:604154](https://omim.org/entry/604154)		0.09999999999999998
+- [MONDO:0011401](http://purl.obolibrary.org/obo/MONDO_0011401) EquivalentTo [OMIM:611155](https://omim.org/entry/611155)	(most probable)	0.8
 
 ## [Benign familial neonatal-infantile seizures](http://www.orpha.net/ORDO/Orphanet_140927) [MONDO:0011904](http://purl.obolibrary.org/obo/MONDO_0011904) [OMIM:607745](https://omim.org/entry/607745)
 
@@ -30316,8 +30316,8 @@
 
 ## [ICD10CM:D50-D89](http://apps.who.int/classifications/icd10/browse/2010/en#/D50-D89) [MONDO:0005570](http://purl.obolibrary.org/obo/MONDO_0005570) [Orphanet:97992](http://www.orpha.net/ORDO/Orphanet_97992)
 
-- [MONDO:0005570](http://purl.obolibrary.org/obo/MONDO_0005570) EquivalentTo [ICD10CM:D50-D89](http://apps.who.int/classifications/icd10/browse/2010/en#/D50-D89)	(most probable)	0.99
 - [MONDO:0005570](http://purl.obolibrary.org/obo/MONDO_0005570) EquivalentTo [Orphanet:97992](http://www.orpha.net/ORDO/Orphanet_97992)	(most probable)	0.99
+- [MONDO:0005570](http://purl.obolibrary.org/obo/MONDO_0005570) EquivalentTo [ICD10CM:D50-D89](http://apps.who.int/classifications/icd10/browse/2010/en#/D50-D89)	(most probable)	0.99
 
 ## [MONDO:0008726](http://purl.obolibrary.org/obo/MONDO_0008726) [OMIM:201750](https://omim.org/entry/201750) [Orphanet:63269](http://www.orpha.net/ORDO/Orphanet_63269)
 
@@ -30342,8 +30342,8 @@
 ## [ICD10CM:J84.02](http://apps.who.int/classifications/icd10/browse/2010/en#/J84.02) [MONDO:0009928](http://purl.obolibrary.org/obo/MONDO_0009928) [OMIM:265100](https://omim.org/entry/265100) [Pulmonary alveolar microlithiasis](http://www.orpha.net/ORDO/Orphanet_60025)
 
 - [MONDO:0009928](http://purl.obolibrary.org/obo/MONDO_0009928) EquivalentTo [OMIM:265100](https://omim.org/entry/265100)	(most probable)	0.8
-- [MONDO:0009928](http://purl.obolibrary.org/obo/MONDO_0009928) EquivalentTo [ICD10CM:J84.02](http://apps.who.int/classifications/icd10/browse/2010/en#/J84.02)	(most probable)	0.99
 - [MONDO:0009928](http://purl.obolibrary.org/obo/MONDO_0009928) EquivalentTo [Pulmonary alveolar microlithiasis](http://www.orpha.net/ORDO/Orphanet_60025)	(most probable)	0.99
+- [MONDO:0009928](http://purl.obolibrary.org/obo/MONDO_0009928) EquivalentTo [ICD10CM:J84.02](http://apps.who.int/classifications/icd10/browse/2010/en#/J84.02)	(most probable)	0.99
 
 ## [MONDO:0009839](http://purl.obolibrary.org/obo/MONDO_0009839) [OMIM:260540](https://omim.org/entry/260540) [Orphanet:240085](http://www.orpha.net/ORDO/Orphanet_240085)
 
@@ -30399,8 +30399,8 @@
 
 ## [ICD10CM:K62.7](http://apps.who.int/classifications/icd10/browse/2010/en#/K62.7) [MONDO:0019084](http://purl.obolibrary.org/obo/MONDO_0019084) [Radiation proctitis](http://www.orpha.net/ORDO/Orphanet_70475)
 
-- [MONDO:0019084](http://purl.obolibrary.org/obo/MONDO_0019084) EquivalentTo [Radiation proctitis](http://www.orpha.net/ORDO/Orphanet_70475)	(most probable)	0.99
 - [MONDO:0019084](http://purl.obolibrary.org/obo/MONDO_0019084) EquivalentTo [ICD10CM:K62.7](http://apps.who.int/classifications/icd10/browse/2010/en#/K62.7)	(most probable)	0.99
+- [MONDO:0019084](http://purl.obolibrary.org/obo/MONDO_0019084) EquivalentTo [Radiation proctitis](http://www.orpha.net/ORDO/Orphanet_70475)	(most probable)	0.99
 
 ## [MONDO:0016581](http://purl.obolibrary.org/obo/MONDO_0016581) [OMIM:217095](https://omim.org/entry/217095) [Orphanet:2445](http://www.orpha.net/ORDO/Orphanet_2445)
 
@@ -30454,8 +30454,8 @@
 
 ## [ICD10CM:L40.3](http://apps.who.int/classifications/icd10/browse/2010/en#/L40.3) [MONDO:0015597](http://purl.obolibrary.org/obo/MONDO_0015597) [Pustulosis palmaris et plantaris](http://www.orpha.net/ORDO/Orphanet_163927)
 
-- [MONDO:0015597](http://purl.obolibrary.org/obo/MONDO_0015597) EquivalentTo [Pustulosis palmaris et plantaris](http://www.orpha.net/ORDO/Orphanet_163927)	(most probable)	0.99
 - [MONDO:0015597](http://purl.obolibrary.org/obo/MONDO_0015597) EquivalentTo [ICD10CM:L40.3](http://apps.who.int/classifications/icd10/browse/2010/en#/L40.3)	(most probable)	0.99
+- [MONDO:0015597](http://purl.obolibrary.org/obo/MONDO_0015597) EquivalentTo [Pustulosis palmaris et plantaris](http://www.orpha.net/ORDO/Orphanet_163927)	(most probable)	0.99
 
 ## [MONDO:0007640](http://purl.obolibrary.org/obo/MONDO_0007640) [OMIM:136900](https://omim.org/entry/136900) [Sorsby pseudoinflammatory fundus dystrophy](http://www.orpha.net/ORDO/Orphanet_59181)
 
@@ -30550,8 +30550,8 @@
 
 ## [ICD10CM:M42](http://apps.who.int/classifications/icd10/browse/2010/en#/M42) [MONDO:0018381](http://purl.obolibrary.org/obo/MONDO_0018381) [Orphanet:399319](http://www.orpha.net/ORDO/Orphanet_399319)
 
-- [MONDO:0018381](http://purl.obolibrary.org/obo/MONDO_0018381) EquivalentTo [Orphanet:399319](http://www.orpha.net/ORDO/Orphanet_399319)	(most probable)	0.99
 - [MONDO:0018381](http://purl.obolibrary.org/obo/MONDO_0018381) EquivalentTo [ICD10CM:M42](http://apps.who.int/classifications/icd10/browse/2010/en#/M42)	(most probable)	0.99
+- [MONDO:0018381](http://purl.obolibrary.org/obo/MONDO_0018381) EquivalentTo [Orphanet:399319](http://www.orpha.net/ORDO/Orphanet_399319)	(most probable)	0.99
 
 ## [Linear nevus sebaceus syndrome](http://www.orpha.net/ORDO/Orphanet_2612) [MONDO:0008097](http://purl.obolibrary.org/obo/MONDO_0008097) [OMIM:163200](https://omim.org/entry/163200)
 
@@ -30895,8 +30895,8 @@
 
 ## [ICD10CM:E28.3](http://apps.who.int/classifications/icd10/browse/2010/en#/E28.3) [MONDO:0005387](http://purl.obolibrary.org/obo/MONDO_0005387) [Orphanet:619](http://www.orpha.net/ORDO/Orphanet_619)
 
-- [MONDO:0005387](http://purl.obolibrary.org/obo/MONDO_0005387) EquivalentTo [Orphanet:619](http://www.orpha.net/ORDO/Orphanet_619)	(most probable)	0.99
 - [MONDO:0005387](http://purl.obolibrary.org/obo/MONDO_0005387) EquivalentTo [ICD10CM:E28.3](http://apps.who.int/classifications/icd10/browse/2010/en#/E28.3)	(most probable)	0.99
+- [MONDO:0005387](http://purl.obolibrary.org/obo/MONDO_0005387) EquivalentTo [Orphanet:619](http://www.orpha.net/ORDO/Orphanet_619)	(most probable)	0.99
 
 ## [MONDO:0010803](http://purl.obolibrary.org/obo/MONDO_0010803) [OMIM:600002](https://omim.org/entry/600002) [Orphanet:79106](http://www.orpha.net/ORDO/Orphanet_79106)
 
@@ -31130,8 +31130,8 @@
 
 ## [ICD10CM:Q75.0](http://apps.who.int/classifications/icd10/browse/2010/en#/Q75.0) [MONDO:0015469](http://purl.obolibrary.org/obo/MONDO_0015469) [Orphanet:1531](http://www.orpha.net/ORDO/Orphanet_1531)
 
-- [MONDO:0015469](http://purl.obolibrary.org/obo/MONDO_0015469) EquivalentTo [Orphanet:1531](http://www.orpha.net/ORDO/Orphanet_1531)	(most probable)	0.99
 - [MONDO:0015469](http://purl.obolibrary.org/obo/MONDO_0015469) EquivalentTo [ICD10CM:Q75.0](http://apps.who.int/classifications/icd10/browse/2010/en#/Q75.0)	(most probable)	0.99
+- [MONDO:0015469](http://purl.obolibrary.org/obo/MONDO_0015469) EquivalentTo [Orphanet:1531](http://www.orpha.net/ORDO/Orphanet_1531)	(most probable)	0.99
 
 ## [MONDO:0009616](http://purl.obolibrary.org/obo/MONDO_0009616) [OMIM:251190](https://omim.org/entry/251190) [Orphanet:2643](http://www.orpha.net/ORDO/Orphanet_2643)
 
@@ -31213,8 +31213,8 @@
 
 ## [ICD10CM:Q24.1](http://apps.who.int/classifications/icd10/browse/2010/en#/Q24.1) [MONDO:0019862](http://purl.obolibrary.org/obo/MONDO_0019862) [Orphanet:95854](http://www.orpha.net/ORDO/Orphanet_95854)
 
-- [MONDO:0019862](http://purl.obolibrary.org/obo/MONDO_0019862) EquivalentTo [Orphanet:95854](http://www.orpha.net/ORDO/Orphanet_95854)	(most probable)	0.99
 - [MONDO:0019862](http://purl.obolibrary.org/obo/MONDO_0019862) EquivalentTo [ICD10CM:Q24.1](http://apps.who.int/classifications/icd10/browse/2010/en#/Q24.1)	(most probable)	0.99
+- [MONDO:0019862](http://purl.obolibrary.org/obo/MONDO_0019862) EquivalentTo [Orphanet:95854](http://www.orpha.net/ORDO/Orphanet_95854)	(most probable)	0.99
 
 ## [MONDO:0014555](http://purl.obolibrary.org/obo/MONDO_0014555) [OMIM:616265](https://omim.org/entry/616265) [Orphanet:263548](http://www.orpha.net/ORDO/Orphanet_263548)
 
@@ -31253,8 +31253,8 @@
 
 ## [ICD10CM:G47.12](http://apps.who.int/classifications/icd10/browse/2010/en#/G47.12) [MONDO:0016452](http://purl.obolibrary.org/obo/MONDO_0016452) [Orphanet:228318](http://www.orpha.net/ORDO/Orphanet_228318)
 
-- [MONDO:0016452](http://purl.obolibrary.org/obo/MONDO_0016452) EquivalentTo [ICD10CM:G47.12](http://apps.who.int/classifications/icd10/browse/2010/en#/G47.12)	(most probable)	0.99
 - [MONDO:0016452](http://purl.obolibrary.org/obo/MONDO_0016452) EquivalentTo [Orphanet:228318](http://www.orpha.net/ORDO/Orphanet_228318)	(most probable)	0.99
+- [MONDO:0016452](http://purl.obolibrary.org/obo/MONDO_0016452) EquivalentTo [ICD10CM:G47.12](http://apps.who.int/classifications/icd10/browse/2010/en#/G47.12)	(most probable)	0.99
 
 ## [MONDO:0011856](http://purl.obolibrary.org/obo/MONDO_0011856) [OMIM:607543](https://omim.org/entry/607543) [Spondylometaphyseal dysplasia-bowed forearms-facial dysmorphism syndrome](http://www.orpha.net/ORDO/Orphanet_168552)
 
