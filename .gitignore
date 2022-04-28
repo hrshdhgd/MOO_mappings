@@ -130,4 +130,4 @@ dmypy.json
 
 tmp/*
 mappings/*
-boomer_output/*.dot
+boomer_output/*
