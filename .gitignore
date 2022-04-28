@@ -129,7 +129,7 @@ dmypy.json
 .pyre/
 
 tmp/*
-mappings/*
+mappings/*.tsv
 boomer_output/*.dot
 boomer_output/*.json
 boomer_output/*.png
